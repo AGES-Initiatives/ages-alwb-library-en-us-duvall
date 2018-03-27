@@ -1,0 +1,346 @@
+A_Resource_Whose_Name = pe.d127_en_US_duvall
+
+peCommemoration.text = "" //full title of day
+peShortCommemoration1.text = ""
+peInsert1 = "" //for use in petitions and dismissal
+peInsert2 = "" //for use in petitions and dismissal
+peNote.text = ""
+peHO.daytitle = ""
+peHO.commemorations = ""
+peHO.description1 = ""
+peHO.description2 = ""
+peHO.note1 = ""
+peHO.note2 = ""
+peDismissal = //dismissals_en_US_duvall.dis00.resurrection
+
+peVE.Stichera07.mode = misc_en_US_duvall.Mode6
+peVE.Stichera07.melody = he.a.m6_en_US_duvall.OlinApothemenoi.name
+peVE.Stichera07.text = ""
+
+peVE.Stichera08.mode = misc_en_US_duvall.Mode6
+peVE.Stichera08.melody = he.a.m6_en_US_duvall.OlinApothemenoi.name
+peVE.Stichera08.text = ""
+
+peVE.Stichera09.mode = misc_en_US_duvall.Mode6
+peVE.Stichera09.melody = he.a.m6_en_US_duvall.OlinApothemenoi.name
+peVE.Stichera09.text = ""
+
+peVE.Stichera10.mode = misc_en_US_duvall.Mode6
+peVE.Stichera10.melody = he.a.m6_en_US_duvall.OlinApothemenoi.name
+peVE.Stichera10.text = ""
+
+peVE.SticGlory.mode = misc_en_US_duvall.Mode6
+peVE.SticGlory.melody = misc_en_US_duvall.Idiomelon
+peVE.SticGlory.text = ""
+
+peVE.Lity1.mode = misc_en_US_duvall.Mode1
+peVE.Lity1.melody = misc_en_US_duvall.Idiomelon
+peVE.Lity1.text = ""
+
+peVE.Lity2.mode = misc_en_US_duvall.Mode1
+peVE.Lity2.melody = misc_en_US_duvall.Idiomelon
+peVE.Lity2.text = ""
+
+peVE.Lity3.mode = misc_en_US_duvall.Mode1
+peVE.Lity3.melody = misc_en_US_duvall.Idiomelon
+peVE.Lity3.text = ""
+
+peVE.LityGlory.mode = misc_en_US_duvall.Mode5
+peVE.LityGlory.melody = misc_en_US_duvall.Idiomelon
+peVE.LityGlory.text = ""
+
+peVE.LityBoth.mode = misc_en_US_duvall.Mode5
+peVE.LityBoth.melody = ""
+peVE.LityBoth.text = oc.m5.d1_en_US_duvall.ocVE.AposTheotokion.text
+
+peVE.AposGlory.mode = misc_en_US_duvall.Mode6
+peVE.AposGlory.melody = ""
+peVE.AposGlory.text = ""
+
+peVE.AposBoth.mode = misc_en_US_duvall.Mode6
+peVE.AposBoth.melody = ""
+peVE.AposBoth.text = oc.m6.d1_en_US_duvall.ocVE.AposTheotokion.text
+
+peVE.Apolytikion1.mode = oc.m8.d1_en_US_duvall.ocVE.Apolytikion.mode
+peVE.Apolytikion1.melody = ""
+peVE.Apolytikion1.text = oc.m8.d1_en_US_duvall.ocVE.Apolytikion.text
+
+peVE.Apolytikion2.mode = misc_en_US_duvall.Mode4
+peVE.Apolytikion2.melody = ""
+peVE.Apolytikion2.text = ""
+
+peVE.Apolytikion3.mode = oc.m4.d1_en_US_duvall.ocVE.ApolTheotokionVM.mode
+peVE.Apolytikion3.melody = ""
+peVE.Apolytikion3.text = oc.m4.d1_en_US_duvall.ocVE.ApolTheotokionVM.text
+
+peMA.Kathisma11.mode = oc.m8.d1_en_US_duvall.ocMA.Kathisma11.mode
+peMA.Kathisma11.melody = oc.m8.d1_en_US_duvall.ocMA.Kathisma11.melody
+peMA.Kathisma11.text = oc.m8.d1_en_US_duvall.ocMA.Kathisma11.text
+
+peMA.Kathisma12.mode = oc.m8.d1_en_US_duvall.ocMA.Kathisma21.mode
+peMA.Kathisma12.melody = ""
+peMA.Kathisma12.text = oc.m8.d1_en_US_duvall.ocMA.Kathisma21.text
+
+peMA.Kathisma13.mode = oc.m8.d1_en_US_duvall.ocVE.ApolTheotokionVM.mode
+peMA.Kathisma13.melody = ""
+peMA.Kathisma13.text = oc.m8.d1_en_US_duvall.ocVE.ApolTheotokionVM.text
+
+peMA.Kathisma21.mode = misc_en_US_duvall.Mode8
+peMA.Kathisma21.melody = he.a.m8_en_US_duvall.ToProstachthen.name
+peMA.Kathisma21.text = ""
+
+peMA.Kathisma22.mode = oc.m8.d1_en_US_duvall.ocMA.Kathisma12.mode
+peMA.Kathisma22.melody = oc.m8.d1_en_US_duvall.ocMA.Kathisma12.melody
+peMA.Kathisma22.text = oc.m8.d1_en_US_duvall.ocMA.Kathisma12.text
+
+peMA.Kathisma23.mode = oc.m8.d1_en_US_duvall.ocMA.Kathisma23.mode
+peMA.Kathisma23.melody = ""
+peMA.Kathisma23.text = oc.m8.d1_en_US_duvall.ocMA.Kathisma23.text
+
+peMA.C1Acrostic.text = ""
+
+peMA.C1.title = //titles_en_US_duvall.KanonTonAgion
+peMA.C1.verse = //prayers_en_US_duvall.verse_SaintsM.text
+
+peMA.Ode1C11.ode = misc_en_US_duvall.Ode1
+peMA.Ode1C11.mode = misc_en_US_duvall.Mode8
+peMA.Ode1C11.melody = he.h.m8_en_US_duvall.ArmatilatinFarao.name
+peMA.Ode1C11.text = "" 
+
+peMA.Ode1C12.ode = misc_en_US_duvall.Ode1
+peMA.Ode1C12.mode = misc_en_US_duvall.Mode8
+peMA.Ode1C12.melody = he.h.m8_en_US_duvall.ArmatilatinFarao.name
+peMA.Ode1C12.text = "" 
+
+peMA.Ode1C13.ode = misc_en_US_duvall.Ode1
+peMA.Ode1C13.mode = misc_en_US_duvall.Mode8
+peMA.Ode1C13.melody = he.h.m8_en_US_duvall.ArmatilatinFarao.name
+peMA.Ode1C13.text = "" 
+
+peMA.Ode1C14.ode = misc_en_US_duvall.Ode1
+peMA.Ode1C14.mode = misc_en_US_duvall.Mode8
+peMA.Ode1C14.melody = he.h.m8_en_US_duvall.ArmatilatinFarao.name
+peMA.Ode1C14.text = "" 
+
+peMA.Ode1C1T.ode = misc_en_US_duvall.Ode1
+peMA.Ode1C1T.mode = misc_en_US_duvall.Mode8
+peMA.Ode1C1T.melody = he.h.m8_en_US_duvall.ArmatilatinFarao.name
+peMA.Ode1C1T.text = ""
+
+peMA.Ode3C11.ode = misc_en_US_duvall.Ode3
+peMA.Ode3C11.mode = misc_en_US_duvall.Mode8
+peMA.Ode3C11.melody = he.h.m8_en_US_duvall.OStereosasKatArchas.name
+peMA.Ode3C11.text = "" 
+
+peMA.Ode3C12.ode = misc_en_US_duvall.Ode3
+peMA.Ode3C12.mode = misc_en_US_duvall.Mode8
+peMA.Ode3C12.melody = he.h.m8_en_US_duvall.OStereosasKatArchas.name
+peMA.Ode3C12.text = "" 
+
+peMA.Ode3C13.ode = misc_en_US_duvall.Ode3
+peMA.Ode3C13.mode = misc_en_US_duvall.Mode8
+peMA.Ode3C13.melody = he.h.m8_en_US_duvall.OStereosasKatArchas.name
+peMA.Ode3C13.text = "" 
+
+peMA.Ode3C1T.ode = misc_en_US_duvall.Ode3
+peMA.Ode3C1T.mode = misc_en_US_duvall.Mode8
+peMA.Ode3C1T.melody = he.h.m8_en_US_duvall.OStereosasKatArchas.name
+peMA.Ode3C1T.text = ""
+
+peMA.Ode3Kathisma1.mode = misc_en_US_duvall.Mode8
+peMA.Ode3Kathisma1.melody = he.a.m8_en_US_duvall.TinSofianKaiLogon.name
+peMA.Ode3Kathisma1.text = ""
+
+peMA.Ode3Kathisma2.mode = misc_en_US_duvall.Mode8
+peMA.Ode3Kathisma2.melody = he.a.m8_en_US_duvall.TinSofianKaiLogon.name
+peMA.Ode3Kathisma2.text = ""
+
+peMA.Ode4C11.ode = misc_en_US_duvall.Ode4
+peMA.Ode4C11.mode = misc_en_US_duvall.Mode8
+peMA.Ode4C11.melody = he.h.m8_en_US_duvall.SyMouIschys.name
+peMA.Ode4C11.text = "" 
+
+peMA.Ode4C12.ode = misc_en_US_duvall.Ode4
+peMA.Ode4C12.mode = misc_en_US_duvall.Mode8
+peMA.Ode4C12.melody = he.h.m8_en_US_duvall.SyMouIschys.name
+peMA.Ode4C12.text = "" 
+
+peMA.Ode4C13.ode = misc_en_US_duvall.Ode4
+peMA.Ode4C13.mode = misc_en_US_duvall.Mode8
+peMA.Ode4C13.melody = he.h.m8_en_US_duvall.SyMouIschys.name
+peMA.Ode4C13.text = "" 
+
+peMA.Ode4C14.ode = misc_en_US_duvall.Ode4
+peMA.Ode4C14.mode = misc_en_US_duvall.Mode8
+peMA.Ode4C14.melody = he.h.m8_en_US_duvall.SyMouIschys.name
+peMA.Ode4C14.text = "" 
+
+peMA.Ode4C1T.ode = misc_en_US_duvall.Ode4
+peMA.Ode4C1T.mode = misc_en_US_duvall.Mode8
+peMA.Ode4C1T.melody = he.h.m8_en_US_duvall.SyMouIschys.name
+peMA.Ode4C1T.text = ""
+
+peMA.Ode5C11.ode = misc_en_US_duvall.Ode5
+peMA.Ode5C11.mode = misc_en_US_duvall.Mode8
+peMA.Ode5C11.melody = he.h.m8_en_US_duvall.InaTiMeAposo.name
+peMA.Ode5C11.text = "" 
+
+peMA.Ode5C12.ode = misc_en_US_duvall.Ode5
+peMA.Ode5C12.mode = misc_en_US_duvall.Mode8
+peMA.Ode5C12.melody = he.h.m8_en_US_duvall.InaTiMeAposo.name
+peMA.Ode5C12.text = "" 
+
+peMA.Ode5C13.ode = misc_en_US_duvall.Ode5
+peMA.Ode5C13.mode = misc_en_US_duvall.Mode8
+peMA.Ode5C13.melody = he.h.m8_en_US_duvall.InaTiMeAposo.name
+peMA.Ode5C13.text = "" 
+
+peMA.Ode5C1T.ode = misc_en_US_duvall.Ode5
+peMA.Ode5C1T.mode = misc_en_US_duvall.Mode8
+peMA.Ode5C1T.melody = he.h.m8_en_US_duvall.InaTiMeAposo.name
+peMA.Ode5C1T.text = ""
+
+peMA.Ode6C11.ode = misc_en_US_duvall.Ode6
+peMA.Ode6C11.mode = misc_en_US_duvall.Mode8
+peMA.Ode6C11.melody = he.h.m8_en_US_duvall.IlasthitiMoiSotir.name
+peMA.Ode6C11.text = "" 
+
+peMA.Ode6C12.ode = misc_en_US_duvall.Ode6
+peMA.Ode6C12.mode = misc_en_US_duvall.Mode8
+peMA.Ode6C12.melody = he.h.m8_en_US_duvall.IlasthitiMoiSotir.name
+peMA.Ode6C12.text = "" 
+
+peMA.Ode6C13.ode = misc_en_US_duvall.Ode6
+peMA.Ode6C13.mode = misc_en_US_duvall.Mode8
+peMA.Ode6C13.melody = he.h.m8_en_US_duvall.IlasthitiMoiSotir.name
+peMA.Ode6C13.text = "" 
+
+peMA.Ode6C1T.ode = misc_en_US_duvall.Ode6
+peMA.Ode6C1T.mode = misc_en_US_duvall.Mode8
+peMA.Ode6C1T.melody = he.h.m8_en_US_duvall.IlasthitiMoiSotir.name
+peMA.Ode6C1T.text = ""
+
+peMA.Kontakion1.mode = misc_en_US_duvall.Mode8
+peMA.Kontakion1.melody = misc_en_US_duvall.Automelon
+peMA.Kontakion1.text = he.a.m8_en_US_duvall.OsAparchas.text 
+
+peMA.Oikos1.text = "Those who were martyred throughout the earth, and those who moved their homes to the heavens, the imitators of Christ's suffering, and those who remove from us our suffering, here today are gathered, shown to be the first fruits of the Church, having held it as the type of that above. And they cried out to Christ, \"You are my God; preserve me. This, through the Theotokos, as You are most merciful.\""
+
+peMA.Synaxarion.commemoration.text = "On this day, the Sunday after Pentecost, we celebrate the feast of All Saints, who are from every part of the world, those in Asia, Africa, Europe and America, from the North and from the South."
+peMA.Synaxarion.couplet1.title = //titles_en_US_duvall.Stichoi
+peMA.Synaxarion.couplet1.verse1 = "I sing praises to all the Friends of my Lord."
+peMA.Synaxarion.couplet1.verse2 = "If one is so destined, to their number be added."
+peMA.Synaxarion.narration1.p01.text = "[paragraph 01]"
+peMA.Synaxarion.narration1.p02.text = "[paragraph 02]"
+peMA.Synaxarion.narration1.p03.text = "[paragraph 03]"
+peMA.Synaxarion.narration1.p04.text = "[paragraph 04]"
+peMA.Synaxarion.narration1.p05.text = "[paragraph 05]"
+peMA.Synaxarion.narration1.p06.text = "[paragraph 06]"
+peMA.Synaxarion.narration1.p07.text = "[paragraph 07]"
+peMA.Synaxarion.narration2.p01.text = "[paragraph 01]"
+peMA.Synaxarion.narration2.p02.text = "[paragraph 02]"
+peMA.Synaxarion.narration2.p03.text = "[paragraph 03]"
+peMA.Synaxarion.narration2.p04.text = "[paragraph 04]"
+peMA.Synaxarion.narration2.p05.text = "[paragraph 05]"
+peMA.Synaxarion.narration2.p06.text = "[paragraph 06]"
+peMA.Synaxarion.narration2.p07.text = "[paragraph 07]"
+peMA.Synaxarion.lastline.text = "By the intercessions of Your immaculate Mother, O Christ our God, and of all Your Saints from every age, have mercy on us and save us, as You alone are good and love humanity. Amen."
+
+peMA.Ode7C11.ode = misc_en_US_duvall.Ode7
+peMA.Ode7C11.mode = misc_en_US_duvall.Mode8
+peMA.Ode7C11.melody = he.h.m8_en_US_duvall.TheouSynkatavasin.name
+peMA.Ode7C11.text = "" 
+
+peMA.Ode7C12.ode = misc_en_US_duvall.Ode7
+peMA.Ode7C12.mode = misc_en_US_duvall.Mode8
+peMA.Ode7C12.melody = he.h.m8_en_US_duvall.TheouSynkatavasin.name
+peMA.Ode7C12.text = "" 
+
+peMA.Ode7C13.ode = misc_en_US_duvall.Ode7
+peMA.Ode7C13.mode = misc_en_US_duvall.Mode8
+peMA.Ode7C13.melody = he.h.m8_en_US_duvall.TheouSynkatavasin.name
+peMA.Ode7C13.text = "" 
+
+peMA.Ode7C14.ode = misc_en_US_duvall.Ode7
+peMA.Ode7C14.mode = misc_en_US_duvall.Mode8
+peMA.Ode7C14.melody = he.h.m8_en_US_duvall.TheouSynkatavasin.name
+peMA.Ode7C14.text = "" 
+
+peMA.Ode7C1T.ode = misc_en_US_duvall.Ode7
+peMA.Ode7C1T.mode = misc_en_US_duvall.Mode8
+peMA.Ode7C1T.melody = he.h.m8_en_US_duvall.TheouSynkatavasin.name
+peMA.Ode7C1T.text = ""
+
+peMA.Ode8C11.ode = misc_en_US_duvall.Ode8
+peMA.Ode8C11.mode = misc_en_US_duvall.Mode8
+peMA.Ode8C11.melody = he.h.m8_en_US_duvall.EptaplasiosKaminon.name
+peMA.Ode8C11.text = "" 
+
+peMA.Ode8C12.ode = misc_en_US_duvall.Ode8
+peMA.Ode8C12.mode = misc_en_US_duvall.Mode8
+peMA.Ode8C12.melody = he.h.m8_en_US_duvall.EptaplasiosKaminon.name
+peMA.Ode8C12.text = "" 
+
+peMA.Ode8C13.ode = misc_en_US_duvall.Ode8
+peMA.Ode8C13.mode = misc_en_US_duvall.Mode8
+peMA.Ode8C13.melody = he.h.m8_en_US_duvall.EptaplasiosKaminon.name
+peMA.Ode8C13.text = "" 
+
+peMA.Ode8C1T.ode = misc_en_US_duvall.Ode8
+peMA.Ode8C1T.mode = misc_en_US_duvall.Mode8
+peMA.Ode8C1T.melody = he.h.m8_en_US_duvall.EptaplasiosKaminon.name
+peMA.Ode8C1T.text = ""
+
+peMA.Ode9C11.ode = misc_en_US_duvall.Ode9
+peMA.Ode9C11.mode = misc_en_US_duvall.Mode8
+peMA.Ode9C11.melody = he.h.m8_en_US_duvall.ExestiEpiTouto.name
+peMA.Ode9C11.text = "" 
+
+peMA.Ode9C12.ode = misc_en_US_duvall.Ode9
+peMA.Ode9C12.mode = misc_en_US_duvall.Mode8
+peMA.Ode9C12.melody = he.h.m8_en_US_duvall.ExestiEpiTouto.name
+peMA.Ode9C12.text = "" 
+
+peMA.Ode9C13.ode = misc_en_US_duvall.Ode9
+peMA.Ode9C13.mode = misc_en_US_duvall.Mode8
+peMA.Ode9C13.melody = he.h.m8_en_US_duvall.ExestiEpiTouto.name
+peMA.Ode9C13.text = "" 
+
+peMA.Ode9C1T.ode = misc_en_US_duvall.Ode9
+peMA.Ode9C1T.mode = misc_en_US_duvall.Mode8
+peMA.Ode9C1T.melody = he.h.m8_en_US_duvall.ExestiEpiTouto.name
+peMA.Ode9C1T.text = ""
+
+peMA.Exaposteilarion1.mode = misc_en_US_duvall.Mode2
+peMA.Exaposteilarion1.melody = he.a.m2_en_US_duvall.ToisMathitaisSynelthomen.name
+peMA.Exaposteilarion1.text = ""
+
+peMA.ExapTheotokion.mode = misc_en_US_duvall.Mode2
+peMA.ExapTheotokion.melody = he.a.m2_en_US_duvall.ToisMathitaisSynelthomen.name
+peMA.ExapTheotokion.text = ""
+
+peMA.Lauds6.mode = misc_en_US_duvall.Mode4
+peMA.Lauds6.melody = he.a.m4_en_US_duvall.OsGennaionEnMartysi.name
+peMA.Lauds6.text = ""
+
+peMA.LaudsVerse7.text = ""
+
+peMA.Lauds7.mode = misc_en_US_duvall.Mode4
+peMA.Lauds7.melody = he.a.m4_en_US_duvall.OsGennaionEnMartysi.name
+peMA.Lauds7.text = ""
+
+peMA.LaudsVerse8.text = ""
+
+peMA.Lauds8.mode = misc_en_US_duvall.Mode4
+peMA.Lauds8.melody = he.a.m4_en_US_duvall.OsGennaionEnMartysi.name
+peMA.Lauds8.text = ""
+
+peMA.Lauds345 = properties_en_US_duvall.media.key
+
+peLI.Kontakion1.mode = peMA.Kontakion1.mode
+peLI.Kontakion1.melody = peMA.Kontakion1.melody
+peLI.Kontakion1.text = peMA.Kontakion1.text
+
+peLI.MM.CommunionHymn.text = properties_en_US_duvall.media.key
+
+peMegalynarion.text = ""

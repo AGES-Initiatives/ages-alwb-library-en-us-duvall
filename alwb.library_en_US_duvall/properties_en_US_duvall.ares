@@ -1,0 +1,18 @@
+A_Resource_Whose_Name = properties_en_US_duvall
+
+version.designation = "GKD"
+version.translator = "George K. Duvall"
+
+version.notice1 = ""
+
+version.copyright1 = "Copyright © 2017 by Geroge K. Duvall"
+version.copyright2 = "Used by permission."
+version.copyright3 = ""
+
+contact.address_1 = ""
+contact.address_2 = ""
+contact.address_3 = ""
+contact.phone = ""
+contact.email = "george.d@cox.net"
+
+media.key = "For media only."
