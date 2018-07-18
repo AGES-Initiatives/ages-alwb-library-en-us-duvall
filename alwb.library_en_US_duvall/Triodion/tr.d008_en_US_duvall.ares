@@ -141,22 +141,22 @@ trMA.Ode5C1T.mode = misc_en_US_duvall.Mode2
 trMA.Ode5C1T.melody = he.h.m2_en_US_duvall.TisNyktosDielthousis.name
 trMA.Ode5C1T.text = ""
 
-trMA.Ode6C11.ode = misc_en_US_duvall.Ode5
+trMA.Ode6C11.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C11.mode = misc_en_US_duvall.Mode2
 trMA.Ode6C11.melody = he.h.m2_en_US_duvall.VythoAmartimaton.name
 trMA.Ode6C11.text = ""
 
-trMA.Ode6C12.ode = misc_en_US_duvall.Ode5
+trMA.Ode6C12.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C12.mode = misc_en_US_duvall.Mode2
 trMA.Ode6C12.melody = he.h.m2_en_US_duvall.VythoAmartimaton.name
 trMA.Ode6C12.text = ""
 
-trMA.Ode6C13.ode = misc_en_US_duvall.Ode5
+trMA.Ode6C13.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C13.mode = misc_en_US_duvall.Mode2
 trMA.Ode6C13.melody = he.h.m2_en_US_duvall.VythoAmartimaton.name
 trMA.Ode6C13.text = ""
 
-trMA.Ode6C1T.ode = misc_en_US_duvall.Ode5
+trMA.Ode6C1T.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C1T.mode = misc_en_US_duvall.Mode2
 trMA.Ode6C1T.melody = he.h.m2_en_US_duvall.VythoAmartimaton.name
 trMA.Ode6C1T.text = ""
@@ -276,6 +276,8 @@ trMA.Lauds2.text = "Like the Prodigal Son, I too, have come, O compassionate one
 trMA.Lauds3.mode = misc_en_US_duvall.Mode8
 trMA.Lauds3.melody = misc_en_US_duvall.Idiomelon
 trMA.Lauds3.text = "I exhausted the wealth of my father's holdings, and have consumed them; I have become destitute, dwelling in the land of wicked citizens. No longer able to bear their company, I return and cry to You, the compassionate Father, \"I have sinned against heaven and before You, and I am not worthy to be called Your son. Treat me as one of Your hirelings, O God, and have mercy on me.\""
+
+trMA.MM.Lauds12as45.text = properties_en_US_duvall.media.key
 
 trMA.LaudsGlory.mode = misc_en_US_duvall.Mode6
 trMA.LaudsGlory.melody = misc_en_US_duvall.Idiomelon

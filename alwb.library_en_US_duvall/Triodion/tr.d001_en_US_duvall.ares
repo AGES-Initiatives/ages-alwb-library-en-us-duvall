@@ -370,6 +370,7 @@ trMA.Lauds4.melody = misc_en_US_duvall.Idiomelon
 trMA.Lauds4.text = "Loathing the vaunting voice of the Pharisee, yet emulating the compunctious prayer of the Publican, let us not be haughty, O faithful, but rather humbling ourselves, with compunction let us cry, \"O God, have mercy and forgive our sins.\""
 
 trMA.MM.Lauds12as45.text = properties_en_US_duvall.media.key
+trMA.MM.Lauds123as345.text = properties_en_US_duvall.media.key
 
 trMA.LaudsGlory.mode = misc_en_US_duvall.Mode8
 trMA.LaudsGlory.melody = misc_en_US_duvall.Idiomelon
