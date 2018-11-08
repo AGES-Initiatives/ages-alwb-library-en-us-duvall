@@ -32,6 +32,11 @@ meVE.AposGlory.mode = misc_en_US_duvall.Mode8
 meVE.AposGlory.melody = misc_en_US_duvall.Idiomelon
 meVE.AposGlory.text = "Come faithful, let us hasten to the Virgin. Behold, she is born, who before entering the womb was destined to be the Mother of our God, the heirloom of virginity, the blossoming rod of Aaron, from the root of Jesse, the counsel of the Prophets, and the sprout of the righteous Joachim and Anna. She is now born, and the world is renewed with her. She is begotten and the Church is adorned in her comeliness. Holy temple, vessel of divinity, model of virgins, royal chamber, in whom the strange mystery and preternatural union of Christ’s two natures was accomplished. Worshiping Him, we praise the Virgin’s all-immaculate nativity."
 
+meMA.PostGospelIdiomelon.poet = //poets_en_US_duvall.GermanouPatriarchou
+meMA.PostGospelIdiomelon.mode = misc_en_US_duvall.Mode4
+meMA.PostGospelIdiomelon.melody = ""
+meMA.PostGospelIdiomelon.text = meVE.Aposticha1.text
+
 meMA.Kontakion1.mode = misc_en_US_duvall.Mode4
 meMA.Kontakion1.melody = ""
 meMA.Kontakion1.text = "Both Joachim and Anna from their sterility's stigma, and Adam and Eve from their mortality's ruin have been set free, O immaculate Maid, by your holy nativity. For this do your people hold celebration, redeemed from the guilt of transgression as they cry to you, \"The barren one bears the Theotokos, the nourisher of our Life.\""
