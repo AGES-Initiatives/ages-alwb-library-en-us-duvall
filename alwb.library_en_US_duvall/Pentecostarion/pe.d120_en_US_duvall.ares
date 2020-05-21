@@ -78,7 +78,7 @@ peVE.Aposticha2.text = ""
 
 peVE.Aposticha3.mode = misc_en_US_duvall.Mode6
 peVE.Aposticha3.melody = misc_en_US_duvall.Idiomelon
-peVE.Aposticha3.text = //prayers_en_US_duvall.VasilefOuranie.text
+peVE.Aposticha3.text = ""
 
 peVE.AposGlory.mode = misc_en_US_duvall.Mode8
 peVE.AposGlory.melody = misc_en_US_duvall.Idiomelon
@@ -112,7 +112,7 @@ peMA.PostGospelBoth.text = //ho.s03_en_US_duvall.hoMA.PostGospelTheotokos.text
 
 peMA.PostGospelIdiomelon.mode = misc_en_US_duvall.Mode6
 peMA.PostGospelIdiomelon.melody = misc_en_US_duvall.Idiomelon
-peMA.PostGospelIdiomelon.text = //prayers_en_US_duvall.VasilefOuranie.text
+peMA.PostGospelIdiomelon.text = peVE.Aposticha3.text
 
 peMA.C1Poet = //poets_en_US_duvall.KosmaMonachou
 peMA.C1Acrostic.text = ""
@@ -557,9 +557,11 @@ peMA.Lauds3.mode = misc_en_US_duvall.Mode4
 peMA.Lauds3.melody = ""
 peMA.Lauds3.text = ""
 
+peMA.MM.Lauds123as123.text = properties_en_US_duvall.media.key
+
 peMA.LaudsGlory.mode = misc_en_US_duvall.Mode6
 peMA.LaudsGlory.melody = misc_en_US_duvall.Idiomelon
-peMA.LaudsGlory.text = //prayers_en_US_duvall.VasilefOuranie.text
+peMA.LaudsGlory.text = peVE.Aposticha3.text
 
 peLI.Antiphon2.text = ""
 
