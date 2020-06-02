@@ -13,6 +13,18 @@ peHO.note1 = ""
 peHO.note2 = ""
 peDismissal = //dismissals_en_US_duvall.dis00.andascension
 
+peVE.Stichera04.mode = misc_en_US_duvall.Mode6
+peVE.Stichera04.melody = misc_en_US_duvall.Idiomelon
+peVE.Stichera04.text = pe.d110_en_US_duvall.peVE.Stichera01.text
+
+peVE.Stichera05.mode = misc_en_US_duvall.Mode6
+peVE.Stichera05.melody = misc_en_US_duvall.Idiomelon
+peVE.Stichera05.text = pe.d110_en_US_duvall.peVE.Stichera02.text
+
+peVE.Stichera06.mode = misc_en_US_duvall.Mode6
+peVE.Stichera06.melody = misc_en_US_duvall.Idiomelon
+peVE.Stichera06.text = pe.d110_en_US_duvall.peVE.Stichera03.text
+
 peVE.Stichera07.mode = misc_en_US_duvall.Mode6
 peVE.Stichera07.melody = he.a.m6_en_US_duvall.IApegnosmeni.name
 peVE.Stichera07.text = ""
