@@ -17,7 +17,7 @@ meVE.Stichera06.text = "Today, Anne the barren one gives birth to the Maiden of 
 meVE.Aposticha1.poet = //poets_en_US_duvall.GermanouPatriarchou
 meVE.Aposticha1.mode = misc_en_US_duvall.Mode4
 meVE.Aposticha1.melody = misc_en_US_duvall.Idiomelon
-meVE.Aposticha1.text = "Joy for all the world has dawned on us of righteous parentage; of Joachim and Anna comes the all-lauded Virgin. Through a super-excellent kindness, a soul-endowed temple of God she comes to be, and she alone in truthfulness as Theotokos is known to be. At her supplication, O Christ our God, to the world send down Your peace and tranquility, and to our souls Your great mercy."
+meVE.Aposticha1.text = me.m09.d07_en_US_duvall.meVE.AposGlory.text
 
 meVE.Aposticha2.mode = misc_en_US_duvall.Mode4
 meVE.Aposticha2.melody = misc_en_US_duvall.Idiomelon
@@ -31,7 +31,7 @@ meVE.AposGlory.text = "Come faithful, let us hasten to the Virgin. Behold, she i
 meMA.PostGospelIdiomelon.poet = //poets_en_US_duvall.GermanouPatriarchou
 meMA.PostGospelIdiomelon.mode = misc_en_US_duvall.Mode4
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.text = meVE.Aposticha1.text
+meMA.PostGospelIdiomelon.text = me.m09.d07_en_US_duvall.meVE.AposGlory.text
 
 meMA.Kontakion1.mode = misc_en_US_duvall.Mode4
 meMA.Kontakion1.melody = ""
