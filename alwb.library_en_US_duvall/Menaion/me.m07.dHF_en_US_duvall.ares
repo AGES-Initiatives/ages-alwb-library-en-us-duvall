@@ -32,6 +32,8 @@ meVE.Stichera04.mode = misc_en_US_duvall.Mode6
 meVE.Stichera04.melody = he.a.m6_en_US_duvall.OlinApothemenoi.name
 meVE.Stichera04.text = ""
 
+meVE.MM.Stichera123as567.text = properties_en_US_duvall.media.key
+
 meVE.SticGlory.mode = misc_en_US_duvall.Mode6
 meVE.SticGlory.melody = ""
 meVE.SticGlory.text = ""
@@ -429,7 +431,7 @@ meMA.Lauds3.mode = misc_en_US_duvall.Mode6
 meMA.Lauds3.melody = he.a.m6_en_US_duvall.OlinApothemenoi.name
 meMA.Lauds3.text = ""
 
-meMA.Lauds345.text = "" // for media
+meMA.MM.Lauds123as345.text = properties_en_US_duvall.media.key
 
 meMA.LaudsGlory.mode = misc_en_US_duvall.Mode8
 meMA.LaudsGlory.melody = ""
