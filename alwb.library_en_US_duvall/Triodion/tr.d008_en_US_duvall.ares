@@ -48,121 +48,121 @@ trMA.PostGospelIdiomelon.mode = misc_en_US_duvall.Mode6
 trMA.PostGospelIdiomelon.melody = ""
 trMA.PostGospelIdiomelon.text = tr.d001_en_US_duvall.trMA.PostGospelIdiomelon.text
 
-trMA.C1Poet = //poets_en_US_duvall.KyriouIosif
+trMA.C1.poet = //poets_en_US_duvall.KyriouIosif
 
 trMA.C1.title = //titles_en_US_duvall.KanonTouTriodiou
 trMA.C1.verse = //prayers_en_US_duvall.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C11.mode = misc_en_US_duvall.Mode2
-trMA.Ode1C11.melody = he.h.m2_en_US_duvall.TinMoseosOdin.name
+trMA.Ode1C11.melody = he.h.m2_en_US_duvall.TinMoseosOdin.incipit
 trMA.Ode1C11.text = ""
 
 trMA.Ode1C12.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C12.mode = misc_en_US_duvall.Mode2
-trMA.Ode1C12.melody = he.h.m2_en_US_duvall.TinMoseosOdin.name
+trMA.Ode1C12.melody = he.h.m2_en_US_duvall.TinMoseosOdin.incipit
 trMA.Ode1C12.text = ""
 
 trMA.Ode1C13.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C13.mode = misc_en_US_duvall.Mode2
-trMA.Ode1C13.melody = he.h.m2_en_US_duvall.TinMoseosOdin.name
+trMA.Ode1C13.melody = he.h.m2_en_US_duvall.TinMoseosOdin.incipit
 trMA.Ode1C13.text = ""
 
 trMA.Ode1C1T.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C1T.mode = misc_en_US_duvall.Mode2
-trMA.Ode1C1T.melody = he.h.m2_en_US_duvall.TinMoseosOdin.name
+trMA.Ode1C1T.melody = he.h.m2_en_US_duvall.TinMoseosOdin.incipit
 trMA.Ode1C1T.text = ""
 
 trMA.Ode3C11.ode = misc_en_US_duvall.Ode3
 trMA.Ode3C11.mode = misc_en_US_duvall.Mode2
-trMA.Ode3C11.melody = he.h.m2_en_US_duvall.SteirothentaMouTonNoun.name
+trMA.Ode3C11.melody = he.h.m2_en_US_duvall.SteirothentaMouTonNoun.incipit
 trMA.Ode3C11.text = ""
 
 trMA.Ode3C12.ode = misc_en_US_duvall.Ode3
 trMA.Ode3C12.mode = misc_en_US_duvall.Mode2
-trMA.Ode3C12.melody = he.h.m2_en_US_duvall.SteirothentaMouTonNoun.name
+trMA.Ode3C12.melody = he.h.m2_en_US_duvall.SteirothentaMouTonNoun.incipit
 trMA.Ode3C12.text = ""
 
 trMA.Ode3C13.ode = misc_en_US_duvall.Ode3
 trMA.Ode3C13.mode = misc_en_US_duvall.Mode2
-trMA.Ode3C13.melody = he.h.m2_en_US_duvall.SteirothentaMouTonNoun.name
+trMA.Ode3C13.melody = he.h.m2_en_US_duvall.SteirothentaMouTonNoun.incipit
 trMA.Ode3C13.text = ""
 
 trMA.Ode3C1T.ode = misc_en_US_duvall.Ode3
 trMA.Ode3C1T.mode = misc_en_US_duvall.Mode2
-trMA.Ode3C1T.melody = he.h.m2_en_US_duvall.SteirothentaMouTonNoun.name
+trMA.Ode3C1T.melody = he.h.m2_en_US_duvall.SteirothentaMouTonNoun.incipit
 trMA.Ode3C1T.text = ""
 
 trMA.Ode3Kathisma1.mode = misc_en_US_duvall.Mode1
-trMA.Ode3Kathisma1.melody = he.a.m1_en_US_duvall.TonTafonSouSotir.name
+trMA.Ode3Kathisma1.melody = he.a.m1_en_US_duvall.TonTafonSouSotir.incipit
 trMA.Ode3Kathisma1.text = //oc.m1.d2_en_US_duvall.ocMA.Kathisma21.text
 
 trMA.Ode3Kathisma2.mode = misc_en_US_duvall.Mode1
-trMA.Ode3Kathisma2.melody = he.a.m1_en_US_duvall.TonTafonSouSotir.name
+trMA.Ode3Kathisma2.melody = he.a.m1_en_US_duvall.TonTafonSouSotir.incipit
 trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode4C11.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C11.mode = misc_en_US_duvall.Mode2
-trMA.Ode4C11.melody = he.h.m2_en_US_duvall.TinEkParthenou.name
+trMA.Ode4C11.melody = he.h.m2_en_US_duvall.TinEkParthenou.incipit
 trMA.Ode4C11.text = ""
 
 trMA.Ode4C12.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C12.mode = misc_en_US_duvall.Mode2
-trMA.Ode4C12.melody = he.h.m2_en_US_duvall.TinEkParthenou.name
+trMA.Ode4C12.melody = he.h.m2_en_US_duvall.TinEkParthenou.incipit
 trMA.Ode4C12.text = ""
 
 trMA.Ode4C13.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C13.mode = misc_en_US_duvall.Mode2
-trMA.Ode4C13.melody = he.h.m2_en_US_duvall.TinEkParthenou.name
+trMA.Ode4C13.melody = he.h.m2_en_US_duvall.TinEkParthenou.incipit
 trMA.Ode4C13.text = ""
 
 trMA.Ode4C1T.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C1T.mode = misc_en_US_duvall.Mode2
-trMA.Ode4C1T.melody = he.h.m2_en_US_duvall.TinEkParthenou.name
+trMA.Ode4C1T.melody = he.h.m2_en_US_duvall.TinEkParthenou.incipit
 trMA.Ode4C1T.text = ""
 
 trMA.Ode5C11.ode = misc_en_US_duvall.Ode5
 trMA.Ode5C11.mode = misc_en_US_duvall.Mode2
-trMA.Ode5C11.melody = he.h.m2_en_US_duvall.TisNyktosDielthousis.name
+trMA.Ode5C11.melody = he.h.m2_en_US_duvall.TisNyktosDielthousis.incipit
 trMA.Ode5C11.text = ""
 
 trMA.Ode5C12.ode = misc_en_US_duvall.Ode5
 trMA.Ode5C12.mode = misc_en_US_duvall.Mode2
-trMA.Ode5C12.melody = he.h.m2_en_US_duvall.TisNyktosDielthousis.name
+trMA.Ode5C12.melody = he.h.m2_en_US_duvall.TisNyktosDielthousis.incipit
 trMA.Ode5C12.text = ""
 
 trMA.Ode5C13.ode = misc_en_US_duvall.Ode5
 trMA.Ode5C13.mode = misc_en_US_duvall.Mode2
-trMA.Ode5C13.melody = he.h.m2_en_US_duvall.TisNyktosDielthousis.name
+trMA.Ode5C13.melody = he.h.m2_en_US_duvall.TisNyktosDielthousis.incipit
 trMA.Ode5C13.text = ""
 
 trMA.Ode5C1T.ode = misc_en_US_duvall.Ode5
 trMA.Ode5C1T.mode = misc_en_US_duvall.Mode2
-trMA.Ode5C1T.melody = he.h.m2_en_US_duvall.TisNyktosDielthousis.name
+trMA.Ode5C1T.melody = he.h.m2_en_US_duvall.TisNyktosDielthousis.incipit
 trMA.Ode5C1T.text = ""
 
 trMA.Ode6C11.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C11.mode = misc_en_US_duvall.Mode2
-trMA.Ode6C11.melody = he.h.m2_en_US_duvall.VythoAmartimaton.name
+trMA.Ode6C11.melody = he.h.m2_en_US_duvall.VythoAmartimaton.incipit
 trMA.Ode6C11.text = ""
 
 trMA.Ode6C12.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C12.mode = misc_en_US_duvall.Mode2
-trMA.Ode6C12.melody = he.h.m2_en_US_duvall.VythoAmartimaton.name
+trMA.Ode6C12.melody = he.h.m2_en_US_duvall.VythoAmartimaton.incipit
 trMA.Ode6C12.text = ""
 
 trMA.Ode6C13.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C13.mode = misc_en_US_duvall.Mode2
-trMA.Ode6C13.melody = he.h.m2_en_US_duvall.VythoAmartimaton.name
+trMA.Ode6C13.melody = he.h.m2_en_US_duvall.VythoAmartimaton.incipit
 trMA.Ode6C13.text = ""
 
 trMA.Ode6C1T.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C1T.mode = misc_en_US_duvall.Mode2
-trMA.Ode6C1T.melody = he.h.m2_en_US_duvall.VythoAmartimaton.name
+trMA.Ode6C1T.melody = he.h.m2_en_US_duvall.VythoAmartimaton.incipit
 trMA.Ode6C1T.text = ""
 
 trMA.Kontakion1.mode = misc_en_US_duvall.Mode3
-trMA.Kontakion1.melody = he.a.m3_en_US_duvall.IParthenosSimeron.name
+trMA.Kontakion1.melody = he.a.m3_en_US_duvall.IParthenosSimeron.incipit
 trMA.Kontakion1.text = ""
 
 trMA.Oikos1.text = "Since our Savior teaches us each day by His familiar voice, let us listen to the Scriptures about the son who became prodigal and then returned to his senses, and in faith let us emulate his good repentance. With a humble heart let us cry out to God who observes all that is hidden, \"We have sinned against You, tender-loving Father, and we are no longer worthy to be called Your children as before. But inasmuch as You love humanity, receive me, I pray, and treat me as one of Your hired hands.\""
@@ -189,80 +189,80 @@ trMA.Synaxarion.lastline.text = ""
 
 trMA.Ode7C11.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C11.mode = misc_en_US_duvall.Mode2
-trMA.Ode7C11.melody = he.h.m2_en_US_duvall.TaCherouvimMimoumenoi.name
+trMA.Ode7C11.melody = he.h.m2_en_US_duvall.TaCherouvimMimoumenoi.incipit
 trMA.Ode7C11.text = ""
 
 trMA.Ode7C12.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C12.mode = misc_en_US_duvall.Mode2
-trMA.Ode7C12.melody = he.h.m2_en_US_duvall.TaCherouvimMimoumenoi.name
+trMA.Ode7C12.melody = he.h.m2_en_US_duvall.TaCherouvimMimoumenoi.incipit
 trMA.Ode7C12.text = ""
 
 trMA.Ode7C13.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C13.mode = misc_en_US_duvall.Mode2
-trMA.Ode7C13.melody = he.h.m2_en_US_duvall.TaCherouvimMimoumenoi.name
+trMA.Ode7C13.melody = he.h.m2_en_US_duvall.TaCherouvimMimoumenoi.incipit
 trMA.Ode7C13.text = ""
 
 trMA.Ode7C1T.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C1T.mode = misc_en_US_duvall.Mode2
-trMA.Ode7C1T.melody = he.h.m2_en_US_duvall.TaCherouvimMimoumenoi.name
+trMA.Ode7C1T.melody = he.h.m2_en_US_duvall.TaCherouvimMimoumenoi.incipit
 trMA.Ode7C1T.text = ""
 
 trMA.Ode8C11.ode = misc_en_US_duvall.Ode8
 trMA.Ode8C11.mode = misc_en_US_duvall.Mode2
-trMA.Ode8C11.melody = he.h.m2_en_US_duvall.TonEnTiVatoMosi.name
+trMA.Ode8C11.melody = he.h.m2_en_US_duvall.TonEnTiVatoMosi.incipit
 trMA.Ode8C11.text = ""
 
 trMA.Ode8C12.ode = misc_en_US_duvall.Ode8
 trMA.Ode8C12.mode = misc_en_US_duvall.Mode2
-trMA.Ode8C12.melody = he.h.m2_en_US_duvall.TonEnTiVatoMosi.name
+trMA.Ode8C12.melody = he.h.m2_en_US_duvall.TonEnTiVatoMosi.incipit
 trMA.Ode8C12.text = ""
 
 trMA.Ode8C13.ode = misc_en_US_duvall.Ode8
 trMA.Ode8C13.mode = misc_en_US_duvall.Mode2
-trMA.Ode8C13.melody = he.h.m2_en_US_duvall.TonEnTiVatoMosi.name
+trMA.Ode8C13.melody = he.h.m2_en_US_duvall.TonEnTiVatoMosi.incipit
 trMA.Ode8C13.text = ""
 
 trMA.Ode8C1T.ode = misc_en_US_duvall.Ode8
 trMA.Ode8C1T.mode = misc_en_US_duvall.Mode2
-trMA.Ode8C1T.melody = he.h.m2_en_US_duvall.TonEnTiVatoMosi.name
+trMA.Ode8C1T.melody = he.h.m2_en_US_duvall.TonEnTiVatoMosi.incipit
 trMA.Ode8C1T.text = ""
 
-trMA.C1Acrostic.text = "" //Acrostic for Ode 9
+trMA.C1.acrostic = "" //Acrostic for Ode 9
 trMA.Ode9C11.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C11.mode = misc_en_US_duvall.Mode2
-trMA.Ode9C11.melody = he.h.m2_en_US_duvall.TonGigenonTisIkouse.name
+trMA.Ode9C11.melody = he.h.m2_en_US_duvall.TonGigenonTisIkouse.incipit
 trMA.Ode9C11.text = ""
 
 trMA.Ode9C12.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C12.mode = misc_en_US_duvall.Mode2
-trMA.Ode9C12.melody = he.h.m2_en_US_duvall.TonGigenonTisIkouse.name
+trMA.Ode9C12.melody = he.h.m2_en_US_duvall.TonGigenonTisIkouse.incipit
 trMA.Ode9C12.text = ""
 
 trMA.Ode9C13.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C13.mode = misc_en_US_duvall.Mode2
-trMA.Ode9C13.melody = he.h.m2_en_US_duvall.TonGigenonTisIkouse.name
+trMA.Ode9C13.melody = he.h.m2_en_US_duvall.TonGigenonTisIkouse.incipit
 trMA.Ode9C13.text = ""
 
 trMA.Ode9C14.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C14.mode = misc_en_US_duvall.Mode2
-trMA.Ode9C14.melody = he.h.m2_en_US_duvall.TonGigenonTisIkouse.name
+trMA.Ode9C14.melody = he.h.m2_en_US_duvall.TonGigenonTisIkouse.incipit
 trMA.Ode9C14.text = ""
 
 trMA.Ode9C1T.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C1T.mode = misc_en_US_duvall.Mode2
-trMA.Ode9C1T.melody = he.h.m2_en_US_duvall.TonGigenonTisIkouse.name
+trMA.Ode9C1T.melody = he.h.m2_en_US_duvall.TonGigenonTisIkouse.incipit
 trMA.Ode9C1T.text = ""
 
 trMA.Exaposteilarion1.mode = misc_en_US_duvall.Mode2
-trMA.Exaposteilarion1.melody = he.a.m2_en_US_duvall.GynaikesAkoutisthite.name
+trMA.Exaposteilarion1.melody = he.a.m2_en_US_duvall.GynaikesAkoutisthite.incipit
 trMA.Exaposteilarion1.text = ""
 
 trMA.Exaposteilarion2.mode = misc_en_US_duvall.Mode2
-trMA.Exaposteilarion2.melody = he.a.m2_en_US_duvall.GynaikesAkoutisthite.name
+trMA.Exaposteilarion2.melody = he.a.m2_en_US_duvall.GynaikesAkoutisthite.incipit
 trMA.Exaposteilarion2.text = ""
 
 trMA.ExapTheotokion.mode = misc_en_US_duvall.Mode2
-trMA.ExapTheotokion.melody = he.a.m2_en_US_duvall.GynaikesAkoutisthite.name
+trMA.ExapTheotokion.melody = he.a.m2_en_US_duvall.GynaikesAkoutisthite.incipit
 trMA.ExapTheotokion.text = ""
 
 trMA.Lauds1.mode = misc_en_US_duvall.Mode2
