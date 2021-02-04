@@ -1,7 +1,9 @@
-A_Resource_Whose_Name = tr.d046_en_US_duvall 
+A_Resource_Whose_Name = tr.d046_en_US_duvall
 
 trMA.Kontakion1.mode = misc_en_US_duvall.Mode7
 trMA.Kontakion1.melody = misc_en_US_duvall.Automelon
+trMA.Kontakion1.incipit = he.a.m7_en_US_duvall.OuketiFloginiRomfaia.incipit
 trMA.Kontakion1.text = he.a.m7_en_US_duvall.OuketiFloginiRomfaia.text
 
+trMA.Oikos1.incipit = tr.d043_en_US_duvall.trMA.Oikos1.incipit
 trMA.Oikos1.text = tr.d043_en_US_duvall.trMA.Oikos1.text

@@ -15,52 +15,64 @@ trDismissal = //dismissals_en_US_duvall.dis00.resurrection
 
 trVE.Stichera01.mode = misc_en_US_duvall.Mode6
 trVE.Stichera01.melody = he.a.m6_en_US_duvall.OlinApothemenoi.incipit
+trVE.Stichera01.incipit = ""
 trVE.Stichera01.text = ""
 
 trVE.Stichera02.mode = misc_en_US_duvall.Mode6
 trVE.Stichera02.melody = he.a.m6_en_US_duvall.OlinApothemenoi.incipit
+trVE.Stichera02.incipit = ""
 trVE.Stichera02.text = ""
 
 trVE.Stichera03.mode = misc_en_US_duvall.Mode6
 trVE.Stichera03.melody = he.a.m6_en_US_duvall.OlinApothemenoi.incipit
+trVE.Stichera03.incipit = ""
 trVE.Stichera03.text = ""
 
 trVE.Stichera04.mode = misc_en_US_duvall.Mode6
 trVE.Stichera04.melody = he.a.m6_en_US_duvall.OlinApothemenoi.incipit
+trVE.Stichera04.incipit = ""
 trVE.Stichera04.text = ""
 
 trVE.MM.Stichera123as567.text = properties_en_US_duvall.media.key
 
 trVE.SticGlory.mode = misc_en_US_duvall.Mode6
 trVE.SticGlory.melody = misc_en_US_duvall.Idiomelon
+trVE.SticGlory.incipit = ""
 trVE.SticGlory.text = ""
 
 trVE.LityGlory.mode = misc_en_US_duvall.Mode6
 trVE.LityGlory.melody = misc_en_US_duvall.Idiomelon
+trVE.LityGlory.incipit = ""
 trVE.LityGlory.text = ""
 
 trVE.LityBoth.mode = misc_en_US_duvall.Mode6
 trVE.LityBoth.melody = ""
+trVE.LityBoth.incipit = ""
 trVE.LityBoth.text = ""
 
 trVE.AposGlory.mode = misc_en_US_duvall.Mode6
 trVE.AposGlory.melody = misc_en_US_duvall.Idiomelon
+trVE.AposGlory.incipit = ""
 trVE.AposGlory.text = ""
 
 trVE.AposTheotokion.mode = misc_en_US_duvall.Mode6
 trVE.AposTheotokion.melody = ""
+trVE.AposTheotokion.incipit = oc.m6.d1_en_US_duvall.ocVE.AposTheotokion.incipit
 trVE.AposTheotokion.text = oc.m6.d1_en_US_duvall.ocVE.AposTheotokion.text
 
 trMA.PostGospelGlory.mode = misc_en_US_duvall.Mode8
 trMA.PostGospelGlory.melody = ""
+trMA.PostGospelGlory.incipit = tr.d001_en_US_duvall.trMA.PostGospelGlory.incipit
 trMA.PostGospelGlory.text = tr.d001_en_US_duvall.trMA.PostGospelGlory.text
 
 trMA.PostGospelBoth.mode = misc_en_US_duvall.Mode8
 trMA.PostGospelBoth.melody = ""
+trMA.PostGospelBoth.incipit = tr.d001_en_US_duvall.trMA.PostGospelBoth.incipit
 trMA.PostGospelBoth.text = tr.d001_en_US_duvall.trMA.PostGospelBoth.text
 
 trMA.PostGospelIdiomelon.mode = misc_en_US_duvall.Mode6
 trMA.PostGospelIdiomelon.melody = ""
+trMA.PostGospelIdiomelon.incipit = tr.d001_en_US_duvall.trMA.PostGospelIdiomelon.incipit
 trMA.PostGospelIdiomelon.text = tr.d001_en_US_duvall.trMA.PostGospelIdiomelon.text
 
 trMA.C1.poet = //poets_en_US_duvall.ChristoforouTouProtasikritou
@@ -71,127 +83,153 @@ trMA.C1.verse = //prayers_en_US_duvall.verse_God.text
 trMA.Ode1C11.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C11.mode = misc_en_US_duvall.Mode6
 trMA.Ode1C11.melody = he.h.m6_en_US_duvall.OsEnIpeiroPezefsas.incipit
+trMA.Ode1C11.incipit = ""
 trMA.Ode1C11.text = ""
 
 trMA.Ode1C12.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C12.mode = misc_en_US_duvall.Mode6
 trMA.Ode1C12.melody = he.h.m6_en_US_duvall.OsEnIpeiroPezefsas.incipit
+trMA.Ode1C12.incipit = ""
 trMA.Ode1C12.text = ""
 
 trMA.Ode1C13.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C13.mode = misc_en_US_duvall.Mode6
 trMA.Ode1C13.melody = he.h.m6_en_US_duvall.OsEnIpeiroPezefsas.incipit
+trMA.Ode1C13.incipit = ""
 trMA.Ode1C13.text = ""
 
 trMA.Ode1C14.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C14.mode = misc_en_US_duvall.Mode6
 trMA.Ode1C14.melody = he.h.m6_en_US_duvall.OsEnIpeiroPezefsas.incipit
+trMA.Ode1C14.incipit = ""
 trMA.Ode1C14.text = ""
 
 trMA.Ode1C1T.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C1T.mode = misc_en_US_duvall.Mode6
 trMA.Ode1C1T.melody = he.h.m6_en_US_duvall.OsEnIpeiroPezefsas.incipit
+trMA.Ode1C1T.incipit = ""
 trMA.Ode1C1T.text = ""
 
 trMA.Ode3C11.ode = misc_en_US_duvall.Ode3
 trMA.Ode3C11.mode = misc_en_US_duvall.Mode6
 trMA.Ode3C11.melody = he.h.m6_en_US_duvall.OukEstinAgios.incipit
+trMA.Ode3C11.incipit = ""
 trMA.Ode3C11.text = ""
 
 trMA.Ode3C12.ode = misc_en_US_duvall.Ode3
 trMA.Ode3C12.mode = misc_en_US_duvall.Mode6
 trMA.Ode3C12.melody = he.h.m6_en_US_duvall.OukEstinAgios.incipit
+trMA.Ode3C12.incipit = ""
 trMA.Ode3C12.text = ""
 
 trMA.Ode3C13.ode = misc_en_US_duvall.Ode3
 trMA.Ode3C13.mode = misc_en_US_duvall.Mode6
 trMA.Ode3C13.melody = he.h.m6_en_US_duvall.OukEstinAgios.incipit
+trMA.Ode3C13.incipit = ""
 trMA.Ode3C13.text = ""
 
 trMA.Ode3C1T.ode = misc_en_US_duvall.Ode3
 trMA.Ode3C1T.mode = misc_en_US_duvall.Mode6
 trMA.Ode3C1T.melody = he.h.m6_en_US_duvall.OukEstinAgios.incipit
+trMA.Ode3C1T.incipit = ""
 trMA.Ode3C1T.text = ""
 
 trMA.Ode3Kathisma1.mode = misc_en_US_duvall.Mode4
 trMA.Ode3Kathisma1.melody = he.a.m4_en_US_duvall.KateplagiIosif.incipit
+trMA.Ode3Kathisma1.incipit = ""
 trMA.Ode3Kathisma1.text = ""
 
 trMA.Ode3Kathisma2.mode = misc_en_US_duvall.Mode4
 trMA.Ode3Kathisma2.melody = he.a.m4_en_US_duvall.OYpsotheisEnToStavro.incipit
+trMA.Ode3Kathisma2.incipit = ""
 trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode3Kathisma3.mode = misc_en_US_duvall.Mode4
 trMA.Ode3Kathisma3.melody = he.a.m4_en_US_duvall.OYpsotheisEnToStavro.incipit
+trMA.Ode3Kathisma3.incipit = ""
 trMA.Ode3Kathisma3.text = //ho.s23_en_US_duvall.hoCA.Apolytikion2.text
 
 trMA.Ode4C11.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C11.mode = misc_en_US_duvall.Mode6
 trMA.Ode4C11.melody = he.h.m6_en_US_duvall.ChristosMouDynamis.incipit
+trMA.Ode4C11.incipit = ""
 trMA.Ode4C11.text = ""
 
 trMA.Ode4C12.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C12.mode = misc_en_US_duvall.Mode6
 trMA.Ode4C12.melody = he.h.m6_en_US_duvall.ChristosMouDynamis.incipit
+trMA.Ode4C12.incipit = ""
 trMA.Ode4C12.text = ""
 
 trMA.Ode4C13.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C13.mode = misc_en_US_duvall.Mode6
 trMA.Ode4C13.melody = he.h.m6_en_US_duvall.ChristosMouDynamis.incipit
+trMA.Ode4C13.incipit = ""
 trMA.Ode4C13.text = ""
 
 trMA.Ode4C14.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C14.mode = misc_en_US_duvall.Mode6
 trMA.Ode4C14.melody = he.h.m6_en_US_duvall.ChristosMouDynamis.incipit
+trMA.Ode4C14.incipit = ""
 trMA.Ode4C14.text = ""
 
 trMA.Ode4C1T.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C1T.mode = misc_en_US_duvall.Mode6
 trMA.Ode4C1T.melody = he.h.m6_en_US_duvall.ChristosMouDynamis.incipit
+trMA.Ode4C1T.incipit = ""
 trMA.Ode4C1T.text = ""
 
 trMA.Ode5C11.ode = misc_en_US_duvall.Ode5
 trMA.Ode5C11.mode = misc_en_US_duvall.Mode6
 trMA.Ode5C11.melody = he.h.m6_en_US_duvall.ToTheioFengeiSou.incipit
+trMA.Ode5C11.incipit = ""
 trMA.Ode5C11.text = ""
 
 trMA.Ode5C12.ode = misc_en_US_duvall.Ode5
 trMA.Ode5C12.mode = misc_en_US_duvall.Mode6
 trMA.Ode5C12.melody = he.h.m6_en_US_duvall.ToTheioFengeiSou.incipit
+trMA.Ode5C12.incipit = ""
 trMA.Ode5C12.text = ""
 
 trMA.Ode5C13.ode = misc_en_US_duvall.Ode5
 trMA.Ode5C13.mode = misc_en_US_duvall.Mode6
 trMA.Ode5C13.melody = he.h.m6_en_US_duvall.ToTheioFengeiSou.incipit
+trMA.Ode5C13.incipit = ""
 trMA.Ode5C13.text = ""
 
 trMA.Ode5C1T.ode = misc_en_US_duvall.Ode5
 trMA.Ode5C1T.mode = misc_en_US_duvall.Mode6
 trMA.Ode5C1T.melody = he.h.m6_en_US_duvall.ToTheioFengeiSou.incipit
+trMA.Ode5C1T.incipit = ""
 trMA.Ode5C1T.text = ""
 
 trMA.Ode6C11.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C11.mode = misc_en_US_duvall.Mode6
 trMA.Ode6C11.melody = he.h.m6_en_US_duvall.TouViouTinThalassan.incipit
+trMA.Ode6C11.incipit = ""
 trMA.Ode6C11.text = ""
 
 trMA.Ode6C12.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C12.mode = misc_en_US_duvall.Mode6
 trMA.Ode6C12.melody = he.h.m6_en_US_duvall.TouViouTinThalassan.incipit
+trMA.Ode6C12.incipit = ""
 trMA.Ode6C12.text = ""
 
 trMA.Ode6C13.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C13.mode = misc_en_US_duvall.Mode6
 trMA.Ode6C13.melody = he.h.m6_en_US_duvall.TouViouTinThalassan.incipit
+trMA.Ode6C13.incipit = ""
 trMA.Ode6C13.text = ""
 
 trMA.Ode6C1T.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C1T.mode = misc_en_US_duvall.Mode6
 trMA.Ode6C1T.melody = he.h.m6_en_US_duvall.TouViouTinThalassan.incipit
+trMA.Ode6C1T.incipit = ""
 trMA.Ode6C1T.text = ""
 
 trMA.Kontakion1.mode = misc_en_US_duvall.Mode6
 trMA.Kontakion1.melody = misc_en_US_duvall.NotMetered
+trMA.Kontakion1.incipit = "O guide to wisdom, provider"
 trMA.Kontakion1.text = "O guide to wisdom, provider of prudence, disciplinarian of fools, and defender of the poor, fortify and discipline my heart, O Master; You, give me a word, O Word of the Father. For behold, I will not hinder my lips from crying to You: O merciful Lord, have mercy on me who have fallen."
 
 trMA.Oikos1.text = "In times of old did Adam sit and cry in sorrow opposite the delights he had in Paradise; his hands did upon his forehead strike, as he said this: O merciful Lord, have mercy on me who have fallen."
@@ -222,98 +260,119 @@ trMA.Synaxarion.lastline.text = ""
 trMA.Ode7C11.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C11.mode = misc_en_US_duvall.Mode6
 trMA.Ode7C11.melody = he.h.m6_en_US_duvall.DrosovolonMenTinKaminon.incipit
+trMA.Ode7C11.incipit = ""
 trMA.Ode7C11.text = ""
 
 trMA.Ode7C12.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C12.mode = misc_en_US_duvall.Mode6
 trMA.Ode7C12.melody = he.h.m6_en_US_duvall.DrosovolonMenTinKaminon.incipit
+trMA.Ode7C12.incipit = ""
 trMA.Ode7C12.text = ""
 
 trMA.Ode7C13.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C13.mode = misc_en_US_duvall.Mode6
 trMA.Ode7C13.melody = he.h.m6_en_US_duvall.DrosovolonMenTinKaminon.incipit
+trMA.Ode7C13.incipit = ""
 trMA.Ode7C13.text = ""
 
 trMA.Ode7C1T.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C1T.mode = misc_en_US_duvall.Mode6
 trMA.Ode7C1T.melody = he.h.m6_en_US_duvall.DrosovolonMenTinKaminon.incipit
+trMA.Ode7C1T.incipit = ""
 trMA.Ode7C1T.text = ""
 
 trMA.Ode8C11.ode = misc_en_US_duvall.Ode8
 trMA.Ode8C11.mode = misc_en_US_duvall.Mode6
 trMA.Ode8C11.melody = he.h.m6_en_US_duvall.EkFlogosToisOsiois.incipit
+trMA.Ode8C11.incipit = ""
 trMA.Ode8C11.text = ""
 
 trMA.Ode8C12.ode = misc_en_US_duvall.Ode8
 trMA.Ode8C12.mode = misc_en_US_duvall.Mode6
 trMA.Ode8C12.melody = he.h.m6_en_US_duvall.EkFlogosToisOsiois.incipit
+trMA.Ode8C12.incipit = ""
 trMA.Ode8C12.text = ""
 
 trMA.Ode8C13.ode = misc_en_US_duvall.Ode8
 trMA.Ode8C13.mode = misc_en_US_duvall.Mode6
 trMA.Ode8C13.melody = he.h.m6_en_US_duvall.EkFlogosToisOsiois.incipit
+trMA.Ode8C13.incipit = ""
 trMA.Ode8C13.text = ""
 
 trMA.Ode8C1T.ode = misc_en_US_duvall.Ode8
 trMA.Ode8C1T.mode = misc_en_US_duvall.Mode6
 trMA.Ode8C1T.melody = he.h.m6_en_US_duvall.EkFlogosToisOsiois.incipit
+trMA.Ode8C1T.incipit = ""
 trMA.Ode8C1T.text = ""
 
 trMA.Ode9C11.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C11.mode = misc_en_US_duvall.Mode6
 trMA.Ode9C11.melody = he.h.m6_en_US_duvall.TheonAnthropois.incipit
+trMA.Ode9C11.incipit = ""
 trMA.Ode9C11.text = ""
 
 trMA.Ode9C12.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C12.mode = misc_en_US_duvall.Mode6
 trMA.Ode9C12.melody = he.h.m6_en_US_duvall.TheonAnthropois.incipit
+trMA.Ode9C12.incipit = ""
 trMA.Ode9C12.text = ""
 
 trMA.Ode9C13.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C13.mode = misc_en_US_duvall.Mode6
 trMA.Ode9C13.melody = he.h.m6_en_US_duvall.TheonAnthropois.incipit
+trMA.Ode9C13.incipit = ""
 trMA.Ode9C13.text = ""
 
 trMA.Ode9C14.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C14.mode = misc_en_US_duvall.Mode6
 trMA.Ode9C14.melody = he.h.m6_en_US_duvall.TheonAnthropois.incipit
+trMA.Ode9C14.incipit = ""
 trMA.Ode9C14.text = ""
 
 trMA.Ode9C1T.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C1T.mode = misc_en_US_duvall.Mode6
 trMA.Ode9C1T.melody = he.h.m6_en_US_duvall.TheonAnthropois.incipit
+trMA.Ode9C1T.incipit = ""
 trMA.Ode9C1T.text = ""
 
 trMA.Exaposteilarion1.mode = misc_en_US_duvall.Mode2
 trMA.Exaposteilarion1.melody = he.a.m2_en_US_duvall.GynaikesAkoutisthite.incipit
+trMA.Exaposteilarion1.incipit = ""
 trMA.Exaposteilarion1.text = ""
 
 trMA.Exaposteilarion2.mode = misc_en_US_duvall.Mode2
 trMA.Exaposteilarion2.melody = he.a.m2_en_US_duvall.ToisMathitaisSynelthomen.incipit
+trMA.Exaposteilarion2.incipit = ""
 trMA.Exaposteilarion2.text = ""
 
 trMA.Lauds1.mode = misc_en_US_duvall.Mode5
 trMA.Lauds1.melody = misc_en_US_duvall.Idiomelon
+trMA.Lauds1.incipit = "\"Woe is me!\" cried Adam"
 trMA.Lauds1.text = "\"Woe is me!\" cried Adam in lament, \"that a serpent and a woman have deprived me of intimate communion with God; and eating from the tree has estranged me from the Paradise of delight. Woe is me, for I cannot bear the disgrace! Once the king of all God's creatures on the earth, I am now viewed as a hostage because of one piece of illicit advice; and though once vested with the glory of immortality, I, as mortal, carry about the skin of deadness lamentably. Woe is me! Which lamentation shall I enlist to collaborate with me? But You, Friend of man, who fashioned me from the earth, and who donned compassion; recall me from servitude to the enemy and save me.\""
 
 trMA.Lauds2.mode = misc_en_US_duvall.Mode5
 trMA.Lauds2.melody = misc_en_US_duvall.Idiomelon
+trMA.Lauds2.incipit = "The stadium of virtue is"
 trMA.Lauds2.text = "The stadium of virtue is now open; those who wish to compete, enter therein, girded for the good contest of Lent, for those who compete according to the rules shall receive their laurels rightfully. Taking up the full armor of the Cross, let us do battle against the Enemy. As an impregnable wall, we have the Faith, prayer as our breastplate, and acts of mercy as our helmet. Instead of sword, there is fasting, which cuts every evil from the heart. He who does this shall attain a true crown from Christ, the King of all, on Judgment Day."
 
 trMA.Lauds3.mode = misc_en_US_duvall.Mode6
 trMA.Lauds3.melody = misc_en_US_duvall.Idiomelon
+trMA.Lauds3.incipit = "Adam was evicted from Paradise"
 trMA.Lauds3.text = "Adam was evicted from Paradise as one disobedient, after partaking of its luxury. Moses saw God, after cleansing the eyes of his soul by fasting. Hence if we desire to become residents of Paradise, let us divorce ourselves from baleful delights, and desiring to see God, as did Moses let us fast the Four Times Ten. By sincerely persevering in prayer and supplication, let us suppress the passions of our souls; let us avert the swellings of the flesh; thus lightened, let us set off on the journey to things above, where the choirs of angels in unbroken song sing praise to the undivided Trinity, to see the irresistible beauty of the Master. O Son of God and Giver of Life, we who set our hope on You entreat: Make us worthy of dancing with the armies of angels, O Christ, at the intercession of Your Mother, the Apostles, Martyrs and all the Saints."
 
 trMA.LaudsGlory.mode = misc_en_US_duvall.Mode6
 trMA.LaudsGlory.melody = misc_en_US_duvall.Idiomelon
+trMA.LaudsGlory.incipit = "The time has come -"
 trMA.LaudsGlory.text = "The time has come - the start of our spiritual contests, the victory over demons, the full armor of self-control, the angels' dignity, the confidence before God. Thereby did Moses become conversant with the Creator, and heard the invisible voice. Lord, through fasting make us worthy to worship Your Passion and holy Resurrection, as You love humanity."
 
 trMA.LaudsTheotokion.mode = ""
 trMA.LaudsTheotokion.melody = ""
+trMA.LaudsTheotokion.incipit = oc.m2.d1_en_US_duvall.ocMA.Kathisma23.incipit
 trMA.LaudsTheotokion.text = oc.m2.d1_en_US_duvall.ocMA.Kathisma23.text
 
 trLI.Kontakion1.mode = trMA.Kontakion1.mode
 trLI.Kontakion1.melody = trMA.Kontakion1.melody
+trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
 trLI.Kontakion1.text = trMA.Kontakion1.text
 
 trMegalynarion.text = ""
