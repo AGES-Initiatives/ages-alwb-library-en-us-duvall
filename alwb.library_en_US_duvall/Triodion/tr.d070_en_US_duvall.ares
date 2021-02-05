@@ -418,7 +418,6 @@ trMA.Ode9K.text = he.h.m6_en_US_duvall.MiEpodyrouMouMiter.text
 
 trMA.Exaposteilarion1.mode = misc_en_US_duvall.Mode2
 trMA.Exaposteilarion1.melody = ""
-trMA.Exaposteilarion1.incipit = ""
 trMA.Exaposteilarion1.text = //ho.s03_en_US_duvall.hoMA.SunExapVerse1.text
 
 trHW.Lauds01.text = properties_en_US_duvall.media.key
