@@ -2,18 +2,18 @@ A_Resource_Whose_Name = me.m09.d08_en_US_duvall
 
 meVE.Stichera02.mode = misc_en_US_duvall.Mode6
 meVE.Stichera02.melody = misc_en_US_duvall.Idiomelon
-meVE.Stichera02.incipit = "This is the Lord's Day,"
+meVE.Stichera02.incipit = "This is the Lord's Day…"
 meVE.Stichera02.text = "This is the Lord's Day, O people, be filled with gladness! Behold! The bridal chamber of the Light and the book of the Word of Life has come forth from the womb. The Temple Gate that faces east has been born, and she awaits the entry of the Great High Priest. She alone introduces the only Christ to the world, for the salvation of our souls."
 
 meVE.Stichera04.poet = //poets_en_US_duvall.StefanouAgiopolitou
 meVE.Stichera04.mode = misc_en_US_duvall.Mode6
 meVE.Stichera04.melody = misc_en_US_duvall.Idiomelon
-meVE.Stichera04.incipit = "Today, the barren gates are"
+meVE.Stichera04.incipit = "Today, the barren gates are…"
 meVE.Stichera04.text = "Today, the barren gates are opened and the Virgin, the Gate of God, comes forth. Today, grace begins to bear fruit, showing forth to the world the Mother of God, through whom earth is to heaven united, for the salvation of our souls."
 
 meVE.Stichera06.mode = misc_en_US_duvall.Mode6
 meVE.Stichera06.melody = misc_en_US_duvall.Idiomelon
-meVE.Stichera06.incipit = "Today, Anne the barren one"
+meVE.Stichera06.incipit = "Today, Anne the barren one…"
 meVE.Stichera06.text = "Today, Anne the barren one gives birth to the Maiden of God, who had been chosen from all the human generations to become the dwelling-place of the Creator, Christ our God and King of all. In her He fulfilled His divine plan, through which our human nature was renewed, and by which we were to be transferred from corruption to eternal life."
 
 meVE.Aposticha1.poet = //poets_en_US_duvall.GermanouPatriarchou
@@ -24,13 +24,13 @@ meVE.Aposticha1.text = me.m09.d07_en_US_duvall.meVE.AposGlory.text
 
 meVE.Aposticha2.mode = misc_en_US_duvall.Mode4
 meVE.Aposticha2.melody = misc_en_US_duvall.Idiomelon
-meVE.Aposticha2.incipit = "At an Angel's prediction, a"
+meVE.Aposticha2.incipit = "At an Angel's prediction, a…"
 meVE.Aposticha2.text = "At an Angel's prediction, a child all-holy of righteous Joachim and Anna, O Virgin, you came forth today; heaven and throne of God, vessel of cleanliness, foretoken of joy for all the world, envoy of our Life, destruction of the censure, proxy of blessings. Therefore, at your nativity, O Daughter called of God, plead for peace and great mercy for our souls."
 
 meVE.AposGlory.poet = //poets_en_US_duvall.SergiouAgiopolitou
 meVE.AposGlory.mode = misc_en_US_duvall.Mode8
 meVE.AposGlory.melody = misc_en_US_duvall.Idiomelon
-meVE.AposGlory.incipit = "Come faithful, let us hasten"
+meVE.AposGlory.incipit = "Come faithful, let us hasten…"
 meVE.AposGlory.text = "Come faithful, let us hasten to the Virgin. Behold, she is born, who before entering the womb was destined to be the Mother of our God, the heirloom of virginity, the blossoming rod of Aaron, from the root of Jesse, the counsel of the Prophets, and the sprout of the righteous Joachim and Anna. She is now born, and the world is renewed with her. She is begotten and the Church is adorned in her comeliness. Holy temple, vessel of divinity, model of virgins, royal chamber, in whom the strange mystery and preternatural union of Christ’s two natures was accomplished. Worshiping Him, we praise the Virgin’s all-immaculate nativity."
 
 meMA.PostGospelIdiomelon.poet = //poets_en_US_duvall.GermanouPatriarchou
@@ -41,7 +41,7 @@ meMA.PostGospelIdiomelon.text = me.m09.d07_en_US_duvall.meVE.AposGlory.text
 
 meMA.Kontakion1.mode = misc_en_US_duvall.Mode4
 meMA.Kontakion1.melody = ""
-meMA.Kontakion1.incipit = "Both Joachim and Anna from"
+meMA.Kontakion1.incipit = "Both Joachim and Anna from…"
 meMA.Kontakion1.text = "Both Joachim and Anna from their sterility's stigma, and Adam and Eve from their mortality's ruin have been set free, O immaculate Maid, by your holy nativity. For this do your people hold celebration, redeemed from the guilt of transgression as they cry to you, \"The barren one bears the Theotokos, the nourisher of our Life.\""
 
 meMA.Oikos1.text = "The prayer with the sigh, sterile and barren, of Joachim and of Anna, was well-received in the ears of the Lord. It unbound them and they blossomed the fruit that brings life to the world. For while he on the mountain did offer a prayer, she in the garden the reproach did bear. But then with joy the barren one bears the Theotokos, the nourisher of our Life."

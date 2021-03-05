@@ -18,37 +18,37 @@ trHW.LIHC.text = properties_en_US_duvall.media.key
 
 trVE.Stichera01.mode = misc_en_US_duvall.Mode1
 trVE.Stichera01.melody = misc_en_US_duvall.Idiomelon
-trVE.Stichera01.incipit = ""
+trVE.Stichera01.incipit = "…"
 trVE.Stichera01.text = //tr.d069_en_US_duvall.trMA.Aposticha1.text
 
 trVE.Stichera02.mode = misc_en_US_duvall.Mode2
 trVE.Stichera02.melody = misc_en_US_duvall.Idiomelon
-trVE.Stichera02.incipit = ""
+trVE.Stichera02.incipit = "…"
 trVE.Stichera02.text = //tr.d069_en_US_duvall.trMA.Aposticha2.text
 
 trVE.Stichera03.mode = misc_en_US_duvall.Mode2
 trVE.Stichera03.melody = misc_en_US_duvall.Idiomelon
-trVE.Stichera03.incipit = ""
+trVE.Stichera03.incipit = "…"
 trVE.Stichera03.text = //tr.d069_en_US_duvall.trMA.Aposticha3.text
 
 trVE.Stichera04.mode = misc_en_US_duvall.Mode2
 trVE.Stichera04.melody = misc_en_US_duvall.Idiomelon
-trVE.Stichera04.incipit = ""
+trVE.Stichera04.incipit = "…"
 trVE.Stichera04.text = //tr.d069_en_US_duvall.trMA.Aposticha4.text
 
 trVE.Stichera05.mode = misc_en_US_duvall.Mode6
 trVE.Stichera05.melody = misc_en_US_duvall.Idiomelon
-trVE.Stichera05.incipit = ""
+trVE.Stichera05.incipit = "…"
 trVE.Stichera05.text = ""
 
 trVE.SticGlory.mode = misc_en_US_duvall.Mode6
 trVE.SticGlory.melody = misc_en_US_duvall.Idiomelon
-trVE.SticGlory.incipit = ""
+trVE.SticGlory.incipit = "…"
 trVE.SticGlory.text = ""
 
 trVE.SticBoth.mode = misc_en_US_duvall.Mode6
 trVE.SticBoth.melody = misc_en_US_duvall.Idiomelon
-trVE.SticBoth.incipit = ""
+trVE.SticBoth.incipit = "…"
 trVE.SticBoth.text = ""
 
 trVE.Prokeimenon.text = properties_en_US_duvall.media.key
@@ -59,28 +59,28 @@ trVE.Aposticha1.incipit = he.a.m2_en_US_duvall.OteEkTouXylou.incipit
 trVE.Aposticha1.text = he.a.m2_en_US_duvall.OteEkTouXylou.text
 
 trVE.Aposticha2.mode = misc_en_US_duvall.Mode2
-trVE.Aposticha2.melody = he.a.m2_en_US_duvall.OteEkTouXylou.incipit
-trVE.Aposticha2.incipit = ""
+trVE.Aposticha2.melody = he.a.m2_en_US_duvall.OteEkTouXylou.name
+trVE.Aposticha2.incipit = "…"
 trVE.Aposticha2.text = ""
 
 trVE.Aposticha3.mode = misc_en_US_duvall.Mode2
-trVE.Aposticha3.melody = he.a.m2_en_US_duvall.OteEkTouXylou.incipit
-trVE.Aposticha3.incipit = ""
+trVE.Aposticha3.melody = he.a.m2_en_US_duvall.OteEkTouXylou.name
+trVE.Aposticha3.incipit = "…"
 trVE.Aposticha3.text = ""
 
 trVE.Aposticha4.mode = misc_en_US_duvall.Mode2
-trVE.Aposticha4.melody = he.a.m2_en_US_duvall.OteEkTouXylou.incipit
-trVE.Aposticha4.incipit = ""
+trVE.Aposticha4.melody = he.a.m2_en_US_duvall.OteEkTouXylou.name
+trVE.Aposticha4.incipit = "…"
 trVE.Aposticha4.text = ""
 
 trVE.AposGlory.mode = misc_en_US_duvall.Mode5
 trVE.AposGlory.melody = ""
-trVE.AposGlory.incipit = ""
+trVE.AposGlory.incipit = "…"
 trVE.AposGlory.text = ""
 
 trVE.Apolytikion1.mode = misc_en_US_duvall.Mode2
 trVE.Apolytikion1.melody = ""
-trVE.Apolytikion1.incipit = ""
+trVE.Apolytikion1.incipit = "…"
 trVE.Apolytikion1.text = ""
 
 trVE.Apolytikion2.mode = misc_en_US_duvall.Mode2
@@ -90,7 +90,7 @@ trVE.Apolytikion2.text = oc.m2.d1_en_US_duvall.ocVE.Apolytikion.text
 
 trVE.Apolytikion3.mode = misc_en_US_duvall.Mode2
 trVE.Apolytikion3.melody = ""
-trVE.Apolytikion3.incipit = ""
+trVE.Apolytikion3.incipit = "…"
 trVE.Apolytikion3.text = ""
 
 trHW.GITL.text = properties_en_US_duvall.media.key
@@ -116,18 +116,18 @@ trHW.Evlogetaria6.text = //ho.s03_en_US_duvall.hoMA.ResEvlog6.text
 trHW.Evlogetaria7.text = //ho.s03_en_US_duvall.hoMA.ResEvlog7.text
 
 trMA.Kathisma11.mode = misc_en_US_duvall.Mode1
-trMA.Kathisma11.melody = he.a.m1_en_US_duvall.TonTafonSouSotir.incipit
-trMA.Kathisma11.incipit = ""
+trMA.Kathisma11.melody = he.a.m1_en_US_duvall.TonTafonSouSotir.name
+trMA.Kathisma11.incipit = "…"
 trMA.Kathisma11.text = ""
 
 trMA.Kathisma12.mode = misc_en_US_duvall.Mode1
-trMA.Kathisma12.melody = he.a.m1_en_US_duvall.TonTafonSouSotir.incipit
-trMA.Kathisma12.incipit = ""
+trMA.Kathisma12.melody = he.a.m1_en_US_duvall.TonTafonSouSotir.name
+trMA.Kathisma12.incipit = "…"
 trMA.Kathisma12.text = ""
 
 trMA.Kathisma13.mode = misc_en_US_duvall.Mode1
-trMA.Kathisma13.melody = he.a.m1_en_US_duvall.TonTafonSouSotir.incipit
-trMA.Kathisma13.incipit = ""
+trMA.Kathisma13.melody = he.a.m1_en_US_duvall.TonTafonSouSotir.name
+trMA.Kathisma13.incipit = "…"
 trMA.Kathisma13.text = ""
 
 trMA.C1.poet = ""
@@ -144,20 +144,20 @@ trMA.C1.verse = ""
 
 trMA.Ode1C11.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C11.mode = misc_en_US_duvall.Mode6
-trMA.Ode1C11.melody = he.h.m6_en_US_duvall.KymatiThalassis.incipit
-trMA.Ode1C11.incipit = ""
+trMA.Ode1C11.melody = he.h.m6_en_US_duvall.KymatiThalassis.name
+trMA.Ode1C11.incipit = "…"
 trMA.Ode1C11.text = ""
 
 trMA.Ode1C12.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C12.mode = misc_en_US_duvall.Mode6
-trMA.Ode1C12.melody = he.h.m6_en_US_duvall.KymatiThalassis.incipit
-trMA.Ode1C12.incipit = ""
+trMA.Ode1C12.melody = he.h.m6_en_US_duvall.KymatiThalassis.name
+trMA.Ode1C12.incipit = "…"
 trMA.Ode1C12.text = ""
 
 trMA.Ode1C13.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C13.mode = misc_en_US_duvall.Mode6
-trMA.Ode1C13.melody = he.h.m6_en_US_duvall.KymatiThalassis.incipit
-trMA.Ode1C13.incipit = ""
+trMA.Ode1C13.melody = he.h.m6_en_US_duvall.KymatiThalassis.name
+trMA.Ode1C13.incipit = "…"
 trMA.Ode1C13.text = ""
 
 trMA.Ode1K.ode = misc_en_US_duvall.Ode1
@@ -174,20 +174,20 @@ trMA.Ode3C1H.text = he.h.m6_en_US_duvall.SeTonEpiYdaton.text
 
 trMA.Ode3C11.ode = misc_en_US_duvall.Ode3
 trMA.Ode3C11.mode = misc_en_US_duvall.Mode6
-trMA.Ode3C11.melody = he.h.m6_en_US_duvall.SeTonEpiYdaton.incipit
-trMA.Ode3C11.incipit = ""
+trMA.Ode3C11.melody = he.h.m6_en_US_duvall.SeTonEpiYdaton.name
+trMA.Ode3C11.incipit = "…"
 trMA.Ode3C11.text = ""
 
 trMA.Ode3C12.ode = misc_en_US_duvall.Ode3
 trMA.Ode3C12.mode = misc_en_US_duvall.Mode6
-trMA.Ode3C12.melody = he.h.m6_en_US_duvall.SeTonEpiYdaton.incipit
-trMA.Ode3C12.incipit = ""
+trMA.Ode3C12.melody = he.h.m6_en_US_duvall.SeTonEpiYdaton.name
+trMA.Ode3C12.incipit = "…"
 trMA.Ode3C12.text = ""
 
 trMA.Ode3C13.ode = misc_en_US_duvall.Ode3
 trMA.Ode3C13.mode = misc_en_US_duvall.Mode6
-trMA.Ode3C13.melody = he.h.m6_en_US_duvall.SeTonEpiYdaton.incipit
-trMA.Ode3C13.incipit = ""
+trMA.Ode3C13.melody = he.h.m6_en_US_duvall.SeTonEpiYdaton.name
+trMA.Ode3C13.incipit = "…"
 trMA.Ode3C13.text = ""
 
 trMA.Ode3K.ode = misc_en_US_duvall.Ode3
@@ -209,20 +209,20 @@ trMA.Ode4C1H.text = he.h.m6_en_US_duvall.TinEnStavroSou.text
 
 trMA.Ode4C11.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C11.mode = misc_en_US_duvall.Mode6
-trMA.Ode4C11.melody = he.h.m6_en_US_duvall.TinEnStavroSou.incipit
-trMA.Ode4C11.incipit = ""
+trMA.Ode4C11.melody = he.h.m6_en_US_duvall.TinEnStavroSou.name
+trMA.Ode4C11.incipit = "…"
 trMA.Ode4C11.text = ""
 
 trMA.Ode4C12.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C12.mode = misc_en_US_duvall.Mode6
-trMA.Ode4C12.melody = he.h.m6_en_US_duvall.TinEnStavroSou.incipit
-trMA.Ode4C12.incipit = ""
+trMA.Ode4C12.melody = he.h.m6_en_US_duvall.TinEnStavroSou.name
+trMA.Ode4C12.incipit = "…"
 trMA.Ode4C12.text = ""
 
 trMA.Ode4C13.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C13.mode = misc_en_US_duvall.Mode6
-trMA.Ode4C13.melody = he.h.m6_en_US_duvall.TinEnStavroSou.incipit
-trMA.Ode4C13.incipit = ""
+trMA.Ode4C13.melody = he.h.m6_en_US_duvall.TinEnStavroSou.name
+trMA.Ode4C13.incipit = "…"
 trMA.Ode4C13.text = ""
 
 trMA.Ode4K.ode = misc_en_US_duvall.Ode4
@@ -239,20 +239,20 @@ trMA.Ode5C1H.text = he.h.m6_en_US_duvall.TheofaneiasSouChriste.text
 
 trMA.Ode5C11.ode = misc_en_US_duvall.Ode5
 trMA.Ode5C11.mode = misc_en_US_duvall.Mode6
-trMA.Ode5C11.melody = he.h.m6_en_US_duvall.TheofaneiasSouChriste.incipit
-trMA.Ode5C11.incipit = ""
+trMA.Ode5C11.melody = he.h.m6_en_US_duvall.TheofaneiasSouChriste.name
+trMA.Ode5C11.incipit = "…"
 trMA.Ode5C11.text = ""
 
 trMA.Ode5C12.ode = misc_en_US_duvall.Ode5
 trMA.Ode5C12.mode = misc_en_US_duvall.Mode6
-trMA.Ode5C12.melody = he.h.m6_en_US_duvall.TheofaneiasSouChriste.incipit
-trMA.Ode5C12.incipit = ""
+trMA.Ode5C12.melody = he.h.m6_en_US_duvall.TheofaneiasSouChriste.name
+trMA.Ode5C12.incipit = "…"
 trMA.Ode5C12.text = ""
 
 trMA.Ode5C13.ode = misc_en_US_duvall.Ode5
 trMA.Ode5C13.mode = misc_en_US_duvall.Mode6
-trMA.Ode5C13.melody = he.h.m6_en_US_duvall.TheofaneiasSouChriste.incipit
-trMA.Ode5C13.incipit = ""
+trMA.Ode5C13.melody = he.h.m6_en_US_duvall.TheofaneiasSouChriste.name
+trMA.Ode5C13.incipit = "…"
 trMA.Ode5C13.text = ""
 
 trMA.Ode5K.ode = misc_en_US_duvall.Ode5
@@ -269,20 +269,20 @@ trMA.Ode6C1H.text = he.h.m6_en_US_duvall.SyneschethiAllOuKateschethi.text
 
 trMA.Ode6C11.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C11.mode = misc_en_US_duvall.Mode6
-trMA.Ode6C11.melody = he.h.m6_en_US_duvall.SyneschethiAllOuKateschethi.incipit
-trMA.Ode6C11.incipit = ""
+trMA.Ode6C11.melody = he.h.m6_en_US_duvall.SyneschethiAllOuKateschethi.name
+trMA.Ode6C11.incipit = "…"
 trMA.Ode6C11.text = ""
 
 trMA.Ode6C12.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C12.mode = misc_en_US_duvall.Mode6
-trMA.Ode6C12.melody = he.h.m6_en_US_duvall.SyneschethiAllOuKateschethi.incipit
-trMA.Ode6C12.incipit = ""
+trMA.Ode6C12.melody = he.h.m6_en_US_duvall.SyneschethiAllOuKateschethi.name
+trMA.Ode6C12.incipit = "…"
 trMA.Ode6C12.text = ""
 
 trMA.Ode6C13.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C13.mode = misc_en_US_duvall.Mode6
-trMA.Ode6C13.melody = he.h.m6_en_US_duvall.SyneschethiAllOuKateschethi.incipit
-trMA.Ode6C13.incipit = ""
+trMA.Ode6C13.melody = he.h.m6_en_US_duvall.SyneschethiAllOuKateschethi.name
+trMA.Ode6C13.incipit = "…"
 trMA.Ode6C13.text = ""
 
 trMA.Ode6K.ode = misc_en_US_duvall.Ode6
@@ -293,7 +293,7 @@ trMA.Ode6K.text = he.h.m6_en_US_duvall.SyneschethiAllOuKateschethi.text
 
 trMA.Kontakion1.mode = misc_en_US_duvall.Mode2
 trMA.Kontakion1.melody = ""
-trMA.Kontakion1.incipit = "He who closed the abyss"
+trMA.Kontakion1.incipit = "He who closed the abyss…"
 trMA.Kontakion1.text = "He who closed the abyss is seen as dead; As a mortal the Deathless one, Wrapped in spice and linen, Is laid within a grave. Women came to anoint Him, Wailing bitter, crying out, \"Exceeding blessed is this Sabbath, On which the Christ has slumbered, To rise on the third day.\""
 
 trMA.Oikos1.text = "He who holds all things together is raised upon a Cross, And all creation mourns beholding this One hung Naked on a Tree. The sun hid its beams, And the stars withheld their shine. The earth, full-feared, was shaken, And the sea has fled away. The rocks were split asunder, And the graves of scores were opened, And the forms of holy men arose. Hades groans below, Yet Judeans plan to slander The resurrection of Christ. And the women cry aloud, \"Exceeding blessed is this Sabbath, On which the Christ has slumbered, To rise on the third day.\""
@@ -321,26 +321,26 @@ trMA.Ode7C1H.text = he.h.m6_en_US_duvall.AfrastonThavma.text
 
 trMA.Ode7C11.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C11.mode = misc_en_US_duvall.Mode6
-trMA.Ode7C11.melody = he.h.m6_en_US_duvall.AfrastonThavma.incipit
-trMA.Ode7C11.incipit = ""
+trMA.Ode7C11.melody = he.h.m6_en_US_duvall.AfrastonThavma.name
+trMA.Ode7C11.incipit = "…"
 trMA.Ode7C11.text = ""
 
 trMA.Ode7C12.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C12.mode = misc_en_US_duvall.Mode6
-trMA.Ode7C12.melody = he.h.m6_en_US_duvall.AfrastonThavma.incipit
-trMA.Ode7C12.incipit = ""
+trMA.Ode7C12.melody = he.h.m6_en_US_duvall.AfrastonThavma.name
+trMA.Ode7C12.incipit = "…"
 trMA.Ode7C12.text = ""
 
 trMA.Ode7C13.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C13.mode = misc_en_US_duvall.Mode6
-trMA.Ode7C13.melody = he.h.m6_en_US_duvall.AfrastonThavma.incipit
-trMA.Ode7C13.incipit = ""
+trMA.Ode7C13.melody = he.h.m6_en_US_duvall.AfrastonThavma.name
+trMA.Ode7C13.incipit = "…"
 trMA.Ode7C13.text = ""
 
 trMA.Ode7C14.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C14.mode = misc_en_US_duvall.Mode6
-trMA.Ode7C14.melody = he.h.m6_en_US_duvall.AfrastonThavma.incipit
-trMA.Ode7C14.incipit = ""
+trMA.Ode7C14.melody = he.h.m6_en_US_duvall.AfrastonThavma.name
+trMA.Ode7C14.incipit = "…"
 trMA.Ode7C14.text = ""
 
 trMA.Ode7K.ode = misc_en_US_duvall.Ode7
@@ -357,20 +357,20 @@ trMA.Ode8C1H.text = he.h.m6_en_US_duvall.EkstithiFrittonOurane.text
 
 trMA.Ode8C11.ode = misc_en_US_duvall.Ode8
 trMA.Ode8C11.mode = misc_en_US_duvall.Mode6
-trMA.Ode8C11.melody = he.h.m6_en_US_duvall.EkstithiFrittonOurane.incipit
-trMA.Ode8C11.incipit = ""
+trMA.Ode8C11.melody = he.h.m6_en_US_duvall.EkstithiFrittonOurane.name
+trMA.Ode8C11.incipit = "…"
 trMA.Ode8C11.text = ""
 
 trMA.Ode8C12.ode = misc_en_US_duvall.Ode8
 trMA.Ode8C12.mode = misc_en_US_duvall.Mode6
-trMA.Ode8C12.melody = he.h.m6_en_US_duvall.EkstithiFrittonOurane.incipit
-trMA.Ode8C12.incipit = ""
+trMA.Ode8C12.melody = he.h.m6_en_US_duvall.EkstithiFrittonOurane.name
+trMA.Ode8C12.incipit = "…"
 trMA.Ode8C12.text = ""
 
 trMA.Ode8C13.ode = misc_en_US_duvall.Ode8
 trMA.Ode8C13.mode = misc_en_US_duvall.Mode6
-trMA.Ode8C13.melody = he.h.m6_en_US_duvall.EkstithiFrittonOurane.incipit
-trMA.Ode8C13.incipit = ""
+trMA.Ode8C13.melody = he.h.m6_en_US_duvall.EkstithiFrittonOurane.name
+trMA.Ode8C13.incipit = "…"
 trMA.Ode8C13.text = ""
 
 trMA.Ode8K.ode = misc_en_US_duvall.Ode8
@@ -387,20 +387,20 @@ trMA.Ode9C1H.text = he.h.m6_en_US_duvall.MiEpodyrouMouMiter.text
 
 trMA.Ode9C11.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C11.mode = misc_en_US_duvall.Mode6
-trMA.Ode9C11.melody = he.h.m6_en_US_duvall.MiEpodyrouMouMiter.incipit
-trMA.Ode9C11.incipit = ""
+trMA.Ode9C11.melody = he.h.m6_en_US_duvall.MiEpodyrouMouMiter.name
+trMA.Ode9C11.incipit = "…"
 trMA.Ode9C11.text = ""
 
 trMA.Ode9C12.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C12.mode = misc_en_US_duvall.Mode6
-trMA.Ode9C12.melody = he.h.m6_en_US_duvall.MiEpodyrouMouMiter.incipit
-trMA.Ode9C12.incipit = ""
+trMA.Ode9C12.melody = he.h.m6_en_US_duvall.MiEpodyrouMouMiter.name
+trMA.Ode9C12.incipit = "…"
 trMA.Ode9C12.text = ""
 
 trMA.Ode9C13.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C13.mode = misc_en_US_duvall.Mode6
-trMA.Ode9C13.melody = he.h.m6_en_US_duvall.MiEpodyrouMouMiter.incipit
-trMA.Ode9C13.incipit = ""
+trMA.Ode9C13.melody = he.h.m6_en_US_duvall.MiEpodyrouMouMiter.name
+trMA.Ode9C13.incipit = "…"
 trMA.Ode9C13.text = ""
 
 trMA.Ode9K.ode = misc_en_US_duvall.Ode9
@@ -417,27 +417,27 @@ trHW.Lauds01.text = properties_en_US_duvall.media.key
 
 trMA.Lauds1.mode = misc_en_US_duvall.Mode2
 trMA.Lauds1.melody = misc_en_US_duvall.Idiomelon
-trMA.Lauds1.incipit = ""
+trMA.Lauds1.incipit = "…"
 trMA.Lauds1.text = ""
 
 trMA.Lauds2.mode = misc_en_US_duvall.Mode2
 trMA.Lauds2.melody = misc_en_US_duvall.Idiomelon
-trMA.Lauds2.incipit = ""
+trMA.Lauds2.incipit = "…"
 trMA.Lauds2.text = ""
 
 trMA.Lauds3.mode = misc_en_US_duvall.Mode2
 trMA.Lauds3.melody = misc_en_US_duvall.Idiomelon
-trMA.Lauds3.incipit = ""
+trMA.Lauds3.incipit = "…"
 trMA.Lauds3.text = ""
 
 trMA.Lauds4.mode = misc_en_US_duvall.Mode6
 trMA.Lauds4.melody = misc_en_US_duvall.Idiomelon
-trMA.Lauds4.incipit = ""
+trMA.Lauds4.incipit = "…"
 trMA.Lauds4.text = ""
 
 trMA.LaudsGlory.mode = misc_en_US_duvall.Mode6
 trMA.LaudsGlory.melody = misc_en_US_duvall.Idiomelon
-trMA.LaudsGlory.incipit = ""
+trMA.LaudsGlory.incipit = "…"
 trMA.LaudsGlory.text = ""
 
 trMA.LaudsTheotokion.mode = misc_en_US_duvall.Mode2
@@ -449,5 +449,5 @@ trMA.LaudsTheotokion.text = oc.m2.d1_en_US_duvall.ocMA.Kathisma23.text
 
 trTE.Troparion.mode = misc_en_US_duvall.Mode2
 trTE.Troparion.melody = ""
-trTE.Troparion.incipit = ""
+trTE.Troparion.incipit = "…"
 trTE.Troparion.text = ""
