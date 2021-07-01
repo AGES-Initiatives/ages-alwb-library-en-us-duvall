@@ -8,7 +8,7 @@ meVE.Stichera02.text = "This is the Lord's Day, O people, be filled with gladnes
 meVE.Stichera04.poet = //poets_en_US_duvall.StefanouAgiopolitou
 meVE.Stichera04.mode = misc_en_US_duvall.Mode6
 meVE.Stichera04.melody = misc_en_US_duvall.Idiomelon
-meVE.Stichera04.incipit = "Today, the barren gates are…"
+meVE.Stichera04.incipit = "Today, the barren gates…"
 meVE.Stichera04.text = "Today, the barren gates are opened and the Virgin, the Gate of God, comes forth. Today, grace begins to bear fruit, showing forth to the world the Mother of God, through whom earth is to heaven united, for the salvation of our souls."
 
 meVE.Stichera06.mode = misc_en_US_duvall.Mode6
@@ -24,7 +24,7 @@ meVE.Aposticha1.text = me.m09.d07_en_US_duvall.meVE.AposGlory.text
 
 meVE.Aposticha2.mode = misc_en_US_duvall.Mode4
 meVE.Aposticha2.melody = misc_en_US_duvall.Idiomelon
-meVE.Aposticha2.incipit = "At an Angel's prediction, a…"
+meVE.Aposticha2.incipit = "At an Angel's prediction…"
 meVE.Aposticha2.text = "At an Angel's prediction, a child all-holy of righteous Joachim and Anna, O Virgin, you came forth today; heaven and throne of God, vessel of cleanliness, foretoken of joy for all the world, envoy of our Life, destruction of the censure, proxy of blessings. Therefore, at your nativity, O Daughter called of God, plead for peace and great mercy for our souls."
 
 meVE.AposGlory.poet = //poets_en_US_duvall.SergiouAgiopolitou
@@ -41,7 +41,7 @@ meMA.PostGospelIdiomelon.text = me.m09.d07_en_US_duvall.meVE.AposGlory.text
 
 meMA.Kontakion1.mode = misc_en_US_duvall.Mode4
 meMA.Kontakion1.melody = ""
-meMA.Kontakion1.incipit = "Both Joachim and Anna from…"
+meMA.Kontakion1.incipit = "Both Joachim and Anna…"
 meMA.Kontakion1.text = "Both Joachim and Anna from their sterility's stigma, and Adam and Eve from their mortality's ruin have been set free, O immaculate Maid, by your holy nativity. For this do your people hold celebration, redeemed from the guilt of transgression as they cry to you, \"The barren one bears the Theotokos, the nourisher of our Life.\""
 
 meMA.Oikos1.text = "The prayer with the sigh, sterile and barren, of Joachim and of Anna, was well-received in the ears of the Lord. It unbound them and they blossomed the fruit that brings life to the world. For while he on the mountain did offer a prayer, she in the garden the reproach did bear. But then with joy the barren one bears the Theotokos, the nourisher of our Life."
