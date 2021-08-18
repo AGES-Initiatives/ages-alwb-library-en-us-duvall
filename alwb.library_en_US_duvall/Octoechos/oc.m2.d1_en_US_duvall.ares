@@ -41,6 +41,8 @@ ocVE.MM.LIHC2.text = properties_en_US_duvall.media.key
 
 ocVE.MM.Stichologia.text = properties_en_US_duvall.media.key
 
+ocBK.ModeNaked = misc_en_US_duvall.Mode2.naked
+
 ocVE.Stichera1.mode = misc_en_US_duvall.Mode2
 ocVE.Stichera1.melody = ""
 ocVE.Stichera1.incipit = "…"
