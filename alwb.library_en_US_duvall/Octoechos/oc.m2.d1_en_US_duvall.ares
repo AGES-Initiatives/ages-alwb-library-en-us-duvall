@@ -410,7 +410,7 @@ ocMA.C3.acrostic = ""
 
 ocMA.OdeS1C1H.mode = misc_en_US_duvall.Mode2
 ocMA.OdeS1C1H.ode = misc_en_US_duvall.Ode1
-ocMA.OdeS1C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS1C1H.melody = he.h.m2_en_US_duvall.EnVythoKatestrose.melody
 ocMA.OdeS1C1H.incipit = he.h.m2_en_US_duvall.EnVythoKatestrose.incipit
 ocMA.OdeS1C1H.text = he.h.m2_en_US_duvall.EnVythoKatestrose.text
 
@@ -464,7 +464,7 @@ ocMA.OdeS1C33.text = ""
 
 ocMA.OdeS3C1H.mode = misc_en_US_duvall.Mode2
 ocMA.OdeS3C1H.ode = misc_en_US_duvall.Ode3
-ocMA.OdeS3C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS3C1H.melody = he.h.m2_en_US_duvall.ExinthisenIErimos.melody
 ocMA.OdeS3C1H.incipit = he.h.m2_en_US_duvall.ExinthisenIErimos.incipit
 ocMA.OdeS3C1H.text = he.h.m2_en_US_duvall.ExinthisenIErimos.text
 
@@ -512,7 +512,7 @@ ocMA.OdeS3C32.text = ""
 
 ocMA.OdeS4C1H.mode = misc_en_US_duvall.Mode2
 ocMA.OdeS4C1H.ode = misc_en_US_duvall.Ode4
-ocMA.OdeS4C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS4C1H.melody = he.h.m2_en_US_duvall.ElilythasEkParthenou.melody
 ocMA.OdeS4C1H.incipit = he.h.m2_en_US_duvall.ElilythasEkParthenou.incipit
 ocMA.OdeS4C1H.text = he.h.m2_en_US_duvall.ElilythasEkParthenou.text
 
@@ -560,7 +560,7 @@ ocMA.OdeS4C32.text = ""
 
 ocMA.OdeS5C1H.mode = misc_en_US_duvall.Mode2
 ocMA.OdeS5C1H.ode = misc_en_US_duvall.Ode5
-ocMA.OdeS5C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS5C1H.melody = he.h.m2_en_US_duvall.MesitisTheou.melody
 ocMA.OdeS5C1H.incipit = he.h.m2_en_US_duvall.MesitisTheou.incipit
 ocMA.OdeS5C1H.text = he.h.m2_en_US_duvall.MesitisTheou.text
 
@@ -608,7 +608,7 @@ ocMA.OdeS5C32.text = ""
 
 ocMA.OdeS6C1H.mode = misc_en_US_duvall.Mode2
 ocMA.OdeS6C1H.ode = misc_en_US_duvall.Ode6
-ocMA.OdeS6C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS6C1H.melody = he.h.m2_en_US_duvall.EnAvyssoPtaismaton.melody
 ocMA.OdeS6C1H.incipit = he.h.m2_en_US_duvall.EnAvyssoPtaismaton.incipit
 ocMA.OdeS6C1H.text = he.h.m2_en_US_duvall.EnAvyssoPtaismaton.text
 
@@ -665,7 +665,7 @@ ocMA.Oikos.text = "You are the light of those in darkness, You are the resurrect
 
 ocMA.OdeS7C1H.mode = misc_en_US_duvall.Mode2
 ocMA.OdeS7C1H.ode = misc_en_US_duvall.Ode7
-ocMA.OdeS7C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS7C1H.melody = he.h.m2_en_US_duvall.AntitheonProstagma.melody
 ocMA.OdeS7C1H.incipit = he.h.m2_en_US_duvall.AntitheonProstagma.incipit
 ocMA.OdeS7C1H.text = he.h.m2_en_US_duvall.AntitheonProstagma.text
 
@@ -725,7 +725,7 @@ ocMA.OdeS7C33.text = ""
 
 ocMA.OdeS8C1H.mode = misc_en_US_duvall.Mode2
 ocMA.OdeS8C1H.ode = misc_en_US_duvall.Ode8
-ocMA.OdeS8C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS8C1H.melody = he.h.m2_en_US_duvall.KaminosPote.melody
 ocMA.OdeS8C1H.incipit = he.h.m2_en_US_duvall.KaminosPote.incipit
 ocMA.OdeS8C1H.text = he.h.m2_en_US_duvall.KaminosPote.text
 
@@ -773,7 +773,7 @@ ocMA.OdeS8C32.text = ""
 
 ocMA.OdeS9C1H.mode = misc_en_US_duvall.Mode2
 ocMA.OdeS9C1H.ode = misc_en_US_duvall.Ode9
-ocMA.OdeS9C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS9C1H.melody = he.h.m2_en_US_duvall.AnarchouGennitoros.melody
 ocMA.OdeS9C1H.incipit = he.h.m2_en_US_duvall.AnarchouGennitoros.incipit
 ocMA.OdeS9C1H.text = he.h.m2_en_US_duvall.AnarchouGennitoros.text
 

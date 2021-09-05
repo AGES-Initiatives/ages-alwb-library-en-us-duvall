@@ -207,7 +207,7 @@ meMA.C1.acrostic = ""
 
 meMA.Ode1C1H.ode = misc_en_US_duvall.Ode1
 meMA.Ode1C1H.mode = misc_en_US_duvall.Mode3
-meMA.Ode1C1H.melody = misc_en_US_duvall.Heirmos
+meMA.Ode1C1H.melody = he.h.m3_en_US_duvall.ChersonAvyssotokon.melody
 meMA.Ode1C1H.incipit = he.h.m3_en_US_duvall.ChersonAvyssotokon.incipit
 meMA.Ode1C1H.text = he.h.m3_en_US_duvall.ChersonAvyssotokon.text
 
@@ -234,7 +234,7 @@ meMA.Ode1C13.text = ""
 
 meMA.Ode3C1H.ode = misc_en_US_duvall.Ode3
 meMA.Ode3C1H.mode = misc_en_US_duvall.Mode3
-meMA.Ode3C1H.melody = misc_en_US_duvall.Heirmos
+meMA.Ode3C1H.melody = he.h.m3_en_US_duvall.ToStereoma.melody
 meMA.Ode3C1H.incipit = he.h.m3_en_US_duvall.ToStereoma.incipit
 meMA.Ode3C1H.text = he.h.m3_en_US_duvall.ToStereoma.text
 
@@ -263,7 +263,7 @@ meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode4C1H.ode = misc_en_US_duvall.Ode4
 meMA.Ode4C1H.mode = misc_en_US_duvall.Mode3
-meMA.Ode4C1H.melody = misc_en_US_duvall.Heirmos
+meMA.Ode4C1H.melody = he.h.m3_en_US_duvall.EkalypsenOuranous.melody
 meMA.Ode4C1H.incipit = he.h.m3_en_US_duvall.EkalypsenOuranous.incipit
 meMA.Ode4C1H.text = he.h.m3_en_US_duvall.EkalypsenOuranous.text
 
@@ -287,7 +287,7 @@ meMA.Ode4C13.text = ""
 
 meMA.Ode5C1H.ode = misc_en_US_duvall.Ode5
 meMA.Ode5C1H.mode = misc_en_US_duvall.Mode3
-meMA.Ode5C1H.melody = misc_en_US_duvall.Heirmos
+meMA.Ode5C1H.melody = he.h.m3_en_US_duvall.OsEidenIsaias.melody
 meMA.Ode5C1H.incipit = he.h.m3_en_US_duvall.OsEidenIsaias.incipit
 meMA.Ode5C1H.text = he.h.m3_en_US_duvall.OsEidenIsaias.text
 
@@ -311,7 +311,7 @@ meMA.Ode5C13.text = ""
 
 meMA.Ode6C1H.ode = misc_en_US_duvall.Ode6
 meMA.Ode6C1H.mode = misc_en_US_duvall.Mode3
-meMA.Ode6C1H.melody = misc_en_US_duvall.Heirmos
+meMA.Ode6C1H.melody = he.h.m3_en_US_duvall.EvoiseSoi.melody
 meMA.Ode6C1H.incipit = he.h.m3_en_US_duvall.EvoiseSoi.incipit
 meMA.Ode6C1H.text = he.h.m3_en_US_duvall.EvoiseSoi.text
 
@@ -342,7 +342,7 @@ meMA.Oikos1.text = "To the Theotokos let us run, who desire to look upon her Son
 
 meMA.Ode7C1H.ode = misc_en_US_duvall.Ode7
 meMA.Ode7C1H.mode = misc_en_US_duvall.Mode3
-meMA.Ode7C1H.melody = misc_en_US_duvall.Heirmos
+meMA.Ode7C1H.melody = he.h.m3_en_US_duvall.SeTonEnPyri.melody
 meMA.Ode7C1H.incipit = he.h.m3_en_US_duvall.SeTonEnPyri.incipit
 meMA.Ode7C1H.text = he.h.m3_en_US_duvall.SeTonEnPyri.text
 
@@ -366,7 +366,7 @@ meMA.Ode7C13.text = ""
 
 meMA.Ode8C1H.ode = misc_en_US_duvall.Ode8
 meMA.Ode8C1H.mode = misc_en_US_duvall.Mode3
-meMA.Ode8C1H.melody = misc_en_US_duvall.Heirmos
+meMA.Ode8C1H.melody = he.h.m3_en_US_duvall.AstektoPyri.melody
 meMA.Ode8C1H.incipit = he.h.m3_en_US_duvall.AstektoPyri.incipit
 meMA.Ode8C1H.text = he.h.m3_en_US_duvall.AstektoPyri.text
 
@@ -423,7 +423,7 @@ meMA.Ode9C1MTh.text = "Theotokos, as the hope * of us Christians, one and all, *
 
 meMA.Ode9C1H.ode = misc_en_US_duvall.Ode9
 meMA.Ode9C1H.mode = misc_en_US_duvall.Mode3
-meMA.Ode9C1H.melody = misc_en_US_duvall.Heirmos
+meMA.Ode9C1H.melody = he.h.m3_en_US_duvall.EnNomoSkia.melody
 meMA.Ode9C1H.incipit = he.h.m3_en_US_duvall.EnNomoSkia.incipit
 meMA.Ode9C1H.text = he.h.m3_en_US_duvall.EnNomoSkia.text
 

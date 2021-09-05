@@ -136,7 +136,7 @@ trMA.C1.acrostic = ""
 
 trMA.Ode1C1H.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C1H.mode = misc_en_US_duvall.Mode6
-trMA.Ode1C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode1C1H.melody = he.h.m6_en_US_duvall.KymatiThalassis.melody
 trMA.Ode1C1H.incipit = he.h.m6_en_US_duvall.KymatiThalassis.incipit
 trMA.Ode1C1H.text = he.h.m6_en_US_duvall.KymatiThalassis.text
 
@@ -169,7 +169,7 @@ trMA.Ode1K.text = he.h.m6_en_US_duvall.KymatiThalassis.text
 
 trMA.Ode3C1H.ode = misc_en_US_duvall.Ode3
 trMA.Ode3C1H.mode = misc_en_US_duvall.Mode6
-trMA.Ode3C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode3C1H.melody = he.h.m6_en_US_duvall.SeTonEpiYdaton.melody
 trMA.Ode3C1H.incipit = he.h.m6_en_US_duvall.SeTonEpiYdaton.incipit
 trMA.Ode3C1H.text = he.h.m6_en_US_duvall.SeTonEpiYdaton.text
 
@@ -204,7 +204,7 @@ trMA.Ode3Kathisma1.text = he.a.m1_en_US_duvall.TonTafonSouSotir.text
 
 trMA.Ode4C1H.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C1H.mode = misc_en_US_duvall.Mode6
-trMA.Ode4C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode4C1H.melody = he.h.m6_en_US_duvall.TinEnStavroSou.melody
 trMA.Ode4C1H.incipit = he.h.m6_en_US_duvall.TinEnStavroSou.incipit
 trMA.Ode4C1H.text = he.h.m6_en_US_duvall.TinEnStavroSou.text
 
@@ -234,7 +234,7 @@ trMA.Ode4K.text = he.h.m6_en_US_duvall.TinEnStavroSou.text
 
 trMA.Ode5C1H.ode = misc_en_US_duvall.Ode5
 trMA.Ode5C1H.mode = misc_en_US_duvall.Mode6
-trMA.Ode5C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode5C1H.melody = he.h.m6_en_US_duvall.TheofaneiasSouChriste.melody
 trMA.Ode5C1H.incipit = he.h.m6_en_US_duvall.TheofaneiasSouChriste.incipit
 trMA.Ode5C1H.text = he.h.m6_en_US_duvall.TheofaneiasSouChriste.text
 
@@ -264,7 +264,7 @@ trMA.Ode5K.text = he.h.m6_en_US_duvall.TheofaneiasSouChriste.text
 
 trMA.Ode6C1H.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C1H.mode = misc_en_US_duvall.Mode6
-trMA.Ode6C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode6C1H.melody = he.h.m6_en_US_duvall.SyneschethiAllOuKateschethi.melody
 trMA.Ode6C1H.incipit = he.h.m6_en_US_duvall.SyneschethiAllOuKateschethi.incipit
 trMA.Ode6C1H.text = he.h.m6_en_US_duvall.SyneschethiAllOuKateschethi.text
 
@@ -316,7 +316,7 @@ trSY.lastline = ""
 
 trMA.Ode7C1H.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C1H.mode = misc_en_US_duvall.Mode6
-trMA.Ode7C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode7C1H.melody = he.h.m6_en_US_duvall.AfrastonThavma.melody
 trMA.Ode7C1H.incipit = he.h.m6_en_US_duvall.AfrastonThavma.incipit
 trMA.Ode7C1H.text = he.h.m6_en_US_duvall.AfrastonThavma.text
 
@@ -352,7 +352,7 @@ trMA.Ode7K.text = he.h.m6_en_US_duvall.AfrastonThavma.text
 
 trMA.Ode8C1H.ode = misc_en_US_duvall.Ode8
 trMA.Ode8C1H.mode = misc_en_US_duvall.Mode6
-trMA.Ode8C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode8C1H.melody = he.h.m6_en_US_duvall.EkstithiFrittonOurane.melody
 trMA.Ode8C1H.incipit = he.h.m6_en_US_duvall.EkstithiFrittonOurane.incipit
 trMA.Ode8C1H.text = he.h.m6_en_US_duvall.EkstithiFrittonOurane.text
 
@@ -382,7 +382,7 @@ trMA.Ode8K.text = he.h.m6_en_US_duvall.EkstithiFrittonOurane.text
 
 trMA.Ode9C1H.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C1H.mode = misc_en_US_duvall.Mode6
-trMA.Ode9C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode9C1H.melody = he.h.m6_en_US_duvall.MiEpodyrouMouMiter.melody
 trMA.Ode9C1H.incipit = he.h.m6_en_US_duvall.MiEpodyrouMouMiter.incipit
 trMA.Ode9C1H.text = he.h.m6_en_US_duvall.MiEpodyrouMouMiter.text
 

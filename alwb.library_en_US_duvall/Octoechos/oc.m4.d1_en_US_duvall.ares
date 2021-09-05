@@ -409,7 +409,7 @@ ocMA.C3.acrostic = ""
 
 ocMA.OdeS1C1H.mode = misc_en_US_duvall.Mode4
 ocMA.OdeS1C1H.ode = misc_en_US_duvall.Ode1
-ocMA.OdeS1C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS1C1H.melody = he.h.m4_en_US_duvall.ThalassisToErythraion.melody
 ocMA.OdeS1C1H.incipit = he.h.m4_en_US_duvall.ThalassisToErythraion.incipit
 ocMA.OdeS1C1H.text = he.h.m4_en_US_duvall.ThalassisToErythraion.text
 
@@ -469,7 +469,7 @@ ocMA.OdeS1C32.text = ""
 
 ocMA.OdeS3C1H.mode = misc_en_US_duvall.Mode4
 ocMA.OdeS3C1H.ode = misc_en_US_duvall.Ode3
-ocMA.OdeS3C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS3C1H.melody = he.h.m4_en_US_duvall.EffrainetaiEpiSoi.melody
 ocMA.OdeS3C1H.incipit = he.h.m4_en_US_duvall.EffrainetaiEpiSoi.incipit
 ocMA.OdeS3C1H.text = he.h.m4_en_US_duvall.EffrainetaiEpiSoi.text
 
@@ -529,7 +529,7 @@ ocMA.OdeS3C32.text = ""
 
 ocMA.OdeS4C1H.mode = misc_en_US_duvall.Mode4
 ocMA.OdeS4C1H.ode = misc_en_US_duvall.Ode4
-ocMA.OdeS4C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS4C1H.melody = he.h.m4_en_US_duvall.EparthentaSeIdousa.melody
 ocMA.OdeS4C1H.incipit = he.h.m4_en_US_duvall.EparthentaSeIdousa.incipit
 ocMA.OdeS4C1H.text = he.h.m4_en_US_duvall.EparthentaSeIdousa.text
 
@@ -595,7 +595,7 @@ ocMA.OdeS4C33.text = ""
 
 ocMA.OdeS5C1H.mode = misc_en_US_duvall.Mode4
 ocMA.OdeS5C1H.ode = misc_en_US_duvall.Ode5
-ocMA.OdeS5C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS5C1H.melody = he.h.m4_en_US_duvall.SyKyrieMouFos.melody
 ocMA.OdeS5C1H.incipit = he.h.m4_en_US_duvall.SyKyrieMouFos.incipit
 ocMA.OdeS5C1H.text = he.h.m4_en_US_duvall.SyKyrieMouFos.text
 
@@ -661,7 +661,7 @@ ocMA.OdeS5C33.text = ""
 
 ocMA.OdeS6C1H.mode = misc_en_US_duvall.Mode4
 ocMA.OdeS6C1H.ode = misc_en_US_duvall.Ode6
-ocMA.OdeS6C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS6C1H.melody = he.h.m4_en_US_duvall.ThysoSoiMetaFonis.melody
 ocMA.OdeS6C1H.incipit = he.h.m4_en_US_duvall.ThysoSoiMetaFonis.incipit
 ocMA.OdeS6C1H.text = he.h.m4_en_US_duvall.ThysoSoiMetaFonis.text
 
@@ -730,7 +730,7 @@ ocMA.Oikos.text = "To Him who from the dead arose, Christ the Life-Giver, on the
 
 ocMA.OdeS7C1H.mode = misc_en_US_duvall.Mode4
 ocMA.OdeS7C1H.ode = misc_en_US_duvall.Ode7
-ocMA.OdeS7C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS7C1H.melody = he.h.m4_en_US_duvall.EnTiKaminoAvramiaioi.melody
 ocMA.OdeS7C1H.incipit = he.h.m4_en_US_duvall.EnTiKaminoAvramiaioi.incipit
 ocMA.OdeS7C1H.text = he.h.m4_en_US_duvall.EnTiKaminoAvramiaioi.text
 
@@ -796,7 +796,7 @@ ocMA.OdeS7C3Tr.text = ""
 
 ocMA.OdeS8C1H.mode = misc_en_US_duvall.Mode4
 ocMA.OdeS8C1H.ode = misc_en_US_duvall.Ode8
-ocMA.OdeS8C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS8C1H.melody = he.h.m4_en_US_duvall.CheirasEkpetasasDaniil.melody
 ocMA.OdeS8C1H.incipit = he.h.m4_en_US_duvall.CheirasEkpetasasDaniil.incipit
 ocMA.OdeS8C1H.text = he.h.m4_en_US_duvall.CheirasEkpetasasDaniil.text
 
@@ -862,7 +862,7 @@ ocMA.OdeS8C33.text = ""
 
 ocMA.OdeS9C1H.mode = misc_en_US_duvall.Mode4
 ocMA.OdeS9C1H.ode = misc_en_US_duvall.Ode9
-ocMA.OdeS9C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS9C1H.melody = he.h.m4_en_US_duvall.LithosAcheirotmitos.melody
 ocMA.OdeS9C1H.incipit = he.h.m4_en_US_duvall.LithosAcheirotmitos.incipit
 ocMA.OdeS9C1H.text = he.h.m4_en_US_duvall.LithosAcheirotmitos.text
 

@@ -426,7 +426,7 @@ ocMA.C3.acrostic = ""
 
 ocMA.OdeS1C1H.mode = misc_en_US_duvall.Mode8
 ocMA.OdeS1C1H.ode = misc_en_US_duvall.Ode1
-ocMA.OdeS1C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS1C1H.melody = he.h.m8_en_US_duvall.ArmatilatinFarao.melody
 ocMA.OdeS1C1H.incipit = he.h.m8_en_US_duvall.ArmatilatinFarao.incipit
 ocMA.OdeS1C1H.text = he.h.m8_en_US_duvall.ArmatilatinFarao.text
 
@@ -486,7 +486,7 @@ ocMA.OdeS1C33.text = ""
 
 ocMA.OdeS3C1H.mode = misc_en_US_duvall.Mode8
 ocMA.OdeS3C1H.ode = misc_en_US_duvall.Ode3
-ocMA.OdeS3C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS3C1H.melody = he.h.m8_en_US_duvall.OStereosasKatArchas.melody
 ocMA.OdeS3C1H.incipit = he.h.m8_en_US_duvall.OStereosasKatArchas.incipit
 ocMA.OdeS3C1H.text = he.h.m8_en_US_duvall.OStereosasKatArchas.text
 
@@ -546,7 +546,7 @@ ocMA.OdeS3C33.text = ""
 
 ocMA.OdeS4C1H.mode = misc_en_US_duvall.Mode8
 ocMA.OdeS4C1H.ode = misc_en_US_duvall.Ode4
-ocMA.OdeS4C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS4C1H.melody = he.h.m8_en_US_duvall.SyMouIschys.melody
 ocMA.OdeS4C1H.incipit = he.h.m8_en_US_duvall.SyMouIschys.incipit
 ocMA.OdeS4C1H.text = he.h.m8_en_US_duvall.SyMouIschys.text
 
@@ -606,7 +606,7 @@ ocMA.OdeS4C33.text = ""
 
 ocMA.OdeS5C1H.mode = misc_en_US_duvall.Mode8
 ocMA.OdeS5C1H.ode = misc_en_US_duvall.Ode5
-ocMA.OdeS5C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS5C1H.melody = he.h.m8_en_US_duvall.InaTiMeAposo.melody
 ocMA.OdeS5C1H.incipit = he.h.m8_en_US_duvall.InaTiMeAposo.incipit
 ocMA.OdeS5C1H.text = he.h.m8_en_US_duvall.InaTiMeAposo.text
 
@@ -666,7 +666,7 @@ ocMA.OdeS5C33.text = ""
 
 ocMA.OdeS6C1H.mode = misc_en_US_duvall.Mode8
 ocMA.OdeS6C1H.ode = misc_en_US_duvall.Ode6
-ocMA.OdeS6C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS6C1H.melody = he.h.m8_en_US_duvall.IlasthitiMoiSotir.melody
 ocMA.OdeS6C1H.incipit = he.h.m8_en_US_duvall.IlasthitiMoiSotir.incipit
 ocMA.OdeS6C1H.text = he.h.m8_en_US_duvall.IlasthitiMoiSotir.text
 
@@ -735,7 +735,7 @@ ocMA.Oikos.text = "Having plundered the realms of Hades and raised the dead, O L
 
 ocMA.OdeS7C1H.mode = misc_en_US_duvall.Mode8
 ocMA.OdeS7C1H.ode = misc_en_US_duvall.Ode7
-ocMA.OdeS7C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS7C1H.melody = he.h.m8_en_US_duvall.TheouSynkatavasin.melody
 ocMA.OdeS7C1H.incipit = he.h.m8_en_US_duvall.TheouSynkatavasin.incipit
 ocMA.OdeS7C1H.text = he.h.m8_en_US_duvall.TheouSynkatavasin.text
 
@@ -795,7 +795,7 @@ ocMA.OdeS7C33.text = ""
 
 ocMA.OdeS8C1H.mode = misc_en_US_duvall.Mode8
 ocMA.OdeS8C1H.ode = misc_en_US_duvall.Ode8
-ocMA.OdeS8C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS8C1H.melody = he.h.m8_en_US_duvall.EptaplasiosKaminon.melody
 ocMA.OdeS8C1H.incipit = he.h.m8_en_US_duvall.EptaplasiosKaminon.incipit
 ocMA.OdeS8C1H.text = he.h.m8_en_US_duvall.EptaplasiosKaminon.text
 
@@ -855,7 +855,7 @@ ocMA.OdeS8C33.text = ""
 
 ocMA.OdeS9C1H.mode = misc_en_US_duvall.Mode8
 ocMA.OdeS9C1H.ode = misc_en_US_duvall.Ode9
-ocMA.OdeS9C1H.melody = misc_en_US_duvall.Heirmos
+ocMA.OdeS9C1H.melody = he.h.m8_en_US_duvall.ExestiEpiTouto.melody
 ocMA.OdeS9C1H.incipit = he.h.m8_en_US_duvall.ExestiEpiTouto.incipit
 ocMA.OdeS9C1H.text = he.h.m8_en_US_duvall.ExestiEpiTouto.text
 

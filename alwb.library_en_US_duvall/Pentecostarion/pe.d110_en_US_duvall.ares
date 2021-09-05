@@ -187,7 +187,7 @@ peMA.C2.acrostic = ""
 
 peMA.Ode1C1H.ode = misc_en_US_duvall.Ode1
 peMA.Ode1C1H.mode = misc_en_US_duvall.Mode5
-peMA.Ode1C1H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode1C1H.melody = he.h.m5_en_US_duvall.ToSotiriTheo.melody
 peMA.Ode1C1H.incipit = he.h.m5_en_US_duvall.ToSotiriTheo.incipit
 peMA.Ode1C1H.text = he.h.m5_en_US_duvall.ToSotiriTheo.text
 
@@ -220,7 +220,7 @@ peMA.Ode1C1T.text = ""
 
 peMA.Ode1C2H.ode = misc_en_US_duvall.Ode1
 peMA.Ode1C2H.mode = misc_en_US_duvall.Mode4
-peMA.Ode1C2H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode1C2H.melody = he.h.m4_en_US_duvall.AnoixoToStomaMou.melody
 peMA.Ode1C2H.incipit = he.h.m4_en_US_duvall.AnoixoToStomaMou.incipit
 peMA.Ode1C2H.text = he.h.m4_en_US_duvall.AnoixoToStomaMou.text
 
@@ -253,7 +253,7 @@ peMA.Ode1C2T.text = ""
 
 peMA.Ode3C1H.ode = misc_en_US_duvall.Ode3
 peMA.Ode3C1H.mode = misc_en_US_duvall.Mode5
-peMA.Ode3C1H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode3C1H.melody = he.h.m5_en_US_duvall.DynameiTouStavrouSou.melody
 peMA.Ode3C1H.incipit = he.h.m5_en_US_duvall.DynameiTouStavrouSou.incipit
 peMA.Ode3C1H.text = he.h.m5_en_US_duvall.DynameiTouStavrouSou.text
 
@@ -289,7 +289,7 @@ peMA.Ode3C1T.text = ""
 
 peMA.Ode3C2H.ode = misc_en_US_duvall.Ode3
 peMA.Ode3C2H.mode = misc_en_US_duvall.Mode4
-peMA.Ode3C2H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode3C2H.melody = he.h.m4_en_US_duvall.TousSousYmnologous.melody
 peMA.Ode3C2H.incipit = he.h.m4_en_US_duvall.TousSousYmnologous.incipit
 peMA.Ode3C2H.text = he.h.m4_en_US_duvall.TousSousYmnologous.text
 
@@ -324,7 +324,7 @@ peMA.Ode3Kathisma1.text = ""
 
 peMA.Ode4C1H.ode = misc_en_US_duvall.Ode4
 peMA.Ode4C1H.mode = misc_en_US_duvall.Mode5
-peMA.Ode4C1H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode4C1H.melody = he.h.m5_en_US_duvall.EisakikoaTinAkoin.melody
 peMA.Ode4C1H.incipit = he.h.m5_en_US_duvall.EisakikoaTinAkoin.incipit
 peMA.Ode4C1H.text = he.h.m5_en_US_duvall.EisakikoaTinAkoin.text
 
@@ -354,7 +354,7 @@ peMA.Ode4C1T.text = ""
 
 peMA.Ode4C2H.ode = misc_en_US_duvall.Ode4
 peMA.Ode4C2H.mode = misc_en_US_duvall.Mode4
-peMA.Ode4C2H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode4C2H.melody = he.h.m4_en_US_duvall.OKathimenosEnDoxi.melody
 peMA.Ode4C2H.incipit = he.h.m4_en_US_duvall.OKathimenosEnDoxi.incipit
 peMA.Ode4C2H.text = he.h.m4_en_US_duvall.OKathimenosEnDoxi.text
 
@@ -384,7 +384,7 @@ peMA.Ode4C2T.text = ""
 
 peMA.Ode5C1H.ode = misc_en_US_duvall.Ode5
 peMA.Ode5C1H.mode = misc_en_US_duvall.Mode5
-peMA.Ode5C1H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode5C1H.melody = he.h.m5_en_US_duvall.OrthrizontesVoomenSoi.melody
 peMA.Ode5C1H.incipit = he.h.m5_en_US_duvall.OrthrizontesVoomenSoi.incipit
 peMA.Ode5C1H.text = he.h.m5_en_US_duvall.OrthrizontesVoomenSoi.text
 
@@ -414,7 +414,7 @@ peMA.Ode5C1T.text = ""
 
 peMA.Ode5C2H.ode = misc_en_US_duvall.Ode5
 peMA.Ode5C2H.mode = misc_en_US_duvall.Mode4
-peMA.Ode5C2H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode5C2H.melody = he.h.m4_en_US_duvall.ExestiTaSympanta.melody
 peMA.Ode5C2H.incipit = he.h.m4_en_US_duvall.ExestiTaSympanta.incipit
 peMA.Ode5C2H.text = he.h.m4_en_US_duvall.ExestiTaSympanta.text
 
@@ -444,7 +444,7 @@ peMA.Ode5C2T.text = ""
 
 peMA.Ode6C1H.ode = misc_en_US_duvall.Ode6
 peMA.Ode6C1H.mode = misc_en_US_duvall.Mode5
-peMA.Ode6C1H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode6C1H.melody = he.h.m5_en_US_duvall.EkykloseMeAvyssos.melody
 peMA.Ode6C1H.incipit = he.h.m5_en_US_duvall.EkykloseMeAvyssos.incipit
 peMA.Ode6C1H.text = he.h.m5_en_US_duvall.EkykloseMeAvyssos.text
 
@@ -474,7 +474,7 @@ peMA.Ode6C1T.text = ""
 
 peMA.Ode6C2H.ode = misc_en_US_duvall.Ode6
 peMA.Ode6C2H.mode = misc_en_US_duvall.Mode4
-peMA.Ode6C2H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode6C2H.melody = he.h.m4_en_US_duvall.TinTheianTaftin.melody
 peMA.Ode6C2H.incipit = he.h.m4_en_US_duvall.TinTheianTaftin.incipit
 peMA.Ode6C2H.text = he.h.m4_en_US_duvall.TinTheianTaftin.text
 
@@ -524,7 +524,7 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = misc_en_US_duvall.Ode7
 peMA.Ode7C1H.mode = misc_en_US_duvall.Mode5
-peMA.Ode7C1H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode7C1H.melody = he.h.m5_en_US_duvall.OEnKaminoPyros.melody
 peMA.Ode7C1H.incipit = he.h.m5_en_US_duvall.OEnKaminoPyros.incipit
 peMA.Ode7C1H.text = he.h.m5_en_US_duvall.OEnKaminoPyros.text
 
@@ -560,7 +560,7 @@ peMA.Ode7C1T.text = ""
 
 peMA.Ode7C2H.ode = misc_en_US_duvall.Ode7
 peMA.Ode7C2H.mode = misc_en_US_duvall.Mode4
-peMA.Ode7C2H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode7C2H.melody = he.h.m4_en_US_duvall.OukElatrefsan.melody
 peMA.Ode7C2H.incipit = he.h.m4_en_US_duvall.OukElatrefsan.incipit
 peMA.Ode7C2H.text = he.h.m4_en_US_duvall.OukElatrefsan.text
 
@@ -590,7 +590,7 @@ peMA.Ode7C2T.text = ""
 
 peMA.Ode8C1H.ode = misc_en_US_duvall.Ode8
 peMA.Ode8C1H.mode = misc_en_US_duvall.Mode5
-peMA.Ode8C1H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode8C1H.melody = he.h.m5_en_US_duvall.TonEkPatrosProAionon.melody
 peMA.Ode8C1H.incipit = he.h.m5_en_US_duvall.TonEkPatrosProAionon.incipit
 peMA.Ode8C1H.text = he.h.m5_en_US_duvall.TonEkPatrosProAionon.text
 
@@ -620,7 +620,7 @@ peMA.Ode8C1T.text = ""
 
 peMA.Ode8C2H.ode = misc_en_US_duvall.Ode8
 peMA.Ode8C2H.mode = misc_en_US_duvall.Mode4
-peMA.Ode8C2H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode8C2H.melody = he.h.m4_en_US_duvall.PaidasEvageis.melody
 peMA.Ode8C2H.incipit = he.h.m4_en_US_duvall.PaidasEvageis.incipit
 peMA.Ode8C2H.text = he.h.m4_en_US_duvall.PaidasEvageis.text
 
@@ -650,7 +650,7 @@ peMA.Ode8C2T.text = ""
 
 peMA.Ode9C1H.ode = misc_en_US_duvall.Ode9
 peMA.Ode9C1H.mode = misc_en_US_duvall.Mode5
-peMA.Ode9C1H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode9C1H.melody = he.h.m5_en_US_duvall.SeTinYperNoun.melody
 peMA.Ode9C1H.incipit = he.h.m5_en_US_duvall.SeTinYperNoun.incipit
 peMA.Ode9C1H.text = he.h.m5_en_US_duvall.SeTinYperNoun.text
 
@@ -689,7 +689,7 @@ peMA.Ode9C2M01.text = ""
 
 peMA.Ode9C2H.ode = misc_en_US_duvall.Ode9
 peMA.Ode9C2H.mode = misc_en_US_duvall.Mode4
-peMA.Ode9C2H.melody = misc_en_US_duvall.Heirmos
+peMA.Ode9C2H.melody = he.h.m4_en_US_duvall.ApasGigenis.melody
 peMA.Ode9C2H.incipit = he.h.m4_en_US_duvall.ApasGigenis.incipit
 peMA.Ode9C2H.text = he.h.m4_en_US_duvall.ApasGigenis.text
 

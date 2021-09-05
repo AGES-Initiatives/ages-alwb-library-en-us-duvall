@@ -602,7 +602,7 @@ trMA.C2.poet = //poets_en_US_duvall.KosmaMonachou
 
 trMA.Ode1C1H.ode = misc_en_US_duvall.Ode1
 trMA.Ode1C1H.mode = misc_en_US_duvall.Mode8
-trMA.Ode1C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode1C1H.melody = he.h.m8_en_US_duvall.AsomenToKyrio.melody
 trMA.Ode1C1H.incipit = he.h.m8_en_US_duvall.AsomenToKyrio.incipit
 trMA.Ode1C1H.text = he.h.m8_en_US_duvall.AsomenToKyrio.text
 
@@ -668,7 +668,7 @@ trMA.Ode1K.text = he.h.m8_en_US_duvall.YgranDiodefsas.text
 
 trMA.Ode3C1H.ode = misc_en_US_duvall.Ode3
 trMA.Ode3C1H.mode = misc_en_US_duvall.Mode8
-trMA.Ode3C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode3C1H.melody = he.h.m8_en_US_duvall.SyEiToStereoma.melody
 trMA.Ode3C1H.incipit = he.h.m8_en_US_duvall.SyEiToStereoma.incipit
 trMA.Ode3C1H.text = he.h.m8_en_US_duvall.SyEiToStereoma.text
 
@@ -738,7 +738,7 @@ trMA.Ode3Kathisma2.text = ""
 
 trMA.Ode4C1H.ode = misc_en_US_duvall.Ode4
 trMA.Ode4C1H.mode = misc_en_US_duvall.Mode8
-trMA.Ode4C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode4C1H.melody = he.h.m8_en_US_duvall.EisakikoaKyrie.melody
 trMA.Ode4C1H.incipit = he.h.m8_en_US_duvall.EisakikoaKyrie.incipit
 trMA.Ode4C1H.text = he.h.m8_en_US_duvall.EisakikoaKyrie.text
 
@@ -798,7 +798,7 @@ trMA.Ode4K.text = he.h.m8_en_US_duvall.SyMouIschys.text
 
 trMA.Ode5C1H.ode = misc_en_US_duvall.Ode5
 trMA.Ode5C1H.mode = misc_en_US_duvall.Mode8
-trMA.Ode5C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode5C1H.melody = he.h.m8_en_US_duvall.InaTiMeAposo.melody
 trMA.Ode5C1H.incipit = he.h.m8_en_US_duvall.InaTiMeAposo.incipit
 trMA.Ode5C1H.text = he.h.m8_en_US_duvall.InaTiMeAposo.text
 
@@ -856,7 +856,7 @@ trMA.C4.poet = //poets_en_US_duvall.IoannouMonachou
 
 trMA.Ode6C1H.ode = misc_en_US_duvall.Ode6
 trMA.Ode6C1H.mode = misc_en_US_duvall.Mode8
-trMA.Ode6C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode6C1H.melody = he.h.m8_en_US_duvall.TonIonanEnToKitei.melody
 trMA.Ode6C1H.incipit = he.h.m8_en_US_duvall.TonIonanEnToKitei.incipit
 trMA.Ode6C1H.text = he.h.m8_en_US_duvall.TonIonanEnToKitei.text
 
@@ -912,7 +912,7 @@ trSY.lastline = ""
 
 trMA.Ode7C1H.ode = misc_en_US_duvall.Ode7
 trMA.Ode7C1H.mode = misc_en_US_duvall.Mode8
-trMA.Ode7C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode7C1H.melody = he.h.m8_en_US_duvall.PaidesEvraion.melody
 trMA.Ode7C1H.incipit = he.h.m8_en_US_duvall.PaidesEvraion.incipit
 trMA.Ode7C1H.text = he.h.m8_en_US_duvall.PaidesEvraion.text
 
@@ -954,7 +954,7 @@ trMA.Ode7K.text = he.h.m8_en_US_duvall.OiEkTisIoudaias.text
 
 trMA.Ode8C1H.ode = misc_en_US_duvall.Ode8
 trMA.Ode8C1H.mode = misc_en_US_duvall.Mode8
-trMA.Ode8C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode8C1H.melody = he.h.m8_en_US_duvall.MousikonOrganon.melody
 trMA.Ode8C1H.incipit = he.h.m8_en_US_duvall.MousikonOrganon.incipit
 trMA.Ode8C1H.text = he.h.m8_en_US_duvall.MousikonOrganon.text
 
@@ -996,7 +996,7 @@ trMA.Ode8K.text = he.h.m8_en_US_duvall.TonVasileaTonOuranon.text
 
 trMA.Ode9C1H.ode = misc_en_US_duvall.Ode9
 trMA.Ode9C1H.mode = misc_en_US_duvall.Mode8
-trMA.Ode9C1H.melody = misc_en_US_duvall.Heirmos
+trMA.Ode9C1H.melody = he.h.m8_en_US_duvall.TinAgninEndoxos.melody
 trMA.Ode9C1H.incipit = he.h.m8_en_US_duvall.TinAgninEndoxos.incipit
 trMA.Ode9C1H.text = he.h.m8_en_US_duvall.TinAgninEndoxos.text
 
