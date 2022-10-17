@@ -545,6 +545,8 @@ trMA.Lauds3.melody = misc_en_US_duvall.Idiomelon
 trMA.Lauds3.incipit = "Daniel the prophet, a man…"
 trMA.Lauds3.text = "Daniel the prophet, a man of goodly desires, considered God's authority, and cried out thus and said, \"The Judgment Seat was set up and books were opened.\" Look, my soul, are you fasting? Do not neglect your neighbor! Are you abstaining from food? Do not condemn your brother, lest you be sent to the fire that will burn you up as wax. But unimpeded, let Christ lead you into His kingdom."
 
+trMA.MM.Lauds12as45.text = properties_en_US_duvall.media.key
+
 trMA.LaudsGlory.mode = misc_en_US_duvall.Mode1
 trMA.LaudsGlory.melody = misc_en_US_duvall.Idiomelon
 trMA.LaudsGlory.incipit = "Let us first cleanse ourselves…"
