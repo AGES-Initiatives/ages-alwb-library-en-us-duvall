@@ -183,7 +183,7 @@ peMA.PostGospelIdiomelon.text = ""
 
 peMA.C1.acrostic.title = ""
 peMA.C1.poet = //poets_en_US_duvall.IoannouMonachou
-peMA.C1.title = //titles_en_US_duvall.KanonATisEortis
+peMA.C1.title = //titles_en_US_duvall.ti.Canon1Feast
 peMA.C1.verse = //prayers_en_US_duvall.verse_God.text
 
 peMA.C2.acrostic.title = ""
@@ -191,7 +191,7 @@ peMA.C2.acrostic.notice1 = ""
 peMA.C2.acrostic.text = ""
 peMA.C2.acrostic.notice2 = ""
 peMA.C2.poet = //poets_en_US_duvall.IosifThessalonikis
-peMA.C2.title = //titles_en_US_duvall.KanonBTisEortis
+peMA.C2.title = //titles_en_US_duvall.ti.Canon2Feast
 peMA.C2.verse = //prayers_en_US_duvall.verse_God.text
 
 peMA.Ode1C1H.ode = misc_en_US_duvall.Ode1
@@ -513,7 +513,7 @@ peMA.Kontakion1.text = he.a.m6_en_US_duvall.TinYperImon.text
 peMA.Oikos1.text = "Leaving things of earth upon the earth; consigning things of ash unto the mound; come, let us rouse ourselves, lift up eyes and thoughts, and to the heights ascend. Let our faces and our senses, mortals, likewise look to heaven's gates. Imagine us upon the mount called Olivet to gaze upon the Redeemer riding on a cloud. From there, the Lord went straightaway to the heavens. There, the Liberal One distributes gifts to His Apostles: as a father calling them, confirming them; directing them as sons; saying to them, \"I do not part from you. I am with you, and there is, therefore, none against you.\""
 
 peSY.commemoration.text = ""
-peSY.commemoration.couplet1.title = //titles_en_US_duvall.Stichoi
+peSY.commemoration.couplet1.title = //titles_en_US_duvall.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
 peSY.commemoration.couplet1.verse2 = ""
 peSY.commemoration.narration.p01 = ""

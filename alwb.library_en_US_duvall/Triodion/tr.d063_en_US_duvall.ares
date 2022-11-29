@@ -608,7 +608,7 @@ trMA.Ode1C1H.melody = he.h.m8_en_US_duvall.AsomenToKyrio.melody
 trMA.Ode1C1H.incipit = he.h.m8_en_US_duvall.AsomenToKyrio.incipit
 trMA.Ode1C1H.text = he.h.m8_en_US_duvall.AsomenToKyrio.text
 
-trMA.C1.title = //titles_en_US_duvall.Kanon1
+trMA.C1.title = //titles_en_US_duvall.ti.Canon1
 trMA.C1.verse = //prayers_en_US_duvall.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_duvall.Ode1
@@ -635,7 +635,7 @@ trMA.Ode1C14.melody = he.h.m8_en_US_duvall.AsomenToKyrio.name
 trMA.Ode1C14.incipit = "…"
 trMA.Ode1C14.text = ""
 
-trMA.C2.title = //titles_en_US_duvall.Kanon2
+trMA.C2.title = //titles_en_US_duvall.ti.Canon2
 trMA.C2.verse = //prayers_en_US_duvall.verse_God.text
 
 trMA.Ode1C21.ode = misc_en_US_duvall.Ode1
@@ -900,7 +900,7 @@ trMA.Kontakion1.text = ""
 trMA.Oikos1.text = "To Your disciples, O Creator of all Your declared, saying: \"Brothers and comrades, our friend has fallen asleep.\" Thus You foretold them and taught that You know all things as the Creator of all things. \"So, onward; let us go and see a strange burial, and behold Mary's lament and the tomb of Lazarus. For I shall work a miracle there, preluding the Cross, and granting divine remission unto all.\""
 
 trSY.commemoration.text = ""
-trSY.commemoration.couplet1.title = //titles_en_US_duvall.Stichoi
+trSY.commemoration.couplet1.title = //titles_en_US_duvall.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""

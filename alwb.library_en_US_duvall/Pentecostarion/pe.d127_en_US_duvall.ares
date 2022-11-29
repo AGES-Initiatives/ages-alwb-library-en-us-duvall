@@ -126,7 +126,7 @@ peMA.C1.acrostic.notice1 = ""
 peMA.C1.acrostic.text = ""
 peMA.C1.acrostic.notice2 = ""
 peMA.C1.poet = ""
-peMA.C1.title = //titles_en_US_duvall.KanonTonAgion
+peMA.C1.title = //titles_en_US_duvall.ti.CanonSaints
 peMA.C1.verse = //prayers_en_US_duvall.verse_SaintsM.text
 
 peMA.Ode1C11.ode = misc_en_US_duvall.Ode1
@@ -279,7 +279,7 @@ peMA.Kontakion1.text = he.a.m8_en_US_duvall.OsAparchas.text
 peMA.Oikos1.text = "Those who were martyred throughout the earth, and those who moved their homes to the heavens, the imitators of Christ's suffering, and those who remove from us our suffering, here today are gathered, shown to be the first fruits of the Church, having held it as the type of that above. And they cried out to Christ, \"You are my God; preserve me. This, through the Theotokos, as You are most merciful.\""
 
 peSY.commemoration.text = ""
-peSY.commemoration.couplet1.title = //titles_en_US_duvall.Stichoi
+peSY.commemoration.couplet1.title = //titles_en_US_duvall.ti.Verses
 peSY.commemoration.couplet1.verse1 = ""
 peSY.commemoration.couplet1.verse2 = ""
 peSY.commemoration.narration.p01 = ""

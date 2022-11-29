@@ -62,7 +62,7 @@ trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
 trMA.C1.poet = //poets_en_US_duvall.KyriouIosif
-trMA.C1.title = //titles_en_US_duvall.KanonTouTriodiou
+trMA.C1.title = //titles_en_US_duvall.ti.CanonTriodion
 trMA.C1.verse = //prayers_en_US_duvall.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_duvall.Ode1
@@ -203,7 +203,7 @@ trMA.Kontakion1.text = ""
 trMA.Oikos1.text = "Since our Savior teaches us each day by His familiar voice, let us listen to the Scriptures about the son who became prodigal and then returned to his senses, and in faith let us emulate his good repentance. With a humble heart let us cry out to God who observes all that is hidden, \"We have sinned against You, tender-loving Father, and we are no longer worthy to be called Your children as before. But inasmuch as You love humanity, receive me, I pray, and treat me as one of Your hired hands.\""
 
 trSY.commemoration.text = ""
-trSY.commemoration.couplet1.title = //titles_en_US_duvall.Stichoi
+trSY.commemoration.couplet1.title = //titles_en_US_duvall.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""

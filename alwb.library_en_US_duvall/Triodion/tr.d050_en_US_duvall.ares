@@ -67,7 +67,7 @@ trMA.PostGospelIdiomelon.text = tr.d001_en_US_duvall.trMA.PostGospelIdiomelon.te
 
 trMA.C2.poet = ""
 
-trMA.C1.title = //titles_en_US_duvall.KanonTouTriodiou
+trMA.C1.title = //titles_en_US_duvall.ti.CanonTriodion
 trMA.C1.verse = //prayers_en_US_duvall.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_duvall.Ode1
@@ -94,7 +94,7 @@ trMA.Ode1C1T.melody = he.h.m5_en_US_duvall.ToSotiriTheo.name
 trMA.Ode1C1T.incipit = "…"
 trMA.Ode1C1T.text = ""
 
-trMA.C2.title = //titles_en_US_duvall.KanonTouOsiou
+trMA.C2.title = //titles_en_US_duvall.ti.CanonDevoutM
 trMA.C2.verse = //prayers_en_US_duvall.verse_SaintM.text
 
 trMA.Ode1C21.ode = misc_en_US_duvall.Ode1
@@ -337,7 +337,7 @@ trMA.Oikos1.text = "You have rendered yourself God's true abode, O Father, by yo
 
 trSY.commemoration.text = ""
 trSY.commemoration.onotherday.text = ""
-trSY.commemoration.couplet1.title = //titles_en_US_duvall.Stichoi
+trSY.commemoration.couplet1.title = //titles_en_US_duvall.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.couplet2.verse1 = ""

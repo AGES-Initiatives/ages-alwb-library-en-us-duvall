@@ -78,7 +78,7 @@ trMA.PostGospelIdiomelon.incipit = tr.d001_en_US_duvall.trMA.PostGospelIdiomelon
 trMA.PostGospelIdiomelon.text = tr.d001_en_US_duvall.trMA.PostGospelIdiomelon.text
 
 trMA.C1.poet = //poets_en_US_duvall.TheodorouTouStouditou
-trMA.C1.title = //titles_en_US_duvall.KanonTouTriodiou
+trMA.C1.title = //titles_en_US_duvall.ti.CanonTriodion
 trMA.C1.verse = //prayers_en_US_duvall.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_duvall.Ode1
@@ -360,7 +360,7 @@ trMA.Kontakion1.text = "When You come down to the earth, O God, in Your glory, a
 trMA.Oikos1.text = "Considering well Your fearsome judgment, exceedingly good Lord, and the Judgment Day, I shudder and am frightened at the accusations of my conscience. When You are seated on Your throne and conduct the examination, no one can deny their sins, accused by the truth and possessed by terror. Great will be the sound of the Gehenna fire, then, and the gnashing of sinners. Therefore, have mercy on me before the end, and pity me, O You, the most righteous Judge."
 
 trSY.commemoration.text = ""
-trSY.commemoration.couplet1.title = //titles_en_US_duvall.Stichoi
+trSY.commemoration.couplet1.title = //titles_en_US_duvall.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""

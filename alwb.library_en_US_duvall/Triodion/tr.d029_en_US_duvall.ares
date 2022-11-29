@@ -136,7 +136,7 @@ trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
 trMA.C1.poet = //poets_en_US_duvall.KyriouTheofanous
-trMA.C1.title = //titles_en_US_duvall.KanonTouTriodiou
+trMA.C1.title = //titles_en_US_duvall.ti.CanonTriodion
 trMA.C1.verse = //prayers_en_US_duvall.verse_God.text
 
 trMA.Ode1C11.ode = misc_en_US_duvall.Ode1
@@ -306,7 +306,7 @@ trMA.Kontakion1.text = "The Father's uncircumscribed Word was circumscribed in t
 trMA.Oikos1.text = "This, the mystery of the plan of salvation - this present illumination - did the prophets foretell of old, with divine inspiration, to us who have come to the ages' termination. Receiving knowledge from Him, we know one Lord God, glory giv'n in three hypostases. And in giving Him our sole adoration, being one in Faith and Rite of Immersion, we are vested in Christ, and confessing our salvation, we depict it in word and deed."
 
 trSY.commemoration.text = ""
-trSY.commemoration.couplet1.title = //titles_en_US_duvall.Stichoi
+trSY.commemoration.couplet1.title = //titles_en_US_duvall.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""

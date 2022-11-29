@@ -302,7 +302,7 @@ trMA.Oikos1.text = "He who holds all things together is raised upon a Cross, And
 trMA.Oikos12.text = ""
 
 trSY.commemoration.text = ""
-trSY.commemoration.couplet1.title = //titles_en_US_duvall.Stichoi
+trSY.commemoration.couplet1.title = //titles_en_US_duvall.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""

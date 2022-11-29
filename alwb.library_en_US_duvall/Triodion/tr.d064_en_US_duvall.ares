@@ -204,7 +204,7 @@ trMA.C1.acrostic.title = ""
 trMA.C1.acrostic.notice1 = ""
 trMA.C1.acrostic.text = ""
 trMA.C1.poet = //poets_en_US_duvall.KosmaMonachou
-trMA.C1.title = //titles_en_US_duvall.KanonTisEortis
+trMA.C1.title = //titles_en_US_duvall.ti.CanonFeast
 trMA.C1.verse = //prayers_en_US_duvall.verse_God.text
 
 trMA.Ode1C1H.ode = misc_en_US_duvall.Ode1
@@ -316,7 +316,7 @@ trMA.Kontakion1.text = "In heaven upon the throne, on earth upon the colt, * You
 trMA.Oikos1.text = "Because You bound Hades, Immortal One, because You caused death to die and raised up the world, with palm-leaves did babes acclaim You, O Christ, as Victor, crying loud to You today, \"Hosanna to David's Son!\" They are saying, \"Never again shall infants be slaughtered because of the infant of Mary; for, for all, young and old, You alone are hung on a Cross. Never again shall the sword split us asunder, because Your own side was pierced with a lance. Therefore rejoicing, we say, 'Blessed are You, the One, who is coming to call Adam back again.'\""
 
 trSY.commemoration.text = ""
-trSY.commemoration.couplet1.title = //titles_en_US_duvall.Stichoi
+trSY.commemoration.couplet1.title = //titles_en_US_duvall.ti.Verses
 trSY.commemoration.couplet1.verse1 = ""
 trSY.commemoration.couplet1.verse2 = ""
 trSY.commemoration.narration.p01 = ""
