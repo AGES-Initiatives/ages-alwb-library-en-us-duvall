@@ -208,7 +208,7 @@ meMA.C1.acrostic.notice1 = ""
 meMA.C1.acrostic.text = ""
 meMA.C1.poet = //poets_en_US_duvall.KosmaMonachou
 meMA.C1.title = //titles_en_US_duvall.ti.CanonFeast
-meMA.C1.verse = //prayers_en_US_duvall.verse_God.text
+meMA.C1.verse = //prayers_en_US_duvall.pr.verse_God.text
 
 meMA.Ode1C1H.ode = misc_en_US_duvall.Ode1
 meMA.Ode1C1H.mode = misc_en_US_duvall.Mode3
