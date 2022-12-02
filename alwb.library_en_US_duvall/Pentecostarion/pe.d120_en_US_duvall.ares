@@ -108,17 +108,17 @@ peVE.Apolytikion1.incipit = "…"
 peVE.Apolytikion1.text = ""
 
 peMA.Kathisma11.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Kathisma11.melody = he.a.m4_en_US_duvall.KateplagiIosif.name
+peMA.Kathisma11.melody = he.a.m4_en_US_duvall.heAU.KateplagiIosif.name
 peMA.Kathisma11.incipit = "…"
 peMA.Kathisma11.text = ""
 
 peMA.Kathisma21.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Kathisma21.melody = he.a.m4_en_US_duvall.KateplagiIosif.name
+peMA.Kathisma21.melody = he.a.m4_en_US_duvall.heAU.KateplagiIosif.name
 peMA.Kathisma21.incipit = "…"
 peMA.Kathisma21.text = ""
 
 peMA.Kathisma31.mode = miscellanea_en_US_duvall.misc.Mode8
-peMA.Kathisma31.melody = he.a.m8_en_US_duvall.ToProstachthen.name
+peMA.Kathisma31.melody = he.a.m8_en_US_duvall.heAU.ToProstachthen.name
 peMA.Kathisma31.incipit = "…"
 peMA.Kathisma31.text = ""
 
@@ -149,42 +149,42 @@ peMA.C2.acrostic.line4.text = ""
 
 peMA.Ode1C1H.ode = miscellanea_en_US_duvall.misc.Ode1
 peMA.Ode1C1H.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode1C1H.melody = he.h.m7_en_US_duvall.PontoEkalypse.melody
-peMA.Ode1C1H.incipit = he.h.m7_en_US_duvall.PontoEkalypse.incipit
-peMA.Ode1C1H.text = he.h.m7_en_US_duvall.PontoEkalypse.text
+peMA.Ode1C1H.melody = he.h.m7_en_US_duvall.heHE.PontoEkalypse.melody
+peMA.Ode1C1H.incipit = he.h.m7_en_US_duvall.heHE.PontoEkalypse.incipit
+peMA.Ode1C1H.text = he.h.m7_en_US_duvall.heHE.PontoEkalypse.text
 
 peMA.C1.title = ""
 peMA.C1.verse = ""
 
 peMA.Ode1C11.ode = miscellanea_en_US_duvall.misc.Ode1
 peMA.Ode1C11.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode1C11.melody = he.h.m7_en_US_duvall.PontoEkalypse.name
+peMA.Ode1C11.melody = he.h.m7_en_US_duvall.heHE.PontoEkalypse.name
 peMA.Ode1C11.incipit = "…"
 peMA.Ode1C11.text = ""
 
 peMA.Ode1C12.ode = miscellanea_en_US_duvall.misc.Ode1
 peMA.Ode1C12.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode1C12.melody = he.h.m7_en_US_duvall.PontoEkalypse.name
+peMA.Ode1C12.melody = he.h.m7_en_US_duvall.heHE.PontoEkalypse.name
 peMA.Ode1C12.incipit = "…"
 peMA.Ode1C12.text = ""
 
 peMA.Ode1C2H.ode = miscellanea_en_US_duvall.misc.Ode1
 peMA.Ode1C2H.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode1C2H.melody = he.h.m4_en_US_duvall.TheioKalyftheis.melody
-peMA.Ode1C2H.incipit = he.h.m4_en_US_duvall.TheioKalyftheis.incipit
-peMA.Ode1C2H.text = he.h.m4_en_US_duvall.TheioKalyftheis.text
-peMA.Ode1C2H1.text = he.h.m4_en_US_duvall.TheioKalyftheis1.text
-peMA.Ode1C2H2.text = he.h.m4_en_US_duvall.TheioKalyftheis2.text
-peMA.Ode1C2H3.text = he.h.m4_en_US_duvall.TheioKalyftheis3.text
-peMA.Ode1C2H4.text = he.h.m4_en_US_duvall.TheioKalyftheis4.text
-peMA.Ode1C2H5.text = he.h.m4_en_US_duvall.TheioKalyftheis5.text
+peMA.Ode1C2H.melody = he.h.m4_en_US_duvall.heHE.TheioKalyftheis.melody
+peMA.Ode1C2H.incipit = he.h.m4_en_US_duvall.heHE.TheioKalyftheis.incipit
+peMA.Ode1C2H.text = he.h.m4_en_US_duvall.heHE.TheioKalyftheis.text
+peMA.Ode1C2H1.text = he.h.m4_en_US_duvall.heHE.TheioKalyftheis1.text
+peMA.Ode1C2H2.text = he.h.m4_en_US_duvall.heHE.TheioKalyftheis2.text
+peMA.Ode1C2H3.text = he.h.m4_en_US_duvall.heHE.TheioKalyftheis3.text
+peMA.Ode1C2H4.text = he.h.m4_en_US_duvall.heHE.TheioKalyftheis4.text
+peMA.Ode1C2H5.text = he.h.m4_en_US_duvall.heHE.TheioKalyftheis5.text
 
 peMA.C2.title = ""
 peMA.C2.verse = ""
 
 peMA.Ode1C21.ode = miscellanea_en_US_duvall.misc.Ode1
 peMA.Ode1C21.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode1C21.melody = he.h.m4_en_US_duvall.TheioKalyftheis.name
+peMA.Ode1C21.melody = he.h.m4_en_US_duvall.heHE.TheioKalyftheis.name
 peMA.Ode1C21.incipit = "…"
 peMA.Ode1C21.text = ""
 peMA.Ode1C211.text = ""
@@ -195,7 +195,7 @@ peMA.Ode1C215.text = ""
 
 peMA.Ode1C22.ode = miscellanea_en_US_duvall.misc.Ode1
 peMA.Ode1C22.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode1C22.melody = he.h.m4_en_US_duvall.TheioKalyftheis.name
+peMA.Ode1C22.melody = he.h.m4_en_US_duvall.heHE.TheioKalyftheis.name
 peMA.Ode1C22.incipit = "…"
 peMA.Ode1C22.text = ""
 peMA.Ode1C221.text = ""
@@ -206,30 +206,30 @@ peMA.Ode1C225.text = ""
 
 peMA.Ode3C1H.ode = miscellanea_en_US_duvall.misc.Ode3
 peMA.Ode3C1H.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode3C1H.melody = he.h.m7_en_US_duvall.TinExYpsousDynamin.melody
-peMA.Ode3C1H.incipit = he.h.m7_en_US_duvall.TinExYpsousDynamin.incipit
-peMA.Ode3C1H.text = he.h.m7_en_US_duvall.TinExYpsousDynamin.text
+peMA.Ode3C1H.melody = he.h.m7_en_US_duvall.heHE.TinExYpsousDynamin.melody
+peMA.Ode3C1H.incipit = he.h.m7_en_US_duvall.heHE.TinExYpsousDynamin.incipit
+peMA.Ode3C1H.text = he.h.m7_en_US_duvall.heHE.TinExYpsousDynamin.text
 
 peMA.Ode3C11.ode = miscellanea_en_US_duvall.misc.Ode3
 peMA.Ode3C11.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode3C11.melody = he.h.m7_en_US_duvall.TinExYpsousDynamin.name
+peMA.Ode3C11.melody = he.h.m7_en_US_duvall.heHE.TinExYpsousDynamin.name
 peMA.Ode3C11.incipit = "…"
 peMA.Ode3C11.text = ""
 
 peMA.Ode3C2H.ode = miscellanea_en_US_duvall.misc.Ode3
 peMA.Ode3C2H.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode3C2H.melody = he.h.m4_en_US_duvall.ErrixeGastros.melody
-peMA.Ode3C2H.incipit = he.h.m4_en_US_duvall.ErrixeGastros.incipit
-peMA.Ode3C2H.text = he.h.m4_en_US_duvall.ErrixeGastros.text
-peMA.Ode3C2H1.text = he.h.m4_en_US_duvall.ErrixeGastros1.text
-peMA.Ode3C2H2.text = he.h.m4_en_US_duvall.ErrixeGastros2.text
-peMA.Ode3C2H3.text = he.h.m4_en_US_duvall.ErrixeGastros3.text
-peMA.Ode3C2H4.text = he.h.m4_en_US_duvall.ErrixeGastros4.text
-peMA.Ode3C2H5.text = he.h.m4_en_US_duvall.ErrixeGastros5.text
+peMA.Ode3C2H.melody = he.h.m4_en_US_duvall.heHE.ErrixeGastros.melody
+peMA.Ode3C2H.incipit = he.h.m4_en_US_duvall.heHE.ErrixeGastros.incipit
+peMA.Ode3C2H.text = he.h.m4_en_US_duvall.heHE.ErrixeGastros.text
+peMA.Ode3C2H1.text = he.h.m4_en_US_duvall.heHE.ErrixeGastros1.text
+peMA.Ode3C2H2.text = he.h.m4_en_US_duvall.heHE.ErrixeGastros2.text
+peMA.Ode3C2H3.text = he.h.m4_en_US_duvall.heHE.ErrixeGastros3.text
+peMA.Ode3C2H4.text = he.h.m4_en_US_duvall.heHE.ErrixeGastros4.text
+peMA.Ode3C2H5.text = he.h.m4_en_US_duvall.heHE.ErrixeGastros5.text
 
 peMA.Ode3C21.ode = miscellanea_en_US_duvall.misc.Ode3
 peMA.Ode3C21.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode3C21.melody = he.h.m4_en_US_duvall.ErrixeGastros.name
+peMA.Ode3C21.melody = he.h.m4_en_US_duvall.heHE.ErrixeGastros.name
 peMA.Ode3C21.incipit = "…"
 peMA.Ode3C21.text = ""
 peMA.Ode3C211.text = ""
@@ -240,7 +240,7 @@ peMA.Ode3C215.text = ""
 
 peMA.Ode3C22.ode = miscellanea_en_US_duvall.misc.Ode3
 peMA.Ode3C22.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode3C22.melody = he.h.m4_en_US_duvall.ErrixeGastros.name
+peMA.Ode3C22.melody = he.h.m4_en_US_duvall.heHE.ErrixeGastros.name
 peMA.Ode3C22.incipit = "…"
 peMA.Ode3C22.text = ""
 peMA.Ode3C221.text = ""
@@ -250,42 +250,42 @@ peMA.Ode3C224.text = ""
 peMA.Ode3C225.text = ""
 
 peMA.Ode3Kathisma1.mode = miscellanea_en_US_duvall.misc.Mode8
-peMA.Ode3Kathisma1.melody = he.a.m8_en_US_duvall.ToProstachthen.name
+peMA.Ode3Kathisma1.melody = he.a.m8_en_US_duvall.heAU.ToProstachthen.name
 peMA.Ode3Kathisma1.incipit = "…"
 peMA.Ode3Kathisma1.text = ""
 
 peMA.Ode4C1H.ode = miscellanea_en_US_duvall.misc.Ode4
 peMA.Ode4C1H.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode4C1H.melody = he.h.m7_en_US_duvall.KatanoonOProfitis.melody
-peMA.Ode4C1H.incipit = he.h.m7_en_US_duvall.KatanoonOProfitis.incipit
-peMA.Ode4C1H.text = he.h.m7_en_US_duvall.KatanoonOProfitis.text
+peMA.Ode4C1H.melody = he.h.m7_en_US_duvall.heHE.KatanoonOProfitis.melody
+peMA.Ode4C1H.incipit = he.h.m7_en_US_duvall.heHE.KatanoonOProfitis.incipit
+peMA.Ode4C1H.text = he.h.m7_en_US_duvall.heHE.KatanoonOProfitis.text
 
 peMA.Ode4C11.ode = miscellanea_en_US_duvall.misc.Ode4
 peMA.Ode4C11.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode4C11.melody = he.h.m7_en_US_duvall.KatanoonOProfitis.name
+peMA.Ode4C11.melody = he.h.m7_en_US_duvall.heHE.KatanoonOProfitis.name
 peMA.Ode4C11.incipit = "…"
 peMA.Ode4C11.text = ""
 
 peMA.Ode4C12.ode = miscellanea_en_US_duvall.misc.Ode4
 peMA.Ode4C12.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode4C12.melody = he.h.m7_en_US_duvall.KatanoonOProfitis.name
+peMA.Ode4C12.melody = he.h.m7_en_US_duvall.heHE.KatanoonOProfitis.name
 peMA.Ode4C12.incipit = "…"
 peMA.Ode4C12.text = ""
 
 peMA.Ode4C2H.ode = miscellanea_en_US_duvall.misc.Ode4
 peMA.Ode4C2H.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode4C2H.melody = he.h.m4_en_US_duvall.AnaxAnakton.melody
-peMA.Ode4C2H.incipit = he.h.m4_en_US_duvall.AnaxAnakton.incipit
-peMA.Ode4C2H.text = he.h.m4_en_US_duvall.AnaxAnakton.text
-peMA.Ode4C2H1.text = he.h.m4_en_US_duvall.AnaxAnakton1.text
-peMA.Ode4C2H2.text = he.h.m4_en_US_duvall.AnaxAnakton2.text
-peMA.Ode4C2H3.text = he.h.m4_en_US_duvall.AnaxAnakton3.text
-peMA.Ode4C2H4.text = he.h.m4_en_US_duvall.AnaxAnakton4.text
-peMA.Ode4C2H5.text = he.h.m4_en_US_duvall.AnaxAnakton5.text
+peMA.Ode4C2H.melody = he.h.m4_en_US_duvall.heHE.AnaxAnakton.melody
+peMA.Ode4C2H.incipit = he.h.m4_en_US_duvall.heHE.AnaxAnakton.incipit
+peMA.Ode4C2H.text = he.h.m4_en_US_duvall.heHE.AnaxAnakton.text
+peMA.Ode4C2H1.text = he.h.m4_en_US_duvall.heHE.AnaxAnakton1.text
+peMA.Ode4C2H2.text = he.h.m4_en_US_duvall.heHE.AnaxAnakton2.text
+peMA.Ode4C2H3.text = he.h.m4_en_US_duvall.heHE.AnaxAnakton3.text
+peMA.Ode4C2H4.text = he.h.m4_en_US_duvall.heHE.AnaxAnakton4.text
+peMA.Ode4C2H5.text = he.h.m4_en_US_duvall.heHE.AnaxAnakton5.text
 
 peMA.Ode4C21.ode = miscellanea_en_US_duvall.misc.Ode4
 peMA.Ode4C21.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode4C21.melody = he.h.m4_en_US_duvall.AnaxAnakton.name
+peMA.Ode4C21.melody = he.h.m4_en_US_duvall.heHE.AnaxAnakton.name
 peMA.Ode4C21.incipit = "…"
 peMA.Ode4C21.text = ""
 peMA.Ode4C211.text = ""
@@ -296,7 +296,7 @@ peMA.Ode4C215.text = ""
 
 peMA.Ode4C22.ode = miscellanea_en_US_duvall.misc.Ode4
 peMA.Ode4C22.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode4C22.melody = he.h.m4_en_US_duvall.AnaxAnakton.name
+peMA.Ode4C22.melody = he.h.m4_en_US_duvall.heHE.AnaxAnakton.name
 peMA.Ode4C22.incipit = "…"
 peMA.Ode4C22.text = ""
 peMA.Ode4C221.text = ""
@@ -307,7 +307,7 @@ peMA.Ode4C225.text = ""
 
 peMA.Ode4C23.ode = miscellanea_en_US_duvall.misc.Ode4
 peMA.Ode4C23.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode4C23.melody = he.h.m4_en_US_duvall.AnaxAnakton.name
+peMA.Ode4C23.melody = he.h.m4_en_US_duvall.heHE.AnaxAnakton.name
 peMA.Ode4C23.text = ""  //added by SD
 peMA.Ode4C231.text = ""
 peMA.Ode4C232.text = ""
@@ -317,30 +317,30 @@ peMA.Ode4C235.text = ""
 
 peMA.Ode5C1H.ode = miscellanea_en_US_duvall.misc.Ode5
 peMA.Ode5C1H.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode5C1H.melody = he.h.m7_en_US_duvall.ToDiaTonFovonSou.melody
-peMA.Ode5C1H.incipit = he.h.m7_en_US_duvall.ToDiaTonFovonSou.incipit
-peMA.Ode5C1H.text = he.h.m7_en_US_duvall.ToDiaTonFovonSou.text
+peMA.Ode5C1H.melody = he.h.m7_en_US_duvall.heHE.ToDiaTonFovonSou.melody
+peMA.Ode5C1H.incipit = he.h.m7_en_US_duvall.heHE.ToDiaTonFovonSou.incipit
+peMA.Ode5C1H.text = he.h.m7_en_US_duvall.heHE.ToDiaTonFovonSou.text
 
 peMA.Ode5C11.ode = miscellanea_en_US_duvall.misc.Ode5
 peMA.Ode5C11.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode5C11.melody = he.h.m7_en_US_duvall.ToDiaTonFovonSou.name
+peMA.Ode5C11.melody = he.h.m7_en_US_duvall.heHE.ToDiaTonFovonSou.name
 peMA.Ode5C11.incipit = "…"
 peMA.Ode5C11.text = ""
 
 peMA.Ode5C2H.ode = miscellanea_en_US_duvall.misc.Ode5
 peMA.Ode5C2H.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode5C2H.melody = he.h.m4_en_US_duvall.LytirionKatharsin.melody
-peMA.Ode5C2H.incipit = he.h.m4_en_US_duvall.LytirionKatharsin.incipit
-peMA.Ode5C2H.text = he.h.m4_en_US_duvall.LytirionKatharsin.text
-peMA.Ode5C2H1.text = he.h.m4_en_US_duvall.LytirionKatharsin1.text
-peMA.Ode5C2H2.text = he.h.m4_en_US_duvall.LytirionKatharsin2.text
-peMA.Ode5C2H3.text = he.h.m4_en_US_duvall.LytirionKatharsin3.text
-peMA.Ode5C2H4.text = he.h.m4_en_US_duvall.LytirionKatharsin4.text
-peMA.Ode5C2H5.text = he.h.m4_en_US_duvall.LytirionKatharsin5.text
+peMA.Ode5C2H.melody = he.h.m4_en_US_duvall.heHE.LytirionKatharsin.melody
+peMA.Ode5C2H.incipit = he.h.m4_en_US_duvall.heHE.LytirionKatharsin.incipit
+peMA.Ode5C2H.text = he.h.m4_en_US_duvall.heHE.LytirionKatharsin.text
+peMA.Ode5C2H1.text = he.h.m4_en_US_duvall.heHE.LytirionKatharsin1.text
+peMA.Ode5C2H2.text = he.h.m4_en_US_duvall.heHE.LytirionKatharsin2.text
+peMA.Ode5C2H3.text = he.h.m4_en_US_duvall.heHE.LytirionKatharsin3.text
+peMA.Ode5C2H4.text = he.h.m4_en_US_duvall.heHE.LytirionKatharsin4.text
+peMA.Ode5C2H5.text = he.h.m4_en_US_duvall.heHE.LytirionKatharsin5.text
 
 peMA.Ode5C21.ode = miscellanea_en_US_duvall.misc.Ode5
 peMA.Ode5C21.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode5C21.melody = he.h.m4_en_US_duvall.LytirionKatharsin.name
+peMA.Ode5C21.melody = he.h.m4_en_US_duvall.heHE.LytirionKatharsin.name
 peMA.Ode5C21.incipit = "…"
 peMA.Ode5C21.text = ""
 peMA.Ode5C211.text = ""
@@ -351,7 +351,7 @@ peMA.Ode5C215.text = ""
 
 peMA.Ode5C22.ode = miscellanea_en_US_duvall.misc.Ode5
 peMA.Ode5C22.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode5C22.melody = he.h.m4_en_US_duvall.LytirionKatharsin.name
+peMA.Ode5C22.melody = he.h.m4_en_US_duvall.heHE.LytirionKatharsin.name
 peMA.Ode5C22.incipit = "…"
 peMA.Ode5C22.text = ""
 peMA.Ode5C221.text = ""
@@ -362,30 +362,30 @@ peMA.Ode5C225.text = ""
 
 peMA.Ode6C1H.ode = miscellanea_en_US_duvall.misc.Ode6
 peMA.Ode6C1H.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode6C1H.melody = he.h.m7_en_US_duvall.NaftionToSalo.melody
-peMA.Ode6C1H.incipit = he.h.m7_en_US_duvall.NaftionToSalo.incipit
-peMA.Ode6C1H.text = he.h.m7_en_US_duvall.NaftionToSalo.text
+peMA.Ode6C1H.melody = he.h.m7_en_US_duvall.heHE.NaftionToSalo.melody
+peMA.Ode6C1H.incipit = he.h.m7_en_US_duvall.heHE.NaftionToSalo.incipit
+peMA.Ode6C1H.text = he.h.m7_en_US_duvall.heHE.NaftionToSalo.text
 
 peMA.Ode6C11.ode = miscellanea_en_US_duvall.misc.Ode6
 peMA.Ode6C11.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode6C11.melody = he.h.m7_en_US_duvall.NaftionToSalo.name
+peMA.Ode6C11.melody = he.h.m7_en_US_duvall.heHE.NaftionToSalo.name
 peMA.Ode6C11.incipit = "…"
 peMA.Ode6C11.text = ""
 
 peMA.Ode6C2H.ode = miscellanea_en_US_duvall.misc.Ode6
 peMA.Ode6C2H.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode6C2H.melody = he.h.m4_en_US_duvall.IlasmosIminChriste.melody
-peMA.Ode6C2H.incipit = he.h.m4_en_US_duvall.IlasmosIminChriste.incipit
-peMA.Ode6C2H.text = he.h.m4_en_US_duvall.IlasmosIminChriste.text
-peMA.Ode6C2H1.text = he.h.m4_en_US_duvall.IlasmosIminChriste1.text
-peMA.Ode6C2H2.text = he.h.m4_en_US_duvall.IlasmosIminChriste2.text
-peMA.Ode6C2H3.text = he.h.m4_en_US_duvall.IlasmosIminChriste3.text
-peMA.Ode6C2H4.text = he.h.m4_en_US_duvall.IlasmosIminChriste4.text
-peMA.Ode6C2H5.text = he.h.m4_en_US_duvall.IlasmosIminChriste5.text
+peMA.Ode6C2H.melody = he.h.m4_en_US_duvall.heHE.IlasmosIminChriste.melody
+peMA.Ode6C2H.incipit = he.h.m4_en_US_duvall.heHE.IlasmosIminChriste.incipit
+peMA.Ode6C2H.text = he.h.m4_en_US_duvall.heHE.IlasmosIminChriste.text
+peMA.Ode6C2H1.text = he.h.m4_en_US_duvall.heHE.IlasmosIminChriste1.text
+peMA.Ode6C2H2.text = he.h.m4_en_US_duvall.heHE.IlasmosIminChriste2.text
+peMA.Ode6C2H3.text = he.h.m4_en_US_duvall.heHE.IlasmosIminChriste3.text
+peMA.Ode6C2H4.text = he.h.m4_en_US_duvall.heHE.IlasmosIminChriste4.text
+peMA.Ode6C2H5.text = he.h.m4_en_US_duvall.heHE.IlasmosIminChriste5.text
 
 peMA.Ode6C21.ode = miscellanea_en_US_duvall.misc.Ode6
 peMA.Ode6C21.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode6C21.melody = he.h.m4_en_US_duvall.IlasmosIminChriste.name
+peMA.Ode6C21.melody = he.h.m4_en_US_duvall.heHE.IlasmosIminChriste.name
 peMA.Ode6C21.incipit = "…"
 peMA.Ode6C21.text = ""
 peMA.Ode6C211.text = ""
@@ -396,7 +396,7 @@ peMA.Ode6C215.text = ""
 
 peMA.Ode6C22.ode = miscellanea_en_US_duvall.misc.Ode6
 peMA.Ode6C22.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode6C22.melody = he.h.m4_en_US_duvall.IlasmosIminChriste.name
+peMA.Ode6C22.melody = he.h.m4_en_US_duvall.heHE.IlasmosIminChriste.name
 peMA.Ode6C22.incipit = "…"
 peMA.Ode6C22.text = ""
 peMA.Ode6C221.text = ""
@@ -429,36 +429,36 @@ peSY.lastline = ""
 
 peMA.Ode7C1H.ode = miscellanea_en_US_duvall.misc.Ode7
 peMA.Ode7C1H.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode7C1H.melody = he.h.m7_en_US_duvall.OiEnKaminoTouPyros.melody
-peMA.Ode7C1H.incipit = he.h.m7_en_US_duvall.OiEnKaminoTouPyros.incipit
-peMA.Ode7C1H.text = he.h.m7_en_US_duvall.OiEnKaminoTouPyros.text
+peMA.Ode7C1H.melody = he.h.m7_en_US_duvall.heHE.OiEnKaminoTouPyros.melody
+peMA.Ode7C1H.incipit = he.h.m7_en_US_duvall.heHE.OiEnKaminoTouPyros.incipit
+peMA.Ode7C1H.text = he.h.m7_en_US_duvall.heHE.OiEnKaminoTouPyros.text
 
 peMA.Ode7C11.ode = miscellanea_en_US_duvall.misc.Ode7
 peMA.Ode7C11.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode7C11.melody = he.h.m7_en_US_duvall.OiEnKaminoTouPyros.name
+peMA.Ode7C11.melody = he.h.m7_en_US_duvall.heHE.OiEnKaminoTouPyros.name
 peMA.Ode7C11.incipit = "…"
 peMA.Ode7C11.text = ""
 
 peMA.Ode7C12.ode = miscellanea_en_US_duvall.misc.Ode7
 peMA.Ode7C12.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode7C12.melody = he.h.m7_en_US_duvall.OiEnKaminoTouPyros.name
+peMA.Ode7C12.melody = he.h.m7_en_US_duvall.heHE.OiEnKaminoTouPyros.name
 peMA.Ode7C12.incipit = "…"
 peMA.Ode7C12.text = ""
 
 peMA.Ode7C2H.ode = miscellanea_en_US_duvall.misc.Ode7
 peMA.Ode7C2H.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode7C2H.melody = he.h.m4_en_US_duvall.SymfononEthroisen.melody
-peMA.Ode7C2H.incipit = he.h.m4_en_US_duvall.SymfononEthroisen.incipit
-peMA.Ode7C2H.text = he.h.m4_en_US_duvall.SymfononEthroisen.text
-peMA.Ode7C2H1.text = he.h.m4_en_US_duvall.SymfononEthroisen1.text
-peMA.Ode7C2H2.text = he.h.m4_en_US_duvall.SymfononEthroisen2.text
-peMA.Ode7C2H3.text = he.h.m4_en_US_duvall.SymfononEthroisen3.text
-peMA.Ode7C2H4.text = he.h.m4_en_US_duvall.SymfononEthroisen4.text
-peMA.Ode7C2H5.text = he.h.m4_en_US_duvall.SymfononEthroisen5.text
+peMA.Ode7C2H.melody = he.h.m4_en_US_duvall.heHE.SymfononEthroisen.melody
+peMA.Ode7C2H.incipit = he.h.m4_en_US_duvall.heHE.SymfononEthroisen.incipit
+peMA.Ode7C2H.text = he.h.m4_en_US_duvall.heHE.SymfononEthroisen.text
+peMA.Ode7C2H1.text = he.h.m4_en_US_duvall.heHE.SymfononEthroisen1.text
+peMA.Ode7C2H2.text = he.h.m4_en_US_duvall.heHE.SymfononEthroisen2.text
+peMA.Ode7C2H3.text = he.h.m4_en_US_duvall.heHE.SymfononEthroisen3.text
+peMA.Ode7C2H4.text = he.h.m4_en_US_duvall.heHE.SymfononEthroisen4.text
+peMA.Ode7C2H5.text = he.h.m4_en_US_duvall.heHE.SymfononEthroisen5.text
 
 peMA.Ode7C21.ode = miscellanea_en_US_duvall.misc.Ode7
 peMA.Ode7C21.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode7C21.melody = he.h.m4_en_US_duvall.SymfononEthroisen.name
+peMA.Ode7C21.melody = he.h.m4_en_US_duvall.heHE.SymfononEthroisen.name
 peMA.Ode7C21.incipit = "…"
 peMA.Ode7C21.text = ""
 peMA.Ode7C211.text = ""
@@ -469,7 +469,7 @@ peMA.Ode7C215.text = ""
 
 peMA.Ode7C22.ode = miscellanea_en_US_duvall.misc.Ode7
 peMA.Ode7C22.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode7C22.melody = he.h.m4_en_US_duvall.SymfononEthroisen.name
+peMA.Ode7C22.melody = he.h.m4_en_US_duvall.heHE.SymfononEthroisen.name
 peMA.Ode7C22.incipit = "…"
 peMA.Ode7C22.text = ""
 peMA.Ode7C221.text = ""
@@ -480,7 +480,7 @@ peMA.Ode7C225.text = ""
 
 peMA.Ode7C23.ode = miscellanea_en_US_duvall.misc.Ode7
 peMA.Ode7C23.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode7C23.melody = he.h.m4_en_US_duvall.SymfononEthroisen.name
+peMA.Ode7C23.melody = he.h.m4_en_US_duvall.heHE.SymfononEthroisen.name
 peMA.Ode7C23.incipit = "…"
 peMA.Ode7C23.text = ""
 peMA.Ode7C231.text = ""
@@ -491,36 +491,36 @@ peMA.Ode7C235.text = ""
 
 peMA.Ode8C1H.ode = miscellanea_en_US_duvall.misc.Ode8
 peMA.Ode8C1H.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode8C1H.melody = he.h.m7_en_US_duvall.AflektosPyri.melody
-peMA.Ode8C1H.incipit = he.h.m7_en_US_duvall.AflektosPyri.incipit
-peMA.Ode8C1H.text = he.h.m7_en_US_duvall.AflektosPyri.text
+peMA.Ode8C1H.melody = he.h.m7_en_US_duvall.heHE.AflektosPyri.melody
+peMA.Ode8C1H.incipit = he.h.m7_en_US_duvall.heHE.AflektosPyri.incipit
+peMA.Ode8C1H.text = he.h.m7_en_US_duvall.heHE.AflektosPyri.text
 
 peMA.Ode8C11.ode = miscellanea_en_US_duvall.misc.Ode8
 peMA.Ode8C11.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode8C11.melody = he.h.m7_en_US_duvall.AflektosPyri.name
+peMA.Ode8C11.melody = he.h.m7_en_US_duvall.heHE.AflektosPyri.name
 peMA.Ode8C11.incipit = "…"
 peMA.Ode8C11.text = ""
 
 peMA.Ode8C12.ode = miscellanea_en_US_duvall.misc.Ode8
 peMA.Ode8C12.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode8C12.melody = he.h.m7_en_US_duvall.AflektosPyri.name
+peMA.Ode8C12.melody = he.h.m7_en_US_duvall.heHE.AflektosPyri.name
 peMA.Ode8C12.incipit = "…"
 peMA.Ode8C12.text = ""
 
 peMA.Ode8C2H.ode = miscellanea_en_US_duvall.misc.Ode8
 peMA.Ode8C2H.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode8C2H.melody = he.h.m4_en_US_duvall.LyeiTaDesma.melody
-peMA.Ode8C2H.incipit = he.h.m4_en_US_duvall.LyeiTaDesma.incipit
-peMA.Ode8C2H.text = he.h.m4_en_US_duvall.LyeiTaDesma.text
-peMA.Ode8C2H1.text = he.h.m4_en_US_duvall.LyeiTaDesma1.text
-peMA.Ode8C2H2.text = he.h.m4_en_US_duvall.LyeiTaDesma2.text
-peMA.Ode8C2H3.text = he.h.m4_en_US_duvall.LyeiTaDesma3.text
-peMA.Ode8C2H4.text = he.h.m4_en_US_duvall.LyeiTaDesma4.text
-peMA.Ode8C2H5.text = he.h.m4_en_US_duvall.LyeiTaDesma5.text
+peMA.Ode8C2H.melody = he.h.m4_en_US_duvall.heHE.LyeiTaDesma.melody
+peMA.Ode8C2H.incipit = he.h.m4_en_US_duvall.heHE.LyeiTaDesma.incipit
+peMA.Ode8C2H.text = he.h.m4_en_US_duvall.heHE.LyeiTaDesma.text
+peMA.Ode8C2H1.text = he.h.m4_en_US_duvall.heHE.LyeiTaDesma1.text
+peMA.Ode8C2H2.text = he.h.m4_en_US_duvall.heHE.LyeiTaDesma2.text
+peMA.Ode8C2H3.text = he.h.m4_en_US_duvall.heHE.LyeiTaDesma3.text
+peMA.Ode8C2H4.text = he.h.m4_en_US_duvall.heHE.LyeiTaDesma4.text
+peMA.Ode8C2H5.text = he.h.m4_en_US_duvall.heHE.LyeiTaDesma5.text
 
 peMA.Ode8C21.ode = miscellanea_en_US_duvall.misc.Ode8
 peMA.Ode8C21.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode8C21.melody = he.h.m4_en_US_duvall.LyeiTaDesma.name
+peMA.Ode8C21.melody = he.h.m4_en_US_duvall.heHE.LyeiTaDesma.name
 peMA.Ode8C21.incipit = "…"
 peMA.Ode8C21.text = ""
 peMA.Ode8C211.text = ""
@@ -531,7 +531,7 @@ peMA.Ode8C215.text = ""
 
 peMA.Ode8C22.ode = miscellanea_en_US_duvall.misc.Ode8
 peMA.Ode8C22.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode8C22.melody = he.h.m4_en_US_duvall.LyeiTaDesma.name
+peMA.Ode8C22.melody = he.h.m4_en_US_duvall.heHE.LyeiTaDesma.name
 peMA.Ode8C22.incipit = "…"
 peMA.Ode8C22.text = ""
 peMA.Ode8C221.text = ""
@@ -542,7 +542,7 @@ peMA.Ode8C225.text = ""
 
 peMA.Ode8C23.ode = miscellanea_en_US_duvall.misc.Ode8
 peMA.Ode8C23.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode8C23.melody = he.h.m4_en_US_duvall.LyeiTaDesma.name
+peMA.Ode8C23.melody = he.h.m4_en_US_duvall.heHE.LyeiTaDesma.name
 peMA.Ode8C23.incipit = "…"
 peMA.Ode8C23.text = ""
 peMA.Ode8C231.text = ""
@@ -553,36 +553,36 @@ peMA.Ode8C235.text = ""
 
 peMA.Ode9C1H.ode = miscellanea_en_US_duvall.misc.Ode9
 peMA.Ode9C1H.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode9C1H.melody = he.h.m7_en_US_duvall.MiTisFthoras.melody
-peMA.Ode9C1H.incipit = he.h.m7_en_US_duvall.MiTisFthoras.incipit
-peMA.Ode9C1H.text = he.h.m7_en_US_duvall.MiTisFthoras.text
+peMA.Ode9C1H.melody = he.h.m7_en_US_duvall.heHE.MiTisFthoras.melody
+peMA.Ode9C1H.incipit = he.h.m7_en_US_duvall.heHE.MiTisFthoras.incipit
+peMA.Ode9C1H.text = he.h.m7_en_US_duvall.heHE.MiTisFthoras.text
 
 peMA.Ode9C11.ode = miscellanea_en_US_duvall.misc.Ode9
 peMA.Ode9C11.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode9C11.melody = he.h.m7_en_US_duvall.MiTisFthoras.name
+peMA.Ode9C11.melody = he.h.m7_en_US_duvall.heHE.MiTisFthoras.name
 peMA.Ode9C11.incipit = "…"
 peMA.Ode9C11.text = ""
 
 peMA.Ode9C12.ode = miscellanea_en_US_duvall.misc.Ode9
 peMA.Ode9C12.mode = miscellanea_en_US_duvall.misc.Mode7
-peMA.Ode9C12.melody = he.h.m7_en_US_duvall.MiTisFthoras.name
+peMA.Ode9C12.melody = he.h.m7_en_US_duvall.heHE.MiTisFthoras.name
 peMA.Ode9C12.incipit = "…"
 peMA.Ode9C12.text = ""
 
 peMA.Ode9C2H.ode = miscellanea_en_US_duvall.misc.Ode9
 peMA.Ode9C2H.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode9C2H.melody = he.h.m4_en_US_duvall.ChairoisAnassa.melody
-peMA.Ode9C2H.incipit = he.h.m4_en_US_duvall.ChairoisAnassa.incipit
-peMA.Ode9C2H.text = he.h.m4_en_US_duvall.ChairoisAnassa.text
-peMA.Ode9C2H1.text = he.h.m4_en_US_duvall.ChairoisAnassa1.text
-peMA.Ode9C2H2.text = he.h.m4_en_US_duvall.ChairoisAnassa2.text
-peMA.Ode9C2H3.text = he.h.m4_en_US_duvall.ChairoisAnassa3.text
-peMA.Ode9C2H4.text = he.h.m4_en_US_duvall.ChairoisAnassa4.text
-peMA.Ode9C2H5.text = he.h.m4_en_US_duvall.ChairoisAnassa5.text
+peMA.Ode9C2H.melody = he.h.m4_en_US_duvall.heHE.ChairoisAnassa.melody
+peMA.Ode9C2H.incipit = he.h.m4_en_US_duvall.heHE.ChairoisAnassa.incipit
+peMA.Ode9C2H.text = he.h.m4_en_US_duvall.heHE.ChairoisAnassa.text
+peMA.Ode9C2H1.text = he.h.m4_en_US_duvall.heHE.ChairoisAnassa1.text
+peMA.Ode9C2H2.text = he.h.m4_en_US_duvall.heHE.ChairoisAnassa2.text
+peMA.Ode9C2H3.text = he.h.m4_en_US_duvall.heHE.ChairoisAnassa3.text
+peMA.Ode9C2H4.text = he.h.m4_en_US_duvall.heHE.ChairoisAnassa4.text
+peMA.Ode9C2H5.text = he.h.m4_en_US_duvall.heHE.ChairoisAnassa5.text
 
 peMA.Ode9C21.ode = miscellanea_en_US_duvall.misc.Ode9
 peMA.Ode9C21.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode9C21.melody = he.h.m4_en_US_duvall.ChairoisAnassa.name
+peMA.Ode9C21.melody = he.h.m4_en_US_duvall.heHE.ChairoisAnassa.name
 peMA.Ode9C21.incipit = "…"
 peMA.Ode9C21.text = ""
 peMA.Ode9C211.text = ""
@@ -593,7 +593,7 @@ peMA.Ode9C215.text = ""
 
 peMA.Ode9C22.ode = miscellanea_en_US_duvall.misc.Ode9
 peMA.Ode9C22.mode = miscellanea_en_US_duvall.misc.Mode4
-peMA.Ode9C22.melody = he.h.m4_en_US_duvall.ChairoisAnassa.name
+peMA.Ode9C22.melody = he.h.m4_en_US_duvall.heHE.ChairoisAnassa.name
 peMA.Ode9C22.incipit = "…"
 peMA.Ode9C22.text = ""
 peMA.Ode9C221.text = ""
@@ -603,12 +603,12 @@ peMA.Ode9C224.text = ""
 peMA.Ode9C225.text = ""
 
 peMA.Exaposteilarion1.mode = miscellanea_en_US_duvall.misc.Mode3
-peMA.Exaposteilarion1.melody = he.a.m3_en_US_duvall.OOuranonToisAstrois.name
+peMA.Exaposteilarion1.melody = he.a.m3_en_US_duvall.heAU.OOuranonToisAstrois.name
 peMA.Exaposteilarion1.incipit = "…"
 peMA.Exaposteilarion1.text = ""
 
 peMA.Exaposteilarion2.mode = miscellanea_en_US_duvall.misc.Mode3
-peMA.Exaposteilarion2.melody = he.a.m3_en_US_duvall.OOuranonToisAstrois.name
+peMA.Exaposteilarion2.melody = he.a.m3_en_US_duvall.heAU.OOuranonToisAstrois.name
 peMA.Exaposteilarion2.incipit = "…"
 peMA.Exaposteilarion2.text = ""
 
