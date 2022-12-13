@@ -247,7 +247,7 @@ ocMO.Kathisma21.incipit = "…"
 ocMO.Kathisma21.text = ""
 
 ocMO.Kathisma22.mode = miscellanea_en_US_duvall.misc.Mode7
-ocMO.Kathisma22.melody = miscellanea_en_US_duvall.misc.Automelon
+ocMO.Kathisma22.melody = he.a.m7_en_US_duvall.heAU.PyrosFoteinoteron.melody
 ocMO.Kathisma22.incipit = he.a.m7_en_US_duvall.heAU.PyrosFoteinoteron.incipit
 ocMO.Kathisma22.text = he.a.m7_en_US_duvall.heAU.PyrosFoteinoteron.text
 

@@ -130,11 +130,13 @@ meVE.Apolytikion2.incipit = "…"
 meVE.Apolytikion2.text = ""
 
 meMA.Kathisma11.mode = miscellanea_en_US_duvall.misc.Mode5
+meMA.Kathisma11.greekmelody = he.a.m5_en_US_duvall.heAU.TonSynanarchonLogon.greekname
 meMA.Kathisma11.melody = he.a.m5_en_US_duvall.heAU.TonSynanarchonLogon.name
 meMA.Kathisma11.incipit = "…"
 meMA.Kathisma11.text = ""
 
 meMA.Kathisma12.mode = miscellanea_en_US_duvall.misc.Mode1
+meMA.Kathisma12.greekmelody = he.a.m1_en_US_duvall.heAU.TonTafonSouSotir.greekname
 meMA.Kathisma12.melody = he.a.m1_en_US_duvall.heAU.TonTafonSouSotir.name
 meMA.Kathisma12.incipit = "…"
 meMA.Kathisma12.text = ""
@@ -145,21 +147,25 @@ meMA.Kathisma13.incipit = "…"
 meMA.Kathisma13.text = ""
 
 meMA.Kathisma21.mode = miscellanea_en_US_duvall.misc.Mode8
+meMA.Kathisma21.greekmelody = he.a.m8_en_US_duvall.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma21.melody = he.a.m8_en_US_duvall.heAU.TinSofianKaiLogon.name
 meMA.Kathisma21.incipit = "…"
 meMA.Kathisma21.text = ""
 
 meMA.Kathisma22.mode = miscellanea_en_US_duvall.misc.Mode4
+meMA.Kathisma22.greekmelody = he.a.m4_en_US_duvall.heAU.EpefanisSimeron.greekname
 meMA.Kathisma22.melody = he.a.m4_en_US_duvall.heAU.EpefanisSimeron.name
 meMA.Kathisma22.incipit = "…"
 meMA.Kathisma22.text = ""
 
 meMA.Kathisma31.mode = miscellanea_en_US_duvall.misc.Mode8
+meMA.Kathisma31.greekmelody = he.a.m8_en_US_duvall.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma31.melody = he.a.m8_en_US_duvall.heAU.TinSofianKaiLogon.name
 meMA.Kathisma31.incipit = "…"
 meMA.Kathisma31.text = ""
 
 meMA.Kathisma32.mode = miscellanea_en_US_duvall.misc.Mode8
+meMA.Kathisma32.greekmelody = he.a.m8_en_US_duvall.heAU.TinSofianKaiLogon.greekname
 meMA.Kathisma32.melody = he.a.m8_en_US_duvall.heAU.TinSofianKaiLogon.name
 meMA.Kathisma32.incipit = "…"
 meMA.Kathisma32.text = ""
@@ -304,16 +310,19 @@ meMA.Ode3C2T.incipit = "…"
 meMA.Ode3C2T.text = ""
 
 meMA.Ode3Kathisma1.mode = miscellanea_en_US_duvall.misc.Mode8
+meMA.Ode3Kathisma1.greekmelody = he.a.m8_en_US_duvall.heAU.TinSofianKaiLogon.greekname
 meMA.Ode3Kathisma1.melody = he.a.m8_en_US_duvall.heAU.TinSofianKaiLogon.name
 meMA.Ode3Kathisma1.incipit = "…"
 meMA.Ode3Kathisma1.text = ""
 
 meMA.Ode3Kathisma2.mode = miscellanea_en_US_duvall.misc.Mode3
+meMA.Ode3Kathisma2.greekmelody = he.a.m3_en_US_duvall.heAU.TheiasPisteos.greekname
 meMA.Ode3Kathisma2.melody = he.a.m3_en_US_duvall.heAU.TheiasPisteos.name
 meMA.Ode3Kathisma2.incipit = "…"
 meMA.Ode3Kathisma2.text = ""
 
 meMA.Ode3Kathisma3.mode = miscellanea_en_US_duvall.misc.Mode3
+meMA.Ode3Kathisma3.greekmelody = he.a.m3_en_US_duvall.heAU.IParthenosSimeron.greekname
 meMA.Ode3Kathisma3.melody = he.a.m3_en_US_duvall.heAU.IParthenosSimeron.name
 meMA.Ode3Kathisma3.incipit = "…"
 meMA.Ode3Kathisma3.text = ""

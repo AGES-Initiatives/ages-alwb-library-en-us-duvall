@@ -32,7 +32,7 @@ ocSV.Aposticha3.incipit = "…"
 ocSV.Aposticha3.text = ""
 
 ocSV.AposDogmatic.mode = miscellanea_en_US_duvall.misc.Mode1
-ocSV.AposDogmatic.melody = miscellanea_en_US_duvall.misc.Automelon
+ocSV.AposDogmatic.melody = he.a.m1_en_US_duvall.heAU.NefelinSeFotos.melody
 ocSV.AposDogmatic.incipit = he.a.m1_en_US_duvall.heAU.NefelinSeFotos.incipit
 ocSV.AposDogmatic.text = he.a.m1_en_US_duvall.heAU.NefelinSeFotos.text
 
@@ -110,7 +110,7 @@ ocVE.AposTheotokion.incipit = "…"
 ocVE.AposTheotokion.text = ""
 
 ocVE.Apolytikion.mode = miscellanea_en_US_duvall.misc.Mode1
-ocVE.Apolytikion.melody = miscellanea_en_US_duvall.misc.Automelon
+ocVE.Apolytikion.melody = he.a.m1_en_US_duvall.heAU.TouLithouSfragisthentos.melody
 ocVE.Apolytikion.incipit = he.a.m1_en_US_duvall.heAU.TouLithouSfragisthentos.incipit
 ocVE.Apolytikion.text = he.a.m1_en_US_duvall.heAU.TouLithouSfragisthentos.text
 
@@ -315,7 +315,7 @@ ocMO.Ode9T.text = ""
 ocMA.MM.GodIsTheLord.text = properties_en_US_duvall.media.key
 
 ocMA.Kathisma11.mode = miscellanea_en_US_duvall.misc.Mode1
-ocMA.Kathisma11.melody = miscellanea_en_US_duvall.misc.Automelon
+ocMA.Kathisma11.melody = he.a.m1_en_US_duvall.heAU.TonTafonSouSotir.melody
 ocMA.Kathisma11.incipit = he.a.m1_en_US_duvall.heAU.TonTafonSouSotir.incipit
 ocMA.Kathisma11.text = he.a.m1_en_US_duvall.heAU.TonTafonSouSotir.text
 
