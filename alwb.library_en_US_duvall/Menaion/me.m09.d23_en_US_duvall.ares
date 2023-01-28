@@ -73,6 +73,7 @@ meVE.AposTheotokion.incipit = "…"
 meVE.AposTheotokion.text = //he.o_en_US_duvall.heOT.TheotokeSyEiProdromou.text
 
 meVE.Apolytikion1.mode = miscellanea_en_US_duvall.misc.Mode4
+meVE.Apolytikion1.greekmelody = he.a.m4_en_US_duvall.heAU.TachyProkatalave.greekname
 meVE.Apolytikion1.melody = he.a.m4_en_US_duvall.heAU.TachyProkatalave.name
 meVE.Apolytikion1.incipit = "…"
 meVE.Apolytikion1.text = ""
