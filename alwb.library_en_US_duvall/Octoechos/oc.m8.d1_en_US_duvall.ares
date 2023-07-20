@@ -359,7 +359,8 @@ ocMA.Kathisma21.incipit = "…"
 ocMA.Kathisma21.text = ""
 
 ocMA.Kathisma22.mode = miscellanea_en_US_duvall.misc.Mode8
-ocMA.Kathisma22.melody = ""
+ocMA.Kathisma22.greekmelody = he.a.m8_en_US_duvall.heAU.AnestisEkNekron.greekname
+ocMA.Kathisma22.melody = he.a.m8_en_US_duvall.heAU.AnestisEkNekron.melody
 ocMA.Kathisma22.incipit = "…"
 ocMA.Kathisma22.text = ""
 
@@ -963,6 +964,7 @@ ocMA.MM.Lauds02.text = properties_en_US_duvall.media.key
 ocMA.MM.LaudsStichologia.text = ""
 
 ocMA.Lauds1.mode = miscellanea_en_US_duvall.misc.Mode8
+ocMA.Lauds1.greekmelody = he.a.m8_en_US_duvall.heAU.KyrieEiKaiKritirio.greekname
 ocMA.Lauds1.melody = he.a.m8_en_US_duvall.heAU.KyrieEiKaiKritirio.melody
 ocMA.Lauds1.incipit = he.a.m8_en_US_duvall.heAU.KyrieEiKaiKritirio.incipit
 ocMA.Lauds1.text = he.a.m8_en_US_duvall.heAU.KyrieEiKaiKritirio.text
@@ -973,11 +975,12 @@ ocMA.Lauds2.incipit = "…"
 ocMA.Lauds2.text = ""
 
 ocMA.Lauds3.mode = miscellanea_en_US_duvall.misc.Mode8
-ocMA.Lauds3.melody = ""
+ocMA.Lauds3.melody = he.a.m8_en_US_duvall.heAU.KyrieEiKaiKritirio.melody
 ocMA.Lauds3.incipit = "…"
 ocMA.Lauds3.text = ""
 
 ocMA.Lauds4.mode = miscellanea_en_US_duvall.misc.Mode8
+ocMA.Lauds4.greekmelody = he.a.m8_en_US_duvall.heAU.OAngelosSouKyrie.greekname
 ocMA.Lauds4.melody = he.a.m8_en_US_duvall.heAU.OAngelosSouKyrie.melody
 ocMA.Lauds4.incipit = he.a.m8_en_US_duvall.heAU.OAngelosSouKyrie.incipit
 ocMA.Lauds4.text = he.a.m8_en_US_duvall.heAU.OAngelosSouKyrie.text
