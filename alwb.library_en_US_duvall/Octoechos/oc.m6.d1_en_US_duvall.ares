@@ -1030,7 +1030,7 @@ ocMA.Lauds8.text = ""
 ocMA.ApolTheotokion.mode = miscellanea_en_US_duvall.misc.Mode6
 ocMA.ApolTheotokion.melody = ""
 ocMA.ApolTheotokion.incipit = "…"
-ocMA.ApolTheotokion.text = //ho.s03_en_US_duvall.hoMA.SunTroparion2.text
+ocMA.ApolTheotokion.text = //ho.ho03_en_US_duvall.hoMA.SunTroparion2.text
 
 ocLI.Beatitudes1.mode = miscellanea_en_US_duvall.misc.Mode6
 ocLI.Beatitudes1.melody = he.h.m6_en_US_duvall.heHE.IToChaireDiAngelou.name

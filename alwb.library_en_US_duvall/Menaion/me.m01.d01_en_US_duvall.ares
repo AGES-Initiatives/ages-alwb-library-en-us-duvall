@@ -181,12 +181,12 @@ meMA.MM.Prokeimenon.text = properties_en_US_duvall.media.key
 meMA.PostGospelGlory.mode = miscellanea_en_US_duvall.misc.Mode2
 meMA.PostGospelGlory.melody = ""
 meMA.PostGospelGlory.incipit = "…"
-meMA.PostGospelGlory.text = //ho.s03_en_US_duvall.hoMA.PostGospelHierarch.text
+meMA.PostGospelGlory.text = //ho.ho03_en_US_duvall.hoMA.PostGospelHierarch.text
 
 meMA.PostGospelBoth.mode = miscellanea_en_US_duvall.misc.Mode2
 meMA.PostGospelBoth.melody = ""
 meMA.PostGospelBoth.incipit = "…"
-meMA.PostGospelBoth.text = //ho.s03_en_US_duvall.hoMA.PostGospelTheotokos.text
+meMA.PostGospelBoth.text = //ho.ho03_en_US_duvall.hoMA.PostGospelTheotokos.text
 
 meMA.PostGospelIdiomelon.poet = //poets_en_US_duvall.Vyzantiou
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_duvall.misc.Mode6
