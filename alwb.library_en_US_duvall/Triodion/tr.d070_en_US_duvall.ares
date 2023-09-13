@@ -17,7 +17,6 @@ trVE.header = ""
 trEM.header = "" //for pdf evening Matins
 trDA.dismissal = //dismissals_en_US_duvall.dis00.holyfriday
 
-trHW.LIHC.text = properties_en_US_duvall.media.key
 
 trVE.Stichera01.mode = miscellanea_en_US_duvall.misc.Mode1
 trVE.Stichera01.melody = miscellanea_en_US_duvall.misc.Idiomelon
@@ -95,27 +94,26 @@ trVE.Apolytikion3.melody = ""
 trVE.Apolytikion3.incipit = "…"
 trVE.Apolytikion3.text = ""
 
-trHW.GITL.text = properties_en_US_duvall.media.key
 
-trHW.Encomia.title = ""
+trMA.Encomia.title = ""
 
-trHW.Encomia100.title = ""
-trHW.Encomia100.mode = miscellanea_en_US_duvall.misc.Mode5
+trMA.Encomia100.title = ""
+trMA.Encomia100.mode = miscellanea_en_US_duvall.misc.Mode5
 
-trHW.Encomia200.title = ""
-trHW.Encomia200.mode = miscellanea_en_US_duvall.misc.Mode5
+trMA.Encomia200.title = ""
+trMA.Encomia200.mode = miscellanea_en_US_duvall.misc.Mode5
 
-trHW.Encomia300.title = ""
-trHW.Encomia300.mode = miscellanea_en_US_duvall.misc.Mode3
+trMA.Encomia300.title = ""
+trMA.Encomia300.mode = miscellanea_en_US_duvall.misc.Mode3
 
 // Resurrectional Evlogetaria keys for media
-trHW.Evlogetaria1.text = //ho.ho03_en_US_duvall.hoMA.ResEvlog1.text
-trHW.Evlogetaria2.text = //ho.ho03_en_US_duvall.hoMA.ResEvlog2.text
-trHW.Evlogetaria3.text = //ho.ho03_en_US_duvall.hoMA.ResEvlog3.text
-trHW.Evlogetaria4.text = //ho.ho03_en_US_duvall.hoMA.ResEvlog4.text
-trHW.Evlogetaria5.text = //ho.ho03_en_US_duvall.hoMA.ResEvlog5.text
-trHW.Evlogetaria6.text = //ho.ho03_en_US_duvall.hoMA.ResEvlog6.text
-trHW.Evlogetaria7.text = //ho.ho03_en_US_duvall.hoMA.ResEvlog7.text
+trMA.MM.Evlogetaria1.text = properties_en_US_duvall.media.key
+trMA.MM.Evlogetaria2.text = properties_en_US_duvall.media.key
+trMA.MM.Evlogetaria3.text = properties_en_US_duvall.media.key
+trMA.MM.Evlogetaria4.text = properties_en_US_duvall.media.key
+trMA.MM.Evlogetaria5.text = properties_en_US_duvall.media.key
+trMA.MM.Evlogetaria6.text = properties_en_US_duvall.media.key
+trMA.MM.Evlogetaria7.text = properties_en_US_duvall.media.key
 
 trMA.Kathisma11.mode = miscellanea_en_US_duvall.misc.Mode1
 trMA.Kathisma11.greekmelody = he.a.m1_en_US_duvall.heAU.TonTafonSouSotir.greekname
@@ -435,7 +433,6 @@ trMA.Exaposteilarion1.mode = miscellanea_en_US_duvall.misc.Mode2
 trMA.Exaposteilarion1.melody = ""
 trMA.Exaposteilarion1.text = //ho.ho03_en_US_duvall.hoMA.SunExapVerse1.text
 
-trHW.Lauds01.text = properties_en_US_duvall.media.key
 
 trMA.Lauds1.mode = miscellanea_en_US_duvall.misc.Mode2
 trMA.Lauds1.melody = miscellanea_en_US_duvall.misc.Idiomelon
