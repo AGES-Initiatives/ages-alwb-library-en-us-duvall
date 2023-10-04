@@ -414,4 +414,4 @@ peLI.AfterCommunion.mode = miscellanea_en_US_duvall.misc.Mode4
 peLI.AfterCommunion.incipit = "…"
 peLI.AfterCommunion.text = //pe.d110_en_US_duvall.peVE.Apolytikion1.text
 
-peMegalynarion.text = ""
+peLI.Megalynarion.text = ""

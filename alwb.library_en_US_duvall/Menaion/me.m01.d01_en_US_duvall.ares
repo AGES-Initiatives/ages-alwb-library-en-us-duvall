@@ -741,8 +741,8 @@ meLI.AfterCommunion.text = meVE.Apolytikion2.text
 
 meLI.MM.CommunionHymn.text = properties_en_US_duvall.media.key
 
-meMegalynarion.incipit = "…"
-meMegalynarion.text = ""
+meLI.Megalynarion.incipit = "…"
+meLI.Megalynarion.text = ""
 
-meMegalynarion2.incipit = "…"
-meMegalynarion2.text = ""
+meLI.Megalynarion2.incipit = "…"
+meLI.Megalynarion2.text = ""
