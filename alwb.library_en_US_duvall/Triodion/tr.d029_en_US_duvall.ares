@@ -2,15 +2,15 @@ A_Resource_Whose_Name = tr.d029_en_US_duvall
 
 trMA.Kontakion1.mode = miscellanea_en_US_duvall.misc.Mode8
 trMA.Kontakion1.melody = miscellanea_en_US_duvall.misc.NotMetered
-trMA.Kontakion1.incipit = "The Father's uncircumscribed Word was…"
-trMA.Kontakion1.text = "The Father's uncircumscribed Word was circumscribed in taking flesh from you, O Theotokos. His image had been soiled, so He restored it to its primordial form, and in so doing combined it with divine beauty. And confessing our salvation, we depict it in word and deed."
+trMA.Kontakion1.incipit = "The Father’s uncircumscribed Word was…"
+trMA.Kontakion1.text = "The Father’s uncircumscribed Word was circumscribed in taking flesh from you, O Theotokos. His image had been soiled, so He restored it to its primordial form, and in so doing combined it with divine beauty. And confessing our salvation, we depict it in word and deed."
 
-trMA.Oikos1.text = "This, the mystery of the plan of salvation - this present illumination - did the prophets foretell of old, with divine inspiration, to us who have come to the ages' termination. Receiving knowledge from Him, we know one Lord God, glory giv'n in three hypostases. And in giving Him our sole adoration, being one in Faith and Rite of Immersion, we are vested in Christ, and confessing our salvation, we depict it in word and deed."
+trMA.Oikos1.text = "This, the mystery of the plan of salvation - this present illumination - did the prophets foretell of old, with divine inspiration, to us who have come to the ages’ termination. Receiving knowledge from Him, we know one Lord God, glory giv’n in three hypostases. And in giving Him our sole adoration, being one in Faith and Rite of Immersion, we are vested in Christ, and confessing our salvation, we depict it in word and deed."
 
 trMA.LaudsGlory.mode = miscellanea_en_US_duvall.misc.Mode6
 trMA.LaudsGlory.melody = ""
 trMA.LaudsGlory.incipit = "Moses, after a time of…"
-trMA.LaudsGlory.text = "Moses, after a time of self-control, received the law and won over the people. Elias, in fasting, caused the closing of the heavens; and the three youths, descendants of Abraham, by fasting overcame the law-breaking tyrant. Through fasting make us also worthy, O Savior, to arrive at Your Resurrection, as thus we cry aloud, \"Holy God, Holy Mighty, Holy Immortal, have mercy on us.\""
+trMA.LaudsGlory.text = "Moses, after a time of self-control, received the law and won over the people. Elias, in fasting, caused the closing of the heavens; and the three youths, descendants of Abraham, by fasting overcame the law-breaking tyrant. Through fasting make us also worthy, O Savior, to arrive at Your Resurrection, as thus we cry aloud, “Holy God, Holy Mighty, Holy Immortal, have mercy on us.”"
 
 trLI.Kontakion1.mode = trMA.Kontakion1.mode
 trLI.Kontakion1.melody = trMA.Kontakion1.melody

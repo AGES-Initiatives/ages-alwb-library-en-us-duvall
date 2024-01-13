@@ -3,7 +3,7 @@ A_Resource_Whose_Name = tr.d001_en_US_duvall
 trVE.Stichera01.mode = miscellanea_en_US_duvall.misc.Mode1
 trVE.Stichera01.melody = miscellanea_en_US_duvall.misc.Idiomelon
 trVE.Stichera01.incipit = "Brethren, let us not offer…"
-trVE.Stichera01.text = "Brethren, let us not offer prayer as did the Pharisee, for he who exalts himself will be brought to humility. Let us humble ourselves in the presence of God, as did the Publican, and through fasting cry to Him, \"God, be merciful to us sinners.\""
+trVE.Stichera01.text = "Brethren, let us not offer prayer as did the Pharisee, for he who exalts himself will be brought to humility. Let us humble ourselves in the presence of God, as did the Publican, and through fasting cry to Him, “God, be merciful to us sinners.”"
 
 trVE.Stichera02.mode = miscellanea_en_US_duvall.misc.Mode1
 trVE.Stichera02.melody = miscellanea_en_US_duvall.misc.Idiomelon
@@ -14,7 +14,7 @@ trVE.MM.Stichera12as56.text = properties_en_US_duvall.media.key
 trVE.MM.Stichera112as567.text = properties_en_US_duvall.media.key
 trVE.MM.Stichera112as8910.text = properties_en_US_duvall.media.key
 
-trMA.Oikos1.text = "Brethren, let us all garb ourselves in lowliness, and with laments and sighs strike at our conscience, that at the judgment then, which is in perpetuity, we shall be viewed guiltless, attaining our impunity. For there we have true mitigation; to see it, let us make supplication. For there is pain and sorrow's unseating, gone the deep sighs, there in wondrous Eden, of which Christ was fashioner, He being with the Father without beginning as God."
+trMA.Oikos1.text = "Brethren, let us all garb ourselves in lowliness, and with laments and sighs strike at our conscience, that at the judgment then, which is in perpetuity, we shall be viewed guiltless, attaining our impunity. For there we have true mitigation; to see it, let us make supplication. For there is pain and sorrow’s unseating, gone the deep sighs, there in wondrous Eden, of which Christ was fashioner, He being with the Father without beginning as God."
 
 trMA.Lauds1.mode = miscellanea_en_US_duvall.misc.Mode1
 trMA.Lauds1.melody = miscellanea_en_US_duvall.misc.Idiomelon
@@ -29,12 +29,12 @@ trMA.Lauds2.text = trVE.Stichera02.text
 trMA.Lauds3.mode = miscellanea_en_US_duvall.misc.Mode3
 trMA.Lauds3.melody = miscellanea_en_US_duvall.misc.Idiomelon
 trMA.Lauds3.incipit = "Recognizing the difference between the…"
-trMA.Lauds3.text = "Recognizing the difference between the Publican and the Pharisee, O my soul, hate the prideful voice of the one, yet emulate the contrite prayer of the other, and cry out, \"O God, be gracious to me, who have sinned, and have mercy on me.\""
+trMA.Lauds3.text = "Recognizing the difference between the Publican and the Pharisee, O my soul, hate the prideful voice of the one, yet emulate the contrite prayer of the other, and cry out, “O God, be gracious to me, who have sinned, and have mercy on me.”"
 
 trMA.Lauds4.mode = miscellanea_en_US_duvall.misc.Mode3
 trMA.Lauds4.melody = miscellanea_en_US_duvall.misc.Idiomelon
 trMA.Lauds4.incipit = "Loathing the vaunting voice of…"
-trMA.Lauds4.text = "Loathing the vaunting voice of the Pharisee, yet emulating the compunctious prayer of the Publican, let us not be haughty, O faithful, but rather humbling ourselves, with compunction let us cry, \"O God, have mercy and forgive our sins.\""
+trMA.Lauds4.text = "Loathing the vaunting voice of the Pharisee, yet emulating the compunctious prayer of the Publican, let us not be haughty, O faithful, but rather humbling ourselves, with compunction let us cry, “O God, have mercy and forgive our sins.”"
 
 trMA.MM.Lauds12as45.text = properties_en_US_duvall.media.key
 trMA.MM.Lauds123as345.text = properties_en_US_duvall.media.key

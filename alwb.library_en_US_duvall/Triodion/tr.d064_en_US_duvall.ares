@@ -3,14 +3,14 @@ A_Resource_Whose_Name = tr.d064_en_US_duvall
 trMA.Hypakoe.mode = miscellanea_en_US_duvall.misc.Mode6
 trMA.Hypakoe.melody = ""
 trMA.Hypakoe.incipit = "With branches they hymn Him…"
-trMA.Hypakoe.text = "With branches they hymn Him beforehand; with clubs they arrested Him afterwards, senseless Jews did such to Christ, even God. But we in faith full persistent, do ever honor Him as one beneficent, and for all time let us cry out to Him, \"Blessed is He, who comes that Adam be recalled.\""
+trMA.Hypakoe.text = "With branches they hymn Him beforehand; with clubs they arrested Him afterwards, senseless Jews did such to Christ, even God. But we in faith full persistent, do ever honor Him as one beneficent, and for all time let us cry out to Him, “Blessed is He, who comes that Adam be recalled.”"
 
 trMA.Kontakion1.mode = miscellanea_en_US_duvall.misc.Mode6
 trMA.Kontakion1.melody = miscellanea_en_US_duvall.misc.Automelon
 trMA.Kontakion1.incipit = "In heaven upon the throne…"
-trMA.Kontakion1.text = "In heaven upon the throne, on earth upon the colt, * You were carried, O Christ our God; * and the praise of the Angels, and the hymns of the children, You received as they cried to You, * \"Blessed are You, the One, who is coming to call Adam back again.\""
+trMA.Kontakion1.text = "In heaven upon the throne, on earth upon the colt, * You were carried, O Christ our God; * and the praise of the Angels, and the hymns of the children, You received as they cried to You, * “Blessed are You, the One, who is coming to call Adam back again.”"
 
-trMA.Oikos1.text = "Because You bound Hades, Immortal One, because You caused death to die and raised up the world, with palm-leaves did babes acclaim You, O Christ, as Victor, crying loud to You today, \"Hosanna to David's Son!\" They are saying, \"Never again shall infants be slaughtered because of the infant of Mary; for, for all, young and old, You alone are hung on a Cross. Never again shall the sword split us asunder, because Your own side was pierced with a lance. Therefore rejoicing, we say, 'Blessed are You, the One, who is coming to call Adam back again.'\""
+trMA.Oikos1.text = "Because You bound Hades, Immortal One, because You caused death to die and raised up the world, with palm-leaves did babes acclaim You, O Christ, as Victor, crying loud to You today, “Hosanna to David’s Son!” They are saying, “Never again shall infants be slaughtered because of the infant of Mary; for, for all, young and old, You alone are hung on a Cross. Never again shall the sword split us asunder, because Your own side was pierced with a lance. Therefore rejoicing, we say, ‘Blessed are You, the One, who is coming to call Adam back again.’”"
 
 trLI.Kontakion1.mode = trMA.Kontakion1.mode
 trLI.Kontakion1.melody = trMA.Kontakion1.melody

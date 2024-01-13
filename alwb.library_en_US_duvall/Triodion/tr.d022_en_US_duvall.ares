@@ -6,14 +6,14 @@ trMA.Kontakion1.incipit = "O guide to wisdom, provider…"
 trMA.Kontakion1.text = "O guide to wisdom, provider of prudence, disciplinarian of fools, and defender of the poor, fortify and discipline my heart, O Master; You, give me a word, O Word of the Father. For behold, I will not hinder my lips from crying to You: O merciful Lord, have mercy on me who have fallen."
 
 trMA.Oikos1.text = "In times of old did Adam sit and cry in sorrow opposite the delights he had in Paradise; his hands did upon his forehead strike, as he said this: O merciful Lord, have mercy on me who have fallen."
-trMA.Oikos12.text = "Beholding the angel thrusting him, and closing the holy garden's gate, Adam wailed mightily to state: O merciful Lord, have mercy on me who have fallen."
+trMA.Oikos12.text = "Beholding the angel thrusting him, and closing the holy garden’s gate, Adam wailed mightily to state: O merciful Lord, have mercy on me who have fallen."
 trMA.Oikos13.text = "O Paradise, now sympathize with your owner who was pauperized, and by the rustling of your leaves, beg the Maker not close you, please: O merciful Lord, have mercy on me who have fallen."
 trMA.Oikos14.text = "Paradise most excellent, most holy and most radiant, for Adam you were planted, because of Eve you were disbanded, beseech God for the fallen: O merciful Lord, have mercy on me who have fallen."
 
 trMA.Lauds1.mode = miscellanea_en_US_duvall.misc.Mode5
 trMA.Lauds1.melody = miscellanea_en_US_duvall.misc.Idiomelon
-trMA.Lauds1.incipit = "\"Woe is me!\" cried Adam…"
-trMA.Lauds1.text = "\"Woe is me!\" cried Adam in lament, \"that a serpent and a woman have deprived me of intimate communion with God; and eating from the tree has estranged me from the Paradise of delight. Woe is me, for I cannot bear the disgrace! Once the king of all God's creatures on the earth, I am now viewed as a hostage because of one piece of illicit advice; and though once vested with the glory of immortality, I, as mortal, carry about the skin of deadness lamentably. Woe is me! Which lamentation shall I enlist to collaborate with me? But You, Friend of man, who fashioned me from the earth, and who donned compassion; recall me from servitude to the enemy and save me.\""
+trMA.Lauds1.incipit = "“Woe is me!” cried Adam…"
+trMA.Lauds1.text = "“Woe is me!” cried Adam in lament, “that a serpent and a woman have deprived me of intimate communion with God; and eating from the tree has estranged me from the Paradise of delight. Woe is me, for I cannot bear the disgrace! Once the king of all God’s creatures on the earth, I am now viewed as a hostage because of one piece of illicit advice; and though once vested with the glory of immortality, I, as mortal, carry about the skin of deadness lamentably. Woe is me! Which lamentation shall I enlist to collaborate with me? But You, Friend of man, who fashioned me from the earth, and who donned compassion; recall me from servitude to the enemy and save me.”"
 
 trMA.Lauds2.mode = miscellanea_en_US_duvall.misc.Mode5
 trMA.Lauds2.melody = miscellanea_en_US_duvall.misc.Idiomelon
@@ -28,7 +28,7 @@ trMA.Lauds3.text = "Adam was evicted from Paradise as one disobedient, after par
 trMA.LaudsGlory.mode = miscellanea_en_US_duvall.misc.Mode6
 trMA.LaudsGlory.melody = miscellanea_en_US_duvall.misc.Idiomelon
 trMA.LaudsGlory.incipit = "The time has come -…"
-trMA.LaudsGlory.text = "The time has come - the start of our spiritual contests, the victory over demons, the full armor of self-control, the angels' dignity, the confidence before God. Thereby did Moses become conversant with the Creator, and heard the invisible voice. Lord, through fasting make us worthy to worship Your Passion and holy Resurrection, as You love humanity."
+trMA.LaudsGlory.text = "The time has come - the start of our spiritual contests, the victory over demons, the full armor of self-control, the angels’ dignity, the confidence before God. Thereby did Moses become conversant with the Creator, and heard the invisible voice. Lord, through fasting make us worthy to worship Your Passion and holy Resurrection, as You love humanity."
 
 trLI.Kontakion1.mode = trMA.Kontakion1.mode
 trLI.Kontakion1.melody = trMA.Kontakion1.melody

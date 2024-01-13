@@ -1,6 +1,6 @@
 A_Resource_Whose_Name = tr.d008_en_US_duvall
 
-trMA.Oikos1.text = "Since our Savior teaches us each day by His familiar voice, let us listen to the Scriptures about the son who became prodigal and then returned to his senses, and in faith let us emulate his good repentance. With a humble heart let us cry out to God who observes all that is hidden, \"We have sinned against You, tender-loving Father, and we are no longer worthy to be called Your children as before. But inasmuch as You love humanity, receive me, I pray, and treat me as one of Your hired hands.\""
+trMA.Oikos1.text = "Since our Savior teaches us each day by His familiar voice, let us listen to the Scriptures about the son who became prodigal and then returned to his senses, and in faith let us emulate his good repentance. With a humble heart let us cry out to God who observes all that is hidden, “We have sinned against You, tender-loving Father, and we are no longer worthy to be called Your children as before. But inasmuch as You love humanity, receive me, I pray, and treat me as one of Your hired hands.”"
 
 trMA.Lauds1.mode = miscellanea_en_US_duvall.misc.Mode2
 trMA.Lauds1.melody = miscellanea_en_US_duvall.misc.Idiomelon
@@ -15,11 +15,11 @@ trMA.Lauds2.text = "Like the Prodigal Son, I too, have come, O compassionate one
 trMA.Lauds3.mode = miscellanea_en_US_duvall.misc.Mode8
 trMA.Lauds3.melody = miscellanea_en_US_duvall.misc.Idiomelon
 trMA.Lauds3.incipit = "I exhausted the wealth of…"
-trMA.Lauds3.text = "I exhausted the wealth of my father's holdings, and have consumed them; I have become destitute, dwelling in the land of wicked citizens. No longer able to bear their company, I return and cry to You, the compassionate Father, \"I have sinned against heaven and before You, and I am not worthy to be called Your son. Treat me as one of Your hirelings, O God, and have mercy on me.\""
+trMA.Lauds3.text = "I exhausted the wealth of my father’s holdings, and have consumed them; I have become destitute, dwelling in the land of wicked citizens. No longer able to bear their company, I return and cry to You, the compassionate Father, “I have sinned against heaven and before You, and I am not worthy to be called Your son. Treat me as one of Your hirelings, O God, and have mercy on me.”"
 
 trMA.MM.Lauds12as45.text = properties_en_US_duvall.media.key
 
 trMA.LaudsGlory.mode = miscellanea_en_US_duvall.misc.Mode6
 trMA.LaudsGlory.melody = miscellanea_en_US_duvall.misc.Idiomelon
 trMA.LaudsGlory.incipit = "Good Father, I made myself…"
-trMA.LaudsGlory.text = "Good Father, I made myself distant from You; do not forsake me, nor show me to be useless in Your kingdom. The vile enemy has denuded me; he has taken my wealth. The gifts of my soul I have squandered with abandon. So, having arisen, once again I return to You and cry, \"Treat me as one of Your hirelings.\" For me You stretched out Your pure hands upon the cross to snatch me from the fearsome beast, and to vest me with that former dignified apparel, for You alone are great in mercy."
+trMA.LaudsGlory.text = "Good Father, I made myself distant from You; do not forsake me, nor show me to be useless in Your kingdom. The vile enemy has denuded me; he has taken my wealth. The gifts of my soul I have squandered with abandon. So, having arisen, once again I return to You and cry, “Treat me as one of Your hirelings.” For me You stretched out Your pure hands upon the cross to snatch me from the fearsome beast, and to vest me with that former dignified apparel, for You alone are great in mercy."

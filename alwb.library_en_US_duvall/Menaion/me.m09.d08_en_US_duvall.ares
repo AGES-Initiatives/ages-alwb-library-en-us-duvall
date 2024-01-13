@@ -2,8 +2,8 @@ A_Resource_Whose_Name = me.m09.d08_en_US_duvall
 
 meVE.Stichera02.mode = miscellanea_en_US_duvall.misc.Mode6
 meVE.Stichera02.melody = miscellanea_en_US_duvall.misc.Idiomelon
-meVE.Stichera02.incipit = "This is the Lord's Day…"
-meVE.Stichera02.text = "This is the Lord's Day, O people, be filled with gladness! Behold! The bridal chamber of the Light and the book of the Word of Life has come forth from the womb. The Temple Gate that faces east has been born, and she awaits the entry of the Great High Priest. She alone introduces the only Christ to the world, for the salvation of our souls."
+meVE.Stichera02.incipit = "This is the Lord’s Day…"
+meVE.Stichera02.text = "This is the Lord’s Day, O people, be filled with gladness! Behold! The bridal chamber of the Light and the book of the Word of Life has come forth from the womb. The Temple Gate that faces east has been born, and she awaits the entry of the Great High Priest. She alone introduces the only Christ to the world, for the salvation of our souls."
 
 meVE.Stichera04.poet = //poets_en_US_duvall.StefanouAgiopolitou
 meVE.Stichera04.mode = miscellanea_en_US_duvall.misc.Mode6
@@ -24,8 +24,8 @@ meVE.Aposticha1.text = me.m09.d07_en_US_duvall.meVE.AposGlory.text
 
 meVE.Aposticha2.mode = miscellanea_en_US_duvall.misc.Mode4
 meVE.Aposticha2.melody = miscellanea_en_US_duvall.misc.Idiomelon
-meVE.Aposticha2.incipit = "At an Angel's prediction…"
-meVE.Aposticha2.text = "At an Angel's prediction, a child all-holy of righteous Joachim and Anna, O Virgin, you came forth today; heaven and throne of God, vessel of cleanliness, foretoken of joy for all the world, envoy of our Life, destruction of the censure, proxy of blessings. Therefore, at your nativity, O Daughter called of God, plead for peace and great mercy for our souls."
+meVE.Aposticha2.incipit = "At an Angel’s prediction…"
+meVE.Aposticha2.text = "At an Angel’s prediction, a child all-holy of righteous Joachim and Anna, O Virgin, you came forth today; heaven and throne of God, vessel of cleanliness, foretoken of joy for all the world, envoy of our Life, destruction of the censure, proxy of blessings. Therefore, at your nativity, O Daughter called of God, plead for peace and great mercy for our souls."
 
 meVE.AposGlory.poet = //poets_en_US_duvall.SergiouAgiopolitou
 meVE.AposGlory.mode = miscellanea_en_US_duvall.misc.Mode8
@@ -42,7 +42,7 @@ meMA.PostGospelIdiomelon.text = me.m09.d07_en_US_duvall.meVE.AposGlory.text
 meMA.Kontakion1.mode = miscellanea_en_US_duvall.misc.Mode4
 meMA.Kontakion1.melody = ""
 meMA.Kontakion1.incipit = "Both Joachim and Anna…"
-meMA.Kontakion1.text = "Both Joachim and Anna from their sterility's stigma, and Adam and Eve from their mortality's ruin have been set free, O immaculate Maid, by your holy nativity. For this do your people hold celebration, redeemed from the guilt of transgression as they cry to you, \"The barren one bears the Theotokos, the nourisher of our Life.\""
+meMA.Kontakion1.text = "Both Joachim and Anna from their sterility’s stigma, and Adam and Eve from their mortality’s ruin have been set free, O immaculate Maid, by your holy nativity. For this do your people hold celebration, redeemed from the guilt of transgression as they cry to you, “The barren one bears the Theotokos, the nourisher of our Life.”"
 
 meMA.Oikos1.text = "The prayer with the sigh, sterile and barren, of Joachim and of Anna, was well-received in the ears of the Lord. It unbound them and they blossomed the fruit that brings life to the world. For while he on the mountain did offer a prayer, she in the garden the reproach did bear. But then with joy the barren one bears the Theotokos, the nourisher of our Life."
 

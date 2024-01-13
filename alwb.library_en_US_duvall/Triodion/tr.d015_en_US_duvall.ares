@@ -15,19 +15,19 @@ trMA.Lauds1.text = "I ponder that day and hour, when we all, naked and as convic
 trMA.Lauds2.mode = miscellanea_en_US_duvall.misc.Mode6
 trMA.Lauds2.melody = miscellanea_en_US_duvall.misc.Idiomelon
 trMA.Lauds2.incipit = "O what an hour and…"
-trMA.Lauds2.text = "O what an hour and fearful day shall that be, when the Judge shall sit upon His fearsome throne! Books will be opened, deeds will be checked, and the hidden works of darkness will be made public. Angels speed about, gathering all the nations. Come, hearken, kings and rulers, slaves and freemen, sinners and righteous, rich men and paupers, He is coming who is about to judge the whole world; and who shall bear His countenance, when angels are at hand to accuse your acts, your thoughts, your desires, be they of day or night? O what an hour that shall be! But before the end arrives, O soul, make haste to cry, \"O God, convert me, save me as You alone are compassionate.\""
+trMA.Lauds2.text = "O what an hour and fearful day shall that be, when the Judge shall sit upon His fearsome throne! Books will be opened, deeds will be checked, and the hidden works of darkness will be made public. Angels speed about, gathering all the nations. Come, hearken, kings and rulers, slaves and freemen, sinners and righteous, rich men and paupers, He is coming who is about to judge the whole world; and who shall bear His countenance, when angels are at hand to accuse your acts, your thoughts, your desires, be they of day or night? O what an hour that shall be! But before the end arrives, O soul, make haste to cry, “O God, convert me, save me as You alone are compassionate.”"
 
 trMA.Lauds3.mode = miscellanea_en_US_duvall.misc.Mode8
 trMA.Lauds3.melody = miscellanea_en_US_duvall.misc.Idiomelon
 trMA.Lauds3.incipit = "Daniel the prophet, a man…"
-trMA.Lauds3.text = "Daniel the prophet, a man of goodly desires, considered God's authority, and cried out thus and said, \"The Judgment Seat was set up and books were opened.\" Look, my soul, are you fasting? Do not neglect your neighbor! Are you abstaining from food? Do not condemn your brother, lest you be sent to the fire that will burn you up as wax. But unimpeded, let Christ lead you into His kingdom."
+trMA.Lauds3.text = "Daniel the prophet, a man of goodly desires, considered God’s authority, and cried out thus and said, “The Judgment Seat was set up and books were opened.” Look, my soul, are you fasting? Do not neglect your neighbor! Are you abstaining from food? Do not condemn your brother, lest you be sent to the fire that will burn you up as wax. But unimpeded, let Christ lead you into His kingdom."
 
 trMA.MM.Lauds12as45.text = properties_en_US_duvall.media.key
 
 trMA.LaudsGlory.mode = miscellanea_en_US_duvall.misc.Mode1
 trMA.LaudsGlory.melody = miscellanea_en_US_duvall.misc.Idiomelon
 trMA.LaudsGlory.incipit = "Let us first cleanse ourselves…"
-trMA.LaudsGlory.text = "Let us first cleanse ourselves, O brethren, by the queen of virtues, for behold, she is here, providing us with a wealth of blessings! She suppresses our swelling passions, and reconciles offenders with the Master. Therefore, let us welcome her with a cheerful heart, crying out to Christ our God, \"You who rose from the dead, keep us uncondemned as we glorify You, the only sinless One.\""
+trMA.LaudsGlory.text = "Let us first cleanse ourselves, O brethren, by the queen of virtues, for behold, she is here, providing us with a wealth of blessings! She suppresses our swelling passions, and reconciles offenders with the Master. Therefore, let us welcome her with a cheerful heart, crying out to Christ our God, “You who rose from the dead, keep us uncondemned as we glorify You, the only sinless One.”"
 
 trLI.Kontakion1.mode = trMA.Kontakion1.mode
 trLI.Kontakion1.melody = trMA.Kontakion1.melody
