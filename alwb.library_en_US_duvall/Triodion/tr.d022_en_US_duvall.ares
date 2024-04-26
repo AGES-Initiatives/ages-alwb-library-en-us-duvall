@@ -30,7 +30,7 @@ trMA.LaudsGlory.melody = miscellanea_en_US_duvall.misc.Idiomelon
 trMA.LaudsGlory.incipit = "The time has come -…"
 trMA.LaudsGlory.text = "The time has come - the start of our spiritual contests, the victory over demons, the full armor of self-control, the angels’ dignity, the confidence before God. Thereby did Moses become conversant with the Creator, and heard the invisible voice. Lord, through fasting make us worthy to worship Your Passion and holy Resurrection, as You love humanity."
 
-trLI.Kontakion1.mode = trMA.Kontakion1.mode
-trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
-trLI.Kontakion1.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = tr.d022_en_US_duvall.trMA.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d022_en_US_duvall.trMA.Kontakion1.melody
+trLI.Kontakion1.incipit = tr.d022_en_US_duvall.trMA.Kontakion1.incipit
+trLI.Kontakion1.text = tr.d022_en_US_duvall.trMA.Kontakion1.text

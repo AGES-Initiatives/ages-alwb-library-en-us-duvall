@@ -29,7 +29,7 @@ trMA.LaudsGlory.melody = miscellanea_en_US_duvall.misc.Idiomelon
 trMA.LaudsGlory.incipit = "Let us first cleanse ourselves…"
 trMA.LaudsGlory.text = "Let us first cleanse ourselves, O brethren, by the queen of virtues, for behold, she is here, providing us with a wealth of blessings! She suppresses our swelling passions, and reconciles offenders with the Master. Therefore, let us welcome her with a cheerful heart, crying out to Christ our God, “You who rose from the dead, keep us uncondemned as we glorify You, the only sinless One.”"
 
-trLI.Kontakion1.mode = trMA.Kontakion1.mode
-trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
-trLI.Kontakion1.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = tr.d015_en_US_duvall.trMA.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d015_en_US_duvall.trMA.Kontakion1.melody
+trLI.Kontakion1.incipit = tr.d015_en_US_duvall.trMA.Kontakion1.incipit
+trLI.Kontakion1.text = tr.d015_en_US_duvall.trMA.Kontakion1.text

@@ -9,8 +9,8 @@ meVE.SticGlory.text = "Let the gate of heaven open today. For the Father’s beg
 meMA.PostGospelIdiomelon.poet = "" //poets_en_US_duvall.IoannouMonachou
 meMA.PostGospelIdiomelon.mode = miscellanea_en_US_duvall.misc.Mode6
 meMA.PostGospelIdiomelon.melody = ""
-meMA.PostGospelIdiomelon.incipit = meVE.SticGlory.incipit
-meMA.PostGospelIdiomelon.text = meVE.SticGlory.text
+meMA.PostGospelIdiomelon.incipit = me.m02.d02_en_US_duvall.meVE.SticGlory.incipit
+meMA.PostGospelIdiomelon.text = me.m02.d02_en_US_duvall.meVE.SticGlory.text
 
 meMA.Oikos1.text = "To the Theotokos let us run, who desire to look upon her Son, being led to Symeon, and whom the angels in heaven above, scrutinizing in amazement aver, “Wondrous paradoxes we now ponder, inconceivable! inexpressible! He, who fashioned Adam, is held as a babe. He, the uncontainable, is by the Elder embraced. He, the uncircumscript in the bosom of His Father, is willingly delimited by flesh, not divinity, the only one who loves humanity.”"
 
@@ -48,7 +48,7 @@ meMA.Ode9C1MTh.incipit = "…"
 meMA.Ode9C1MTh.text = "Theotokos, as the hope * of us Christians, one and all, * guard and shelter and protect * those who put their hope in you."
 
 meLI.TheotokosHymn.mode = miscellanea_en_US_duvall.misc.Mode3
-meLI.TheotokosHymnVerse.incipit = meMA.Ode9C1MTh.incipit
-meLI.TheotokosHymnVerse.text = meMA.Ode9C1MTh.text
+meLI.TheotokosHymnVerse.incipit = me.m02.d02_en_US_duvall.meMA.Ode9C1MTh.incipit
+meLI.TheotokosHymnVerse.text = me.m02.d02_en_US_duvall.meMA.Ode9C1MTh.text
 meLI.TheotokosHymn.incipit = he.h.m3_en_US_duvall.heHE.EnNomoSkia.incipit
 meLI.TheotokosHymn.text = he.h.m3_en_US_duvall.heHE.EnNomoSkia.text

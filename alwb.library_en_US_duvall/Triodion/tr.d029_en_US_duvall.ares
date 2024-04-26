@@ -12,7 +12,7 @@ trMA.LaudsGlory.melody = ""
 trMA.LaudsGlory.incipit = "Moses, after a time of…"
 trMA.LaudsGlory.text = "Moses, after a time of self-control, received the law and won over the people. Elias, in fasting, caused the closing of the heavens; and the three youths, descendants of Abraham, by fasting overcame the law-breaking tyrant. Through fasting make us also worthy, O Savior, to arrive at Your Resurrection, as thus we cry aloud, “Holy God, Holy Mighty, Holy Immortal, have mercy on us.”"
 
-trLI.Kontakion1.mode = trMA.Kontakion1.mode
-trLI.Kontakion1.melody = trMA.Kontakion1.melody
-trLI.Kontakion1.incipit = trMA.Kontakion1.incipit
-trLI.Kontakion1.text = trMA.Kontakion1.text
+trLI.Kontakion1.mode = tr.d029_en_US_duvall.trMA.Kontakion1.mode
+trLI.Kontakion1.melody = tr.d029_en_US_duvall.trMA.Kontakion1.melody
+trLI.Kontakion1.incipit = tr.d029_en_US_duvall.trMA.Kontakion1.incipit
+trLI.Kontakion1.text = tr.d029_en_US_duvall.trMA.Kontakion1.text
