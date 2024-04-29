@@ -48,11 +48,11 @@ meMA.Oikos1.text = "The prayer with the sigh, sterile and barren, of Joachim and
 
 meMA.LaudsGlory.mode = miscellanea_en_US_duvall.misc.Mode6
 meMA.LaudsGlory.melody = ""
-meMA.LaudsGlory.incipit = meVE.Stichera02.incipit
-meMA.LaudsGlory.text = meVE.Stichera02.text
+meMA.LaudsGlory.incipit = me.m09.d08_en_US_duvall.meVE.Stichera02.incipit
+meMA.LaudsGlory.text = me.m09.d08_en_US_duvall.meVE.Stichera02.text
 
-meLI.Kontakion1.mode = meMA.Kontakion1.mode
-meLI.Kontakion1.melody = meMA.Kontakion1.melody
-meLI.Kontakion1.incipit = meMA.Kontakion1.incipit
-meLI.Kontakion1.text = meMA.Kontakion1.text
+meLI.Kontakion1.mode = me.m09.d08_en_US_duvall.meMA.Kontakion1.mode
+meLI.Kontakion1.melody = me.m09.d08_en_US_duvall.meMA.Kontakion1.melody
+meLI.Kontakion1.incipit = me.m09.d08_en_US_duvall.meMA.Kontakion1.incipit
+meLI.Kontakion1.text = me.m09.d08_en_US_duvall.meMA.Kontakion1.text
 
