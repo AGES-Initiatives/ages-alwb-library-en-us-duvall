@@ -12,6 +12,7 @@ meDA.insert1 = "" // for use in petitions and dismissal
 meDA.insert2 = "whose memory we celebrate;" // for use in petitions and dismissal
 meDA.note = ""
 meDA.pdfcoverdate = ""
+meDA.pdfdatebefore = ""
 meDA.pdfheaderdate = ""
 meDA.fordate = ""
 meLE.commemoration1 = "The Beheading of the Honorable Head of the Holy and Glorious Forerunner John the Baptist."
