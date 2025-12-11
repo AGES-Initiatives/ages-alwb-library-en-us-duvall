@@ -5,3 +5,8 @@ alt1.meVE.SticBoth.mode = miscellanea_en_US_duvall.misc.Mode6
 alt1.meVE.SticBoth.melody = ""
 alt1.meVE.SticBoth.incipit = me.m02.d02_en_US_duvall.meVE.SticGlory.incipit
 alt1.meVE.SticBoth.text = me.m02.d02_en_US_duvall.meVE.SticGlory.text
+
+alt2.meVE.SticBoth.mode = miscellanea_en_US_duvall.misc.Mode6
+alt2.meVE.SticBoth.melody = ""
+alt2.meVE.SticBoth.incipit = me.m02.d02_en_US_duvall.meVE.SticGlory.incipit
+alt2.meVE.SticBoth.text = me.m02.d02_en_US_duvall.meVE.SticGlory.text
